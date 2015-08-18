@@ -1,0 +1,11 @@
+{
+  "support-ios": {
+    "message": "iOS Support"
+  },
+  "support-android": {
+    "message": "Android Support"
+  },
+  "bookmark": {
+    "message": "from the makers of"
+  }
+}

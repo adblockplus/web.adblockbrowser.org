@@ -1,0 +1,86 @@
+{#
+ # This file is part of the Adblock Plus website,
+ # Copyright (C) 2006-2015 Eyeo GmbH
+ #
+ # Adblock Plus is free software: you can redistribute it and/or modify
+ # it under the terms of the GNU General Public License version 3 as
+ # published by the Free Software Foundation.
+ #
+ # Adblock Plus is distributed in the hope that it will be useful,
+ # but WITHOUT ANY WARRANTY; without even the implied warranty of
+ # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ # GNU General Public License for more details.
+ #
+ # You should have received a copy of the GNU General Public License
+ # along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+ #}
+
+<!DOCTYPE html>
+<html lang="{{locale}}" dir="{{"rtl" if config.has_option("rtl", locale) else "ltr"}}">
+  <head>
+    <title>{{title|translate("title")}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/main.css" type="text/css" media="all">
+    {% block head %}
+    {{head|safe}}
+    {% endblock %}
+    <!--[if lt IE 8]>
+      <script src="/js/html5shiv.min.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+      <script src="/js/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header>
+      <div class="content-block">
+        <div>
+          <a href="/" id="logo">
+            <img src="/images/adblock-browser-logo.png" alt="Adblock Browser logo" />
+          </a>
+          <a href="#" id="hamburger">
+            <img src="/images/hamburger.png" alt="navigation" />
+          </a>
+        </div>
+        <nav>
+          <ul>
+            <li>
+              <a href="https://adblockplus.org/redirect?link=adblock_browser_ios_support">{{get_string("support-ios", "header")}}</a>
+            </li>
+            <li>
+              <a href="https://adblockplus.org/redirect?link=adblock_browser_android_support">{{get_string("support-android", "header")}}</a>
+            </li>
+          </ul>
+        </nav>
+        <a href="https://adblockplus.org/" id="bookmark">
+          <span>{{get_string("bookmark", "header")}}</span>
+          <img src="/images/abp-grey-logo.png" alt="Adblock Plus grey logo" />
+        </a>
+      </div>
+    </header>
+    <div id="content-wrapper">
+      <div id="content" class="content-block">
+        {{body|safe}}
+      </div>
+    </div>
+    <footer>
+      <div class="content-block">
+        <p>
+        © 2015 <a href="https://eyeo.com/">Eyeo GmbH</a>  /  Adblock Browser™ and <a href="https://adblockplus.org/">Adblock Plus™</a> are registered trademarks of Eyeo GmbH
+        </p>
+        <select id="language">
+          {% for lang in available_locales %}
+            {% set locale_link = source.resolve_link(page, lang)[1] %}
+            {% set language_name = config.get("langnames", lang) %}
+            {% if locale == lang %}
+            <option selected="selected" value="{{locale_link}}">{{language_name}}</option>
+            {% else %}
+            <option value="{{locale_link}}">{{language_name}}</option>
+            {% endif %}
+          {% endfor %}
+        </select>
+      </div>
+    </footer>
+    <script src="/js/main.js"></script>
+  </body>
+</html>
