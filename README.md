@@ -1,4 +1,4 @@
-# adblockbrowser.org web content #
+# adblockbrowser.org web content
 
 The web content of the adblockbrowser.org website is generated
 automatically from the files in this repository. For more information and usage

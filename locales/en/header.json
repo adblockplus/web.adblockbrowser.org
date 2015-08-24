@@ -7,5 +7,14 @@
   },
   "bookmark": {
     "message": "from the makers of"
+  },
+  "abb-logo-alt": {
+    "message": "Adblock Browser logo"
+  },
+  "hamburger-image-alt": {
+    "message": "navigation"
+  },
+  "abp-logo-alt": {
+    "message": "Adblock Plus logo"
   }
 }

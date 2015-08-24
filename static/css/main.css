@@ -51,7 +51,7 @@ header a
   text-decoration: none;
 }
 
-header .content-block > div
+header .content-block > div, nav
 {
   display: inline-block;
   vertical-align: bottom;
@@ -84,7 +84,7 @@ nav a:hover
   border-color: #727272;
 }
 
-#logo, #bookmark, nav
+#logo, #bookmark
 {
   display: inline-block;
 }
@@ -92,7 +92,6 @@ nav a:hover
 #logo img
 {
   width: 192px;
-  display: block; /* fix for image gap */
 }
 
 #logo
@@ -119,13 +118,7 @@ html[dir="rtl"] #bookmark
 {
   color: #afafaf;
   font-size: 13px;
-  padding-right: 8px;
-}
-
-html[dir="rtl"] #bookmark span
-{
-  padding-right: 0px;
-  padding-left: 8px;
+  padding: 0px 8px;
 }
 
 #bookmark img
@@ -199,10 +192,11 @@ html[dir="rtl"] #promo-image
   color: #139dd1;
 }
 
-#email-me
+#content #email-me
 {
   display: block;
   padding-bottom: 17px;
+  margin: 0px;
 }
 
 #content #badges
@@ -238,7 +232,7 @@ html[dir="rtl"] #badges a:not(:first-child)
   margin-right: 10px;
 }
 
-#disclaimer
+#footnotes
 {
   margin-top: 48px;
   padding-top: 13px;
@@ -248,34 +242,44 @@ html[dir="rtl"] #badges a:not(:first-child)
   line-height: 16px;
 }
 
-#disclaimer ul
+#footnotes ul
 {
+  position: relative;
   margin: 0px;
   padding: 0px;
 }
 
-#disclaimer li
+#footnotes li
 {
   list-style: none;
+  margin-left: 20px;
 }
 
-#disclaimer li span
+#footnotes li::before
 {
   display: table-cell;
+  position: absolute;
+  left: 0px;
 }
 
-#disclaimer li:before
+html[dir="rtl"] #footnotes li
 {
-  display: table-cell;
-  width: 20px;
+  margin-left: 0px;
+  margin-right: 20px;
 }
 
-#disclaimer li:nth-child(1):before
+html[dir="rtl"] #footnotes li::before
+{
+  right: 0px;
+  left: auto;
+}
+
+#footnotes li:nth-child(1)::before
 {
   content: "*";
 }
 
-#disclaimer li:nth-child(2):before
+#footnotes li:nth-child(2)::before
 {
   content: "**";
 }
@@ -309,7 +313,7 @@ footer a
 
 @media (max-width: 700px)
 {
-  #promo-image, #bookmark, #email-me
+  #promo-image, #bookmark, #content #email-me
   {
     display: none;
   }
@@ -341,6 +345,11 @@ footer a
     display: none;
   }
 
+  nav a
+  {
+    border: none;
+  }
+
   #logo
   {
     padding: 34px 0px 17px 0px;
@@ -364,8 +373,6 @@ footer a
     position: absolute;
     top: 40px;
     right: 0px;
-    height: 27px;
-    width: 29px;
     display: block;
   }
 
@@ -373,18 +380,6 @@ footer a
   {
     right: auto;
     left: 0px;
-  }
-
-  #hamburger img
-  {
-    height: inherit;
-    width: inherit;
-  }
-
-  html[dir="rtl"] #hamburger img
-  {
-    right: auto;
-    left: 40px;
   }
 
   nav
@@ -438,7 +433,7 @@ footer a
     padding: 34px 0px 68px 0px;
   }
 
-  #disclaimer
+  #footnotes
   {
     margin-top: 34px;
   }

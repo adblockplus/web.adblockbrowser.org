@@ -19,15 +19,10 @@
 <html lang="{{locale}}" dir="{{"rtl" if config.has_option("rtl", locale) else "ltr"}}">
   <head>
     <title>{{title|translate("title")}}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/main.css" type="text/css" media="all">
-    {% block head %}
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/css/main.css" type="text/css" media="all" />
     {{head|safe}}
-    {% endblock %}
-    <!--[if lt IE 8]>
-      <script src="/js/html5shiv.min.js"></script>
-    <![endif]-->
-    <!--[if lt IE 9]>
+    <!--[if lt lte 9]>
       <script src="/js/html5shiv.min.js"></script>
     <![endif]-->
   </head>
@@ -36,13 +31,13 @@
       <div class="content-block">
         <div>
           <a href="/" id="logo">
-            <img src="/images/adblock-browser-logo.png" alt="Adblock Browser logo" />
+            <img src="/images/adblock-browser-logo.png" alt="{{get_string("abb-logo-alt", "header")}}" />
           </a>
           <a href="#" id="hamburger">
-            <img src="/images/hamburger.png" alt="navigation" />
+            <img src="/images/hamburger.png" alt="{{get_string("hamburger-image-alt", "header")}}" />
           </a>
         </div>
-        <nav>
+        <nav class="closed">
           <ul>
             <li>
               <a href="https://adblockplus.org/redirect?link=adblock_browser_ios_support">{{get_string("support-ios", "header")}}</a>
@@ -54,7 +49,7 @@
         </nav>
         <a href="https://adblockplus.org/" id="bookmark">
           <span>{{get_string("bookmark", "header")}}</span>
-          <img src="/images/abp-grey-logo.png" alt="Adblock Plus grey logo" />
+          <img src="/images/abp-grey-logo.png" alt="{{get_string("abp-logo-alt", "header")}}" />
         </a>
       </div>
     </header>
@@ -70,13 +65,11 @@
         </p>
         <select id="language">
           {% for lang in available_locales %}
-            {% set locale_link = source.resolve_link(page, lang)[1] %}
-            {% set language_name = config.get("langnames", lang) %}
-            {% if locale == lang %}
-            <option selected="selected" value="{{locale_link}}">{{language_name}}</option>
-            {% else %}
-            <option value="{{locale_link}}">{{language_name}}</option>
-            {% endif %}
+            <option 
+              {% if locale == lang %}selected="selected"{% endif %}
+              value="{{source.resolve_link(page, lang)[1]}}">
+              {{config.get("langnames", lang)}}
+            </option>
           {% endfor %}
         </select>
       </div>
