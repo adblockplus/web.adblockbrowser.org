@@ -1,20 +1,26 @@
 {
   "support-ios": {
-    "message": "iOS Support"
+    "message": "iOS Support",
+    "description": "Navigation button text in the header"
   },
   "support-android": {
-    "message": "Android Support"
+    "message": "Android Support",
+    "description": "Navigation button text in the header"
   },
   "bookmark": {
-    "message": "from the makers of"
+    "message": "from the makers of",
+    "description": "Text next to Adblock Plus grey logo in the header"
   },
   "abb-logo-alt": {
-    "message": "Adblock Browser logo"
+    "message": "Adblock Browser logo",
+    "description": "Alternative text of Adblock Browser logo in the header"
   },
   "hamburger-image-alt": {
-    "message": "navigation"
+    "message": "navigation",
+    "description": "Alternative text of hamburger menu"
   },
   "abp-logo-alt": {
-    "message": "Adblock Plus logo"
+    "message": "Adblock Plus logo",
+    "description": "Alternative text of Adblock Plus grey logo"
   }
 }
