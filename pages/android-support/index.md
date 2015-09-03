@@ -1,6 +1,6 @@
 title=Android support
 
-* [{{install Installing Adblock Browser for iOS}}](android-support/install)
+* [{{install Installing Adblock Browser for Android}}](android-support/install)
 * [{{adding-filter-list Adding a filter list}}](android-support/adding-filter-list)
 * [{{removing-filter-list Removing a filter list}}](android-support/removing-filter-list)
 * [{{acceptable-ads-config Configuring Acceptable Ads}}](android-support/acceptable-ads-config)
