@@ -199,7 +199,7 @@ html[dir="rtl"] #promo-image
   margin: 17px 0px;
 }
 
-#content a
+#content a, #modal a, #form-success
 {
   color: #139dd1;
 }
@@ -249,6 +249,10 @@ html[dir="rtl"] #badges a:not(:first-child)
   margin-top: 48px;
   padding-top: 13px;
   border-top: 1px solid #cccccc;
+}
+
+#footnotes, #privacy
+{
   color: #727272;
   font-size: 13px;
   line-height: 16px;
@@ -321,6 +325,130 @@ footer a
 {
   display: block;
   margin-bottom: 34px;
+}
+
+#modal
+{
+  padding: 17px 34px;
+  margin: auto;
+  background-color: #ffffff;
+  position: fixed;
+  top: 200px;
+  left: 0px;
+  right: 0px;
+  width: 800px;
+  z-index: 2;
+}
+
+#overlay
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+#modal-close
+{
+  display: block;
+  width: 17px;
+  height: 17px;
+  background-image: url("/images/close-icon.png");
+  position: absolute;
+  right: 17px;
+}
+
+html[dir="rtl"] #modal-close
+{
+  left: 17px;
+  right: auto;
+}
+
+#modal-close:hover
+{
+  opacity: 0.6;
+}
+
+#modal-close:active
+{
+  opacity: 0.8;
+}
+
+#form-success, #form-invalid, #form-error
+{
+  display: none;
+}
+
+.success #form-success, .invalid #form-invalid, .error #form-error
+{
+  display: block;
+}
+
+#modal, #overlay
+{
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: visibility 150ms linear, opacity 150ms linear;
+  transition: visibility 150ms linear, opacity 150ms linear;
+}
+
+.modal #modal, .modal #overlay
+{
+  visibility: visible;
+  opacity: 1;
+}
+
+#modal > *
+{
+  margin-bottom: 17px;
+}
+
+#modal h1
+{
+  margin-top: 51px;
+  font-size: 38px;
+  font-weight: 300;
+}
+
+#modal p 
+{
+  margin-top: 0px;
+}
+
+#request-links input
+{
+  height: 34px;
+  width: 500px;
+  border: 1px solid #afafaf;
+  padding: 0px 8px;
+  color: #727272;
+}
+
+#request-links button
+{
+  height: 36px;
+  color: #ffffff;
+  background-color: #139dd1;
+  border: none;
+  cursor: pointer;
+  padding: 0px 20px;
+  font-size: 18px;
+  margin: 0px 9px;
+}
+
+#form-invalid, #form-error
+{
+  color: #ff0000;
+}
+
+#request-links button:hover
+{
+  -moz-box-shadow: 0px 0px 5px #5D5D5D;
+  -webkit-box-shadow: 0px 0px 5px #5D5D5D;
+  box-shadow: 0px 0px 5px #5D5D5D;
 }
 
 @media (max-width: 700px)

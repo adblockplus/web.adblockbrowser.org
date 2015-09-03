@@ -77,6 +77,14 @@
         </select>
       </div>
     </footer>
+    {% if page == "index" %}
+      <div id="overlay">
+        <div id="modal">
+          <a href="#" id="modal-close"></a>
+          <? include modal ?>
+        </div>
+      </div>
+    {% endif %}
     <script src="/js/main.js"></script>
   </body>
 </html>

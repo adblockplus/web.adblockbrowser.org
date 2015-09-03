@@ -5,7 +5,7 @@
 [![{{appstore-badge-alt Get it on the App Store}}](images/badge-appstore.png)](https://adblockplus.org/redirect?link=adblock_browser_ios_store){: #appstore }
 {: #badges }
 
-[{{email-me Email me the download link}}]()
+[{{email-me Email me the download link}}](#)
 {: #email-me }
 
 {{promotion-msg The [most popular ad blocker](https://adblockplus.org) for desktop browsers is now available for your Android\* and iOS\*\* devices.}}
