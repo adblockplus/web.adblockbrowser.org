@@ -9,4 +9,4 @@ title=Disabling tracking, malware domains, social media buttons and anti-adblock
     * {{social-media-buttons["Social Media Buttons" option name and it's description] <strong>Social Media Buttons</strong> - Disables buttons used to create profiles based on your browsing habits.}}
     * {{anti-adblocking-messsages["Anti-Ad blocking Messages" option name and it's description] <strong>Anti-Ad blocking Messages</strong> - Disables anti-ad blocker scripts.}}
 
-![{{ios-moreblocking-visual-alt[More blocking visual alternative text] Android hamburger menu icon}}](images/ios-moreblocking-visual.png)
+![{{ios-moreblocking-visual-alt[More blocking visual alternative text] More blocking options visual}}](images/ios-moreblocking-visual.png)

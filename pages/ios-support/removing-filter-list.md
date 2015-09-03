@@ -5,4 +5,4 @@ title=Removing a filter list
 * {{ad-blocking[Navigation to Ad blocking section instruction] Below <em>Blocking</em>, tap <strong>Ad blocking</strong>.}}
 * {{remove-filter-list[Filter list removal instruction] Select the <strong>filter list</strong> you would like to remove below <em>Active For Websites In...</em>}}
 
-![{{ios-removefilter-visual-alt[Removing filter list visual alternative text] Android hamburger menu icon}}](images/ios-removefilter-visual.png)
+![{{ios-removefilter-visual-alt[Removing filter list visual alternative text] Removing a filter list visual}}](images/ios-removefilter-visual.png)

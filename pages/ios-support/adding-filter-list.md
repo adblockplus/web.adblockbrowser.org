@@ -7,4 +7,4 @@ title=Adding a filter list
 * {{adblocking-below-blocking[Navigation to Ad blocking section instruction] Below <em>Blocking</em>, tap <strong>Ad blocking</strong>.}}
 * {{filter-list-selection[Filter list subscription instruction] Select the <em>filter list</em> you would like to subscribe to below <strong>Other Languages</strong>.}}
 
-![{{ios-addfilter-visual-alt[Add filter visual alternative text] Android hamburger menu icon}}](images/ios-addfilter-visual.png)
+![{{ios-addfilter-visual-alt[Add filter visual alternative text] Adding a filter list visual}}](images/ios-addfilter-visual.png)
