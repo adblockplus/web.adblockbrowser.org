@@ -40,10 +40,10 @@
         <nav class="closed">
           <ul>
             <li>
-              <a href="https://adblockplus.org/redirect?link=adblock_browser_ios_support">{{get_string("support-ios", "header")}}</a>
+              <a href="ios-support">{{get_string("support-ios", "header")}}</a>
             </li>
             <li>
-              <a href="https://adblockplus.org/redirect?link=adblock_browser_android_support">{{get_string("support-android", "header")}}</a>
+              <a href="android-support">{{get_string("support-android", "header")}}</a>
             </li>
           </ul>
         </nav>
@@ -55,6 +55,9 @@
     </header>
     <div id="content-wrapper">
       <div id="content" class="content-block">
+        {% if not noheading %}
+        <h1>{{title|translate("title")}}</h1>
+        {% endif %}
         {{body|safe}}
       </div>
     </div>

@@ -162,6 +162,18 @@ html[dir="rtl"] #bookmark
   margin-top: 0px;
 }
 
+.note
+{
+  padding: 10px;
+  border: 1px solid #27AAE1;
+  border-radius: 5px;
+}
+
+#content .note h1
+{
+  margin: 0px;
+}
+
 #promo-image-mobile
 {
   display: none;
