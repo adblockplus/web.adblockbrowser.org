@@ -1,0 +1,69 @@
+{
+  "many-permissions-question":{
+    "message":"Adblock Browser for Android にかなり多くのアクセス許可が必要な理由は何ですか。",
+    "description":"Many permissions questions"
+  },
+  "many-permissions-answer":{
+    "message":"一般的に、ブラウザでカメラやマイクなど（カメラから画像をアップロードするなど）のハードウェア機能を Web アプリケーションで使用できるようにするには、普通のアプリよりも多くのアクセス許可が必要とされます。Adblock Browser は Firefox に基づいているため、Firefox での同じ行為に対するアクセス許可とまったく同じものが必要となります。アクセス許可についての説明は、Mozilla の <a>FAQ<\/a> を参照してください。",
+    "description":"Many permissions answer"
+  },
+  "flash-question":{
+    "message":"Adblock Browser でフラッシュのビデオを見ることができますか。",
+    "description":"Flash video support question"
+  },
+  "flash-answer":{
+    "message":"Flash ビデオを Adblock Browser で閲覧することはできますが、その前に従来のフラッシュプレーヤーをインストールする必要があります。しかし、 Flash for Android をインストールするとメモリの損失と遅延の原因となる場合があり、システムが不安定になりますのでおすすめできません。それでもインストールしたい場合は、Mozilla の<a>記事<\/a>を参照してください。",
+    "description":"Flash video support answer"
+  },
+  "firefox-sync-question":{
+    "message":"Firefox Sync を提供しますか。",
+    "description":"Firefox synchronization question"
+  },
+  "firefox-sync-answer":{
+    "message":"この機能を要請する人は多く、その重要性は当社も認識しています。このため、将来のリリースで有効にできるように取り組んでおります。",
+    "description":"Firefox synchronization answer"
+  },
+  "chrome-bookmark-question":{
+    "message":"Chrome からブックマークをインポートする方法は？",
+    "description":"Chrome bookmark import question"
+  },
+  "chrome-bookmark-answer":{
+    "message":"デフォルトのシステムブラウザが Chrome である場合、［設定］> ［カスタマイズ］> [Android からインポート］でブックマークをインポートすることができるはずです。ただし、デフォルトのブラウザが Chrome でない場合は、残念ながらこのオプションは使用できません。",
+    "description":"Chrome bookmark import answer"
+  },
+  "google-sync-question":{
+    "message":"Chromeがデフォルトのブラウザでない場合でも、ChromeやGoogleアカウント（パスワードやブックマークなど）の同期を使用することができますか。",
+    "description":"Google account synchronization question"
+  },
+  "google-sync-answer":{
+    "message":"残念ながら、これは現在 Firefox for Android の機能ではありませんので、これは今のところ新機能として考えられ、これは Mozilla の開発者におまかせします。",
+    "description":"Google account synchronization answer"
+  },
+  "add-ons-question":{
+    "message":"LastPass や Ghostery などのサードパーティのアドオンをインストールできますか。",
+    "description":"Add-ons installation question"
+  },
+  "add-ons-answer":{
+    "message":"当社自体もブラウザのアドオンから始まりましたのでアドオンに対する支援を強く望んでおり、この方針は将来でも変わることはありません。現在アドオンが使用できない場合は、<a>Adblock Plus<\/a>を持つ Firefox for Android を使用することをおすすめします。",
+    "description":"Add-ons installation answer"
+  },
+  "custom-filter-question":{
+    "message":"自作フィルタを追加、または要素をブロックできますか。",
+    "description":"Adding custom filters question"
+  },
+  "custom-filter-answer":{
+    "message":"カスタムフィルタの提供はすでに検討されており、将来のリリースに追加したく思っています。",
+    "description":"Adding custom filters answer"
+  },
+  "version-question":{
+    "message":"Chrome ベースの Adblock Browser のバージョンを提供する予定ですか。",
+    "description":"Chrome version question"
+  },
+  "version-answer":{
+    "message":"Chrome ベースの個別バージョンをつくるのではなく、Chrome に似た機能を提供することが目標となっています。",
+    "description":"Chrome version answer"
+  },
+  "title":{
+    "message":"FAQ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "search-engine":{
+    "message":"<em>অনুসন্ধান<\/em>-এর নিচে, <strong>অনুসন্ধান ইঞ্জিন<\/strong>-এ টোকা দিন।",
+    "description":"Navigation to Search Engins page"
+  },
+  "default-search-engine":{
+    "message":"একটা নতুন পূর্বনির্ধারিত অনুসন্ধান ইঞ্জিন নির্বাচন করুন।",
+    "description":"Changing default search engine instruction"
+  },
+  "ios-defaultsearch-visual-alt":{
+    "message":"দৃশ্য সহায়ক পূর্বনির্ধারিত অনুসন্ধান ইঞ্জিন পরিবর্তন করা",
+    "description":"Default search engine changing visual alternative text"
+  },
+  "open-app":{
+    "message":"Adblock Browser অ্যাপটা খুলুন।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"টোকা দিন",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser আইকন",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"এবং <strong>সেটিংস<\/strong> নির্বাচন করুন।",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"পূর্বনির্ধারিত অনুসন্ধান ইঞ্জিন পরিবর্তন করা"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ad-blocking":{
+    "message":"点击 <strong>广告拦截<\/strong>。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "aceptable-ads":{
+    "message":"在<em>例外规定<\/em>下方，点击<strong>可接受广告<\/strong>。",
+    "description":"Navigation to Acceptable Ads section instruction"
+  },
+  "whitelist":{
+    "message":"取消勾选标记为 <strong>允许一些非侵入式广告<\/strong>的复选框。",
+    "description":"Whitelisting instruction"
+  },
+  "open-app":{
+    "message":"打开 Adblock Browser应用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"点击",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser图标",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"然后选择 <strong>设置<\/strong>。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"配置可接受广告"
+  }
+}

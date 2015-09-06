@@ -1,0 +1,29 @@
+{
+  "search-suggestion":{
+    "message":"En bas de <em>Recherche<\/em>, appuyez sur <strong>Suggestions d'URL de recherche<\/strong>.",
+    "description":"Disable search subbsctions instruction"
+  },
+  "ios-urlsuggestion-visual-alt":{
+    "message":"Désactivation du visuel des suggestions de recherche",
+    "description":"Search suggestion option disabling visual alternative text"
+  },
+  "open-app":{
+    "message":"Ouvrez l'application Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Appuyez sur",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"l'icône Adblock Browser,",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"puis sélectionnez <strong>Paramètres<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Désactivation des suggestions de recherche"
+  }
+}

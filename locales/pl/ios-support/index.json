@@ -1,0 +1,29 @@
+{
+  "install":{
+    "message":"Instalowanie aplikacji Adblock Browser dla systemu Android"
+  },
+  "adding-filter-list":{
+    "message":"Dodawanie listy filtrów"
+  },
+  "removing-filter-list":{
+    "message":"Usuwanie listy filtrów"
+  },
+  "acceptable-ads-config":{
+    "message":"Konfigurowanie akceptowanych reklam"
+  },
+  "additional-filter-lists":{
+    "message":"Wyłączanie śledzenia, domen złośliwego oprogramowania, przycisków multimediów społecznych i komunikatów antyblokowania reklam"
+  },
+  "changing-search-engine":{
+    "message":"Zmiana domyślnej wyszukiwarki"
+  },
+  "disable-search-suggestions":{
+    "message":"Wyłączanie sugestii wyszukiwania"
+  },
+  "view-whitelisted-websites":{
+    "message":"Przeglądanie dozwolonych stron internetowych"
+  },
+  "title":{
+    "message":"Wsparcie systemu iOS"
+  }
+}

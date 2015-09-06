@@ -1,0 +1,29 @@
+{
+  "search-suggestion":{
+    "message":"<em>検索<\/em>の下で、<strong>URL 検索候補<\/strong>をタップします。",
+    "description":"Disable search subbsctions instruction"
+  },
+  "ios-urlsuggestion-visual-alt":{
+    "message":"ビジュアル検索候補のビジュアルを無効にする",
+    "description":"Search suggestion option disabling visual alternative text"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser のアイコン",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"検索候補の無効化"
+  }
+}

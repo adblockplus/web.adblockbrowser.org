@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"Adblock Browser cuenta con varias opciones personalizables de privacidad.",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"Pulse <strong>Privacidad<\/strong>.",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"Las siguientes opciones están disponibles debajo de <em>Privacidad<\/em>:"
+  },
+  "do-not-track":{
+    "message":"<strong>No controlar<\/strong> - pulse la casilla de verificación si no desea que se le haga seguimiento durante la navegación.",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>Cookies<\/strong> - las Cookies son piezas de información almacenadas en su dispositivo por sitios web que usted visita. Para configurar las opciones de cookies, pulse en <strong>Cookies<\/strong>. Si están <strong>Habilitadas<\/strong>, se permiten cookies tanto de partes primeras como terceras. Si están <strong>Habilitadas, excepto de terceros<\/strong>, sólo las cookies de primeras partes serán aceptadas. Si están <strong>Deshabilitadas<\/strong>, las cookies de primeros y terceros están prohibidas.",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>Recordar contraseñas<\/strong> - esta opción está activada por defecto. Si no desea para que Adblock Browser recuerde sus contraseñas, pulse la casilla de verificación para desactivar la función.",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>Usar contraseña maestra<\/strong> - si prefiere usar una contraseña maestra para todas sus conexiones, pulse <strong>Usar contraseña maestra<\/strong>. En la pantalla de <em>Crear contraseña maestra<\/em>, introduzca y confirme su contraseña maestra.",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"Las siguientes opciones están disponibles debajo de <em>Limpiar datos privados<\/em>:"
+  },
+  "clear-now":{
+    "message":"<strong>Limpiar ahora<\/strong> - Pulse Limpiar ahora para borrar los datos siguientes: historial de navegación, descargas, formularios e historial de búsqueda, cookies y datos de inicio de sesión activos, contraseñas, datos guardados en caché, datos de páginas web sin conexión y configuración de sitios. De forma predeterminada, se seleccionan todas las opciones de datos. Pulse en una opción específica si no desea borrar los datos asociados.",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>Limpiar al salir<\/strong> - pulse en esta casilla de verificación para borrar automáticamente los datos cada vez que salga.",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Abra la app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Pulse",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Icono de menú de hamburguesa de Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"y seleccione <strong>ajustes<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Controlar opciones de privacidad"
+  }
+}

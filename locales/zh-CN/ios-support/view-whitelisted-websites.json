@@ -1,0 +1,29 @@
+{
+  "adblock-plus-menu":{
+    "message":"在 <em>隐私和安全<\/em>下方，点击<strong>Adblock Plus<\/strong>。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "whitelist":{
+    "message":"在<em>例外规定<\/em>下方，点击<strong>列入白名单的网站<\/strong>。",
+    "description":"view whitelisted websites instruction"
+  },
+  "open-app":{
+    "message":"打开 Adblock Browser应用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"点击",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser图标",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"然后选择 <strong>设置<\/strong>。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"查看列入白名单的网站"
+  }
+}

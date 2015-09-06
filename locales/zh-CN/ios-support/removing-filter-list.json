@@ -1,0 +1,37 @@
+{
+  "adblock-plus-menu":{
+    "message":"在 <em>隐私和安全<\/em>下方，点击<strong>Adblock Plus<\/strong>。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "ad-blocking":{
+    "message":"在 <em>拦截<\/em>下方，点击<strong>广告拦截<\/strong>。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "remove-filter-list":{
+    "message":"在 <em>激活以下语言的网站<\/em>下方选择您想要删除的 <strong>过滤列表<\/strong> 。",
+    "description":"Filter list removal instruction"
+  },
+  "ios-removefilter-visual-alt":{
+    "message":"删除一个过滤列表图像",
+    "description":"Removing filter list visual alternative text"
+  },
+  "open-app":{
+    "message":"打开 Adblock Browser应用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"点击",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser图标",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"然后选择 <strong>设置<\/strong>。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"删除一个过滤列表"
+  }
+}

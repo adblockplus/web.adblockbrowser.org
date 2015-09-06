@@ -1,0 +1,29 @@
+{
+  "adblock-plus-menu":{
+    "message":"أسفل<em>الخصوصة والأمان<\/em>، انقر على <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "whitelist":{
+    "message":"أسفل<em>الاستثناءات<\/em>، انقر على <strong>الإعلانات المدرجة في القائمة البيضاء<\/strong>.",
+    "description":"view whitelisted websites instruction"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"أيقونة Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"عرض المواقع المدرجة في القائمة البيضاء"
+  }
+}

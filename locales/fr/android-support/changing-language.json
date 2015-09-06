@@ -1,0 +1,37 @@
+{
+  "language":{
+    "message":"Appuyez sur <strong>Langue<\/strong>.",
+    "description":"Navigation to languages section instruction"
+  },
+  "area-below-languages":{
+    "message":"Touchez la zone en dessous de <em>Langue du navigateur<\/em>.",
+    "description":"Navigation to languages section instruction"
+  },
+  "available-languages-list":{
+    "message":"Une liste des langues disponibles apparaît.",
+    "description":"substep instruction below Browser Language navigation step"
+  },
+  "select-language":{
+    "message":"Appuyez sur la langue souhaitée.",
+    "description":"Last step of instruction"
+  },
+  "open-app":{
+    "message":"Ouvrez l'application Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Appuyez sur",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"l'icône du menu Hamburger d'Android,",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"puis sélectionnez <strong>Paramètres<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Changer la langue du navigateur"
+  }
+}

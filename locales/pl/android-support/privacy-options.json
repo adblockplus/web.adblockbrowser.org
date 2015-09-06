@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"Adblock Browser posiada kilka konfigurowalnych ustawień prywatności.",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"Naciśnij <strong>Prywatność<\/strong>.",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"Następujące opcje są dostępne w części <em>Prywatność<\/em>:"
+  },
+  "do-not-track":{
+    "message":"<strong>Nie śledź<\/strong> – Naciśnij pole wyboru, jeśli chcesz być śledzonym podczas przeglądania.",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>Pliki cookie<\/strong> – pliki cookie to niewielkie pakiety informacyjne przechowywane na Twoim urządzeniu przez stronę internetową, którą odwiedzasz. Aby ustawić opcje plików cookie, naciśnij >pliki cookie<\/strong>. Jeśli są <strong>Włączone<\/strong>, dopuszczalne są zarówno pliki cookie pierwszej, jak i trzeciej strony. Jeśli są <strong>Włączone za wyjątkiem trzeciej strony<\/strong>, dopuszczalne są tylko pliki cookie pierwszej strony. Jeśli są <strong>Wyłączone<\/strong>, zarówno pliki pierwszej, jak i trzeciej strony są zabronione.",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>Zapamiętaj hasła<\/strong> – niniejsza opcja jest włączona domyślnie. Jeśli nie chcesz, żeby aplikacja Adblock Browser zapamiętywała Twoje hasła, naciśnij pole wyboru, aby wyłączyć tę funkcję.",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>Używaj hasła nadrzędnego<\/strong> – jeśli wolisz używać jednego hasła nadrzędnego dla wszystkich swoich logowań, naciśnij <strong>Używaj hasła nadrzędnego<\/strong>. Na ekranie <em>Tworzenie hasła nadrzędnego<\/em>, podaj i potwierdź swoje hasło nadrzędne.",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"Następujące opcje są dostępne w części <em>Wyczyść dane prywatne<\/em>:"
+  },
+  "clear-now":{
+    "message":"<strong>Wyczyść teraz<\/strong> – naciśnij przycisk Wyczyć teraz, aby wyczyścić następujące dane: historia przeglądania, pobierania, historia formularzy i wyszukiwania, pliki cookie i aktywne logowania, zapisane hasła, pamięć cache, dane strony offline i ustawienia stron. Domyślnie wybrane są opcje wszystkich danych. Naciśnij określoną opcję, jeśli chcesz wyczyścić powiązane dane.",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>Wyczyścić, wychodząc<\/strong> – naciśnij to pole wyboru, aby automatycznie czyścić dane podczas każdego wyjścia.",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Otwórz aplikację Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Naciśnij",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"ikonę menu hamburger w systemie Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"i wybierz <strong>Ustawienia<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Kontrola opcji prywatności"
+  }
+}

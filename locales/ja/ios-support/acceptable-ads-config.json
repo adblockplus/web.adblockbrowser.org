@@ -1,0 +1,33 @@
+{
+  "ad-blocking":{
+    "message":"<strong>広告ブロック<\/strong>をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "aceptable-ads":{
+    "message":"<em>例外<\/em>の下で、<strong>控えめな広告<\/strong>をタップします。",
+    "description":"Navigation to Acceptable Ads section instruction"
+  },
+  "whitelist":{
+    "message":"<strong>目障りにならない広告を許可する<\/strong>ボックスのチェックを外します。",
+    "description":"Whitelisting instruction"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser のアイコン",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"控えめな広告の設定"
+  }
+}

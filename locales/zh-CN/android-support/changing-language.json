@@ -1,0 +1,37 @@
+{
+  "language":{
+    "message":"点击 <strong>语言<\/strong>。",
+    "description":"Navigation to languages section instruction"
+  },
+  "area-below-languages":{
+    "message":"点击<em>浏览器语言<\/em> 下方的区域。",
+    "description":"Navigation to languages section instruction"
+  },
+  "available-languages-list":{
+    "message":"会出现一个可用语言列表。",
+    "description":"substep instruction below Browser Language navigation step"
+  },
+  "select-language":{
+    "message":"点击您想要的语言。",
+    "description":"Last step of instruction"
+  },
+  "open-app":{
+    "message":"打开 Adblock Browser应用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"点击",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"安卓汉堡包菜单图标",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"然后选择 <strong>设置<\/strong>。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"更改浏览器语言"
+  }
+}

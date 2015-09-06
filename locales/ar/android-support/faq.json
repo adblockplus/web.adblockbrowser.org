@@ -1,0 +1,69 @@
+{
+  "many-permissions-question":{
+    "message":"لماذا يطلب Adblock Browser لـ Android الكثير من الأذونات؟",
+    "description":"Many permissions questions"
+  },
+  "many-permissions-answer":{
+    "message":"بشكل عام، تطلب المتصفحات أذونات أكثر من التطبيقات العادية وذلك تكون قادرة على تزويد تطبيقات الويب بالقدرة على استخدام وظائف العتاد التشغيلية مثل الكاميرا والميكروفون، إلخ. (على سبيل المثال، تحميل الصور من الكاميرا الخاصة بك). وبما أن Adblock Browser يعتمد أساسا على متصفح Firefox، فإنه يطلب نفس الأذونات لفعل نفس الأشياء التي يقوم بها متصفح Firefox. وللحصول على توضيح بشأن كل الأذونات، يرجى الرجوع إلى <a>هذه الأسئلة المتداولة<\/a> من Mozilla.",
+    "description":"Many permissions answer"
+  },
+  "flash-question":{
+    "message":"هل سيدعم Adblock Browser support مقاطع الفيديو بصيغة فلاش؟",
+    "description":"Flash video support question"
+  },
+  "flash-answer":{
+    "message":"إن مقاطع الفيديو بصيغة فلاش تعمل على Adblock Browser، لكن يجب عليك أولا تثبيت مشغل فلاش. ومع ذلك، فإن تثبيت فلاش على Android أمر لا ينصح به حيث أنه غير آمن وقد يسهم في فقدان أو ضياع الذاكرة. أما إذا كنت ما تزال ترغب في القيام بهذا، فيرجى الرجوع إلى <a>هذه المقالة<\/a> من Mozilla.",
+    "description":"Flash video support answer"
+  },
+  "firefox-sync-question":{
+    "message":"هل سوف توفرون ميزة المزامنة مع Firefox؟",
+    "description":"Firefox synchronization question"
+  },
+  "firefox-sync-answer":{
+    "message":"لقد سأل الكثير منكم هذا السؤال، ونحن نتفق معكم بشأن هذه الميزة الحاسمة. وهذا هو السبب في أننا نعمل على تمكين هذه الميزة إصدار مستقبلي.",
+    "description":"Firefox synchronization answer"
+  },
+  "chrome-bookmark-question":{
+    "message":"كيف يمكنني استيراد الإشارات المرجعية من Chrome؟",
+    "description":"Chrome bookmark import question"
+  },
+  "chrome-bookmark-answer":{
+    "message":"إذا كان المتصفح الافتراضي للنظام هو Chrome، فستكون قادرا على استيراد الإشارات المرجعية من إعدادات > تخصيص > استيراد من Android. ومع ذلك، إذا لم يكن Chrome هو المتصفي الافتراضي، فللأسف ليس لدينا ما يمكننا القيام به.",
+    "description":"Chrome bookmark import answer"
+  },
+  "google-sync-question":{
+    "message":"هل سوف تدعمون المزامنة مع حساب Chrome \/ Google (كلمات المرور والإشارات المرجعية، إلخ.) في حال لم يكن Chrome هو المتصفح الافتراضي؟",
+    "description":"Google account synchronization question"
+  },
+  "google-sync-answer":{
+    "message":"للأسف، هذه الميزة غير متوفرة حاليا في متصفح Firefox لـ Android، ولهذا، سوف يتم أخذ هذه الوظيفة التشغيلية بعين الاعتبار في المتصفح الجديد، أما في الوقت الحالي، فإننا سنترك الأمر للأصدقاء في Mozilla.",
+    "description":"Google account synchronization answer"
+  },
+  "add-ons-question":{
+    "message":"هل يمكنني تثبيت إضافات مثل LastPass أو Ghostery، أو غيرها من الخدمات المقدمة من أطراف ثالثة؟",
+    "description":"Add-ons installation question"
+  },
+  "add-ons-answer":{
+    "message":"بعد أن بدأنا بأنفسنا كإضافة لمتصفح، فإننا نشعر برغبتنا القوية في دعم الإضافات، ونأمل أن ندعمها في المستقبل. أما في الوقت الحالي، فلا يمكننا دعم الإضافات، ولذلك فنحن ننصح باستخدام <a>Adblock Plus<\/a> مع متصفح Firefox لـ Android.",
+    "description":"Add-ons installation answer"
+  },
+  "custom-filter-question":{
+    "message":"هل يمكنني إضافة مصفيات مخصصة أو حجب عناصر؟",
+    "description":"Adding custom filters question"
+  },
+  "custom-filter-answer":{
+    "message":"إننا نتطلع إلى توفير هذه الميزة ونأمل إضافتها في إصدار مستقبلي.",
+    "description":"Adding custom filters answer"
+  },
+  "version-question":{
+    "message":"هل ستوفرون إصدار من Adblock Browser يستند على متصفح Chrome؟",
+    "description":"Chrome version question"
+  },
+  "version-answer":{
+    "message":"إن هدفنا هو تقديم مزايا مثل تلك الموجودة في متصفح Chrome بدون بناء إصدار منفصل يستند على متصفح Chrome.",
+    "description":"Chrome version answer"
+  },
+  "title":{
+    "message":"الأسئلة المتداولة"
+  }
+}

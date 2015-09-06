@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"点击 <strong>显示<\/strong>。",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"可在<em>显示<\/em>下方获取以下选项：",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>文字大小<\/strong> - 默认情况下， <strong>文字大小<\/strong>设为中等。若要更改，点击文字大小。在文字屏，点击小“A”或者大“A”以调整文字大小。点击<strong>设置<\/strong>。",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>标题栏<\/strong> - 该选项可以让您显示页面标题或者页面地址。默认情况下会选中页面地址。若要显示页面标题，请点击 <strong>标题栏<\/strong> ，然后选择<strong>显示页面标题<\/strong>。",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>全屏浏览<\/strong> - 若要在向下滚动页面时查看 Adblock Browser 标题栏，点击该复选框。",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>允许自动播放<\/strong> - 默认启用，该选项能够控制视频和其它媒体内容的自动播放。若您不希望自动播放视频和其它媒体内容，请点击该复选框。",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"可在<em>高级<\/em>下方获取以下选项：",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>字符编码<\/strong> - 该选项控制字符编码菜单的显示。默认情况下，字符编码菜单是不可见的。若要查看该菜单，请点击<strong>字符编码<\/strong> ，然后选择 <strong>显示菜单<\/strong>。",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>插件<\/strong>-该选项可以让您控制插件首选项。",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"打开 Adblock Browser应用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"点击",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"安卓汉堡包菜单图标",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"然后选择 <strong>设置<\/strong>。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"更改显示选项"
+  }
+}

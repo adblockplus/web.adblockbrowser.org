@@ -1,0 +1,69 @@
+{
+  "many-permissions-question":{
+    "message":"安卓版的Adblock Browser為什麽需要這麽多的權限？",
+    "description":"Many permissions questions"
+  },
+  "many-permissions-answer":{
+    "message":"通常來說，瀏覽器比普通應用需要更多的權限以使網絡應用能夠使用諸如相機、麥克風等（例如：從您的相機上傳圖片）的硬件功能。由於Adblock Browser是基於火狐的，它要求獲取完全相同的權限以完成Firefox所做的事情。獲取對所有權限的說明，請參考Mozilla 提供的<a>常見問題解答<\/a>。",
+    "description":"Many permissions answer"
+  },
+  "flash-question":{
+    "message":"Adblock Browser 會支持 flash 視頻嗎？",
+    "description":"Flash video support question"
+  },
+  "flash-answer":{
+    "message":"Flash視頻確實可在Adblock Browser上使用，但是，您必須先安裝舊版的flash播放器。不過，不建議為安卓設備安裝Flash，因為它是不安全的，可能會導致存儲器損失或緩慢。若您仍要這樣做，請參考來自Mozilla的 <a>這篇文章<\/a>。",
+    "description":"Flash video support answer"
+  },
+  "firefox-sync-question":{
+    "message":"你們會提供 Firefox 同步嗎？",
+    "description":"Firefox synchronization question"
+  },
+  "firefox-sync-answer":{
+    "message":"很多人問過這個問題，我們也認為這是一個重要功能。因此，我們將盡力在未來發佈中啟用這個功能。",
+    "description":"Firefox synchronization answer"
+  },
+  "chrome-bookmark-question":{
+    "message":"如何從 Chrome 導入書籤？",
+    "description":"Chrome bookmark import question"
+  },
+  "chrome-bookmark-answer":{
+    "message":"如果默認系統瀏覽器是 Chrome，那麽，您應該能夠從“設定 > 自定義 > 從安卓導入”中導入書簽。但是，如果默認瀏覽器不是Chrome，那麽，很遺憾，我們無能為力。",
+    "description":"Chrome bookmark import answer"
+  },
+  "google-sync-question":{
+    "message":"若Chrome不是默認瀏覽器，你們會支持 Chrome \/ 谷歌帳戶（密碼、書簽，等等）同步嗎？",
+    "description":"Google account synchronization question"
+  },
+  "google-sync-answer":{
+    "message":"很遺憾，安卓版的Firefox目前不支持該功能，我們會在新瀏覽器的功能中將它考慮在內，但是，目前，我們只能將這個問題留給Mozilla了。",
+    "description":"Google account synchronization answer"
+  },
+  "add-ons-question":{
+    "message":"我可以安裝諸如 LastPass和Ghostery，或者其他第三方服務等的加載項嗎？",
+    "description":"Add-ons installation question"
+  },
+  "add-ons-answer":{
+    "message":"我們自己本身就是作為瀏覽器加載項起步的，因此，我們非常想要支持加載項，並且希望在未來也能夠支持。目前來說，如果擁有加載項會破壞協議的話，我們建議使用安裝有<a>Adblock Plus<\/a>的安卓版Firefox。",
+    "description":"Add-ons installation answer"
+  },
+  "custom-filter-question":{
+    "message":"我可以添加自定義過濾器或塊元素嗎？",
+    "description":"Adding custom filters question"
+  },
+  "custom-filter-answer":{
+    "message":"我們正在考慮提供這個功能，並且希望在未來的版本中添加它。",
+    "description":"Adding custom filters answer"
+  },
+  "version-question":{
+    "message":"你們會提供基於Chrome的Adblock Browser版本嗎？",
+    "description":"Chrome version question"
+  },
+  "version-answer":{
+    "message":"我們的目標是無需建立一個基於 Chrome的獨立版本便可提供類似Chrome 的功能。",
+    "description":"Chrome version answer"
+  },
+  "title":{
+    "message":"常見問題解答"
+  }
+}

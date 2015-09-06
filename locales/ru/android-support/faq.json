@@ -1,0 +1,69 @@
+{
+  "many-permissions-question":{
+    "message":"Почему Adblock Browser для Android запрашивает столько разрешений?",
+    "description":"Many permissions questions"
+  },
+  "many-permissions-answer":{
+    "message":"Обычно браузерам требуется больше разрешений, чем обычным программам, для того чтобы веб-приложения могли использовать такие аппаратные возможности, как камера, микрофон и пр. (например, для загрузки изображений с камеры). Adblock Browser построен на базе браузера Firefox и поэтому запрашивает точно такие же разрешения, как и Firefox. За объяснением всех запрашиваемых разрешений обратитесь к <a>FAQ<\/a> от Mozilla.",
+    "description":"Many permissions answer"
+  },
+  "flash-question":{
+    "message":"Будет ли Adblock Browser поддерживать Flash-видео?",
+    "description":"Flash video support question"
+  },
+  "flash-answer":{
+    "message":"Flash-видео проигрываются в Adblock Browser, однако для этого сначала нужно установить старую версию Flash-плеера. Тем не менее, мы не рекомендуем устанавливать Flash на Android, так как это небезопасно и может привести к повышенному потреблению памяти и медленной работе устройства. Если вы все равно хотите это сделать, обратитесь к <a>этой статье<\/a> Mozilla.",
+    "description":"Flash video support answer"
+  },
+  "firefox-sync-question":{
+    "message":"Будет ли доступна синхронизация с Firefox?",
+    "description":"Firefox synchronization question"
+  },
+  "firefox-sync-answer":{
+    "message":"Многие из вас об этом просили, и мы тоже считаем эту функцию очень важной. Поэтому мы работаем над ее реализацией в следующих версиях.",
+    "description":"Firefox synchronization answer"
+  },
+  "chrome-bookmark-question":{
+    "message":"Как импортировать закладки из Chrome?",
+    "description":"Chrome bookmark import question"
+  },
+  "chrome-bookmark-answer":{
+    "message":"Если системным браузером по умолчанию является Chrome, вы можете импортировать закладки в меню Параметры > Настроить > Импорт из Android. Однако если Chrome НЕ установлен как браузер по умолчанию, мы, к сожалению, ничего не можем сделать.",
+    "description":"Chrome bookmark import answer"
+  },
+  "google-sync-question":{
+    "message":"Планируется ли поддержка синхронизации учетных записей Chrome\/Google (для паролей, закладок и т. д.), если Chrome не является браузером по умолчанию?",
+    "description":"Google account synchronization question"
+  },
+  "google-sync-answer":{
+    "message":"К сожалению, сейчас такой функции в Firefox для Android нет, и ее реализация будет считаться созданием новой функциональности браузера, а это на данный момент — дело команды Mozilla.",
+    "description":"Google account synchronization answer"
+  },
+  "add-ons-question":{
+    "message":"Можно ли установить такие расширения как LastPass, Ghostery или другие сторонние сервисы?",
+    "description":"Add-ons installation question"
+  },
+  "add-ons-answer":{
+    "message":"Мы сами начинали как расширение для браузера, поэтому понимаем, как важна поддержка расширений, и надеемся реализовать ее в будущем. А пока, если для вас очень важно использовать расширения, мы рекомендуем воспользоваться Firefox для Android с <a>Adblock Plus<\/a>.",
+    "description":"Add-ons installation answer"
+  },
+  "custom-filter-question":{
+    "message":"Можно ли добавлять пользовательские фильтры или блокировать отдельные элементы?",
+    "description":"Adding custom filters question"
+  },
+  "custom-filter-answer":{
+    "message":"Мы рассматриваем возможность реализации этой функции в следующих версиях.",
+    "description":"Adding custom filters answer"
+  },
+  "version-question":{
+    "message":"Планируете ли вы создание версии Adblock Browser на базе Chrome?",
+    "description":"Chrome version question"
+  },
+  "version-answer":{
+    "message":"Наша цель — предоставить сравнимые с Chrome возможности, не создавая отдельную версию на базе Chrome.",
+    "description":"Chrome version answer"
+  },
+  "title":{
+    "message":"Часто задаваемые вопросы"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "install":{
+    "message":"Adblock Browser for Android のインストール"
+  },
+  "adding-filter-list":{
+    "message":"フィルタリストの追加"
+  },
+  "removing-filter-list":{
+    "message":"フィルタリストの削除"
+  },
+  "acceptable-ads-config":{
+    "message":"控えめな広告の設定"
+  },
+  "customizing-abb":{
+    "message":"Adblock Browser のカスタマイズ"
+  },
+  "display-options":{
+    "message":"表示オプションの変更"
+  },
+  "privacy-options":{
+    "message":"プライバシーオプションの制御"
+  },
+  "changing-language":{
+    "message":"ブラウザ言語の変更"
+  },
+  "faq":{
+    "message":"FAQ"
+  },
+  "title":{
+    "message":"Android のサポート"
+  }
+}

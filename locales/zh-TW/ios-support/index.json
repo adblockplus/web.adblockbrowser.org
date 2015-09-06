@@ -1,0 +1,29 @@
+{
+  "install":{
+    "message":"安裝iOS版 Adblock Browser"
+  },
+  "adding-filter-list":{
+    "message":"添加一個過濾列表"
+  },
+  "removing-filter-list":{
+    "message":"刪除一個過濾列表"
+  },
+  "acceptable-ads-config":{
+    "message":"配置可接受廣告"
+  },
+  "additional-filter-lists":{
+    "message":"禁用追蹤、 惡意軟件域名、 社交媒體按鈕和反廣告攔截訊息"
+  },
+  "changing-search-engine":{
+    "message":"更改默認搜索引擎"
+  },
+  "disable-search-suggestions":{
+    "message":"禁用搜索建議"
+  },
+  "view-whitelisted-websites":{
+    "message":"查看列入白名單的網站"
+  },
+  "title":{
+    "message":"iOS 支持"
+  }
+}

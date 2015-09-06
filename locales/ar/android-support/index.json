@@ -1,0 +1,32 @@
+{
+  "install":{
+    "message":"تثبيت Adblock Browser لـ Android"
+  },
+  "adding-filter-list":{
+    "message":"إضافة قائمة مصفيات"
+  },
+  "removing-filter-list":{
+    "message":"إزالة قائمة مصفيات"
+  },
+  "acceptable-ads-config":{
+    "message":"إعدادات الإعلانات المقبولة"
+  },
+  "customizing-abb":{
+    "message":"تخصيص Adblock Browser"
+  },
+  "display-options":{
+    "message":"تغيير خيارات العرض"
+  },
+  "privacy-options":{
+    "message":"التحكم في خيارات الخصوصية"
+  },
+  "changing-language":{
+    "message":"تغيير لغة المتصفح"
+  },
+  "faq":{
+    "message":"الأسئلة المتداولة"
+  },
+  "title":{
+    "message":"دعم Android"
+  }
+}

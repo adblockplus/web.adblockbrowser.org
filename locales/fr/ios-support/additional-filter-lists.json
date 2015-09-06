@@ -1,0 +1,52 @@
+{
+  "adblock-plus-menu":{
+    "message":"En bas de <em>Confidentialité & Sécurité<\/em>, appuyez sur <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "more-blocking-options":{
+    "message":"En bas de <em>Blocage<\/em>, appuyez sur <strong>Plus d'options de blocage<\/strong>.",
+    "description":"Navigation to More Blocking Options section instruction"
+  },
+  "options":{
+    "message":"Sélectionnez une options (ou des options) :"
+  },
+  "tracking":{
+    "message":"<strong>Suivi<\/strong> : Désactiver la plupart des suivis et naviguer sur le web plus anonymement.",
+    "description":"\"Tracking\" option name and it's description"
+  },
+  "malware-domains":{
+    "message":"<strong>Domaines malveillants<\/strong> : Bloquer les domaines connus pour propager des logiciels malveillants tels que les virus, les chevaux de Troie, les vers et les logiciels espions.",
+    "description":"\"Malware Domains\" option name and it's description"
+  },
+  "social-media-buttons":{
+    "message":"<strong>Boutons des médias sociaux<\/strong> : Désactiver les boutons utilisés pour créer des profils en fonction de vos habitudes de navigation.",
+    "description":"\"Social Media Buttons\" option name and it's description"
+  },
+  "anti-adblocking-messsages":{
+    "message":"<strong>Messages anti-blocage des publicités<\/strong> : Désactiver les scripts anti-blocage des annonces.",
+    "description":"\"Anti-Ad blocking Messages\" option name and it's description"
+  },
+  "ios-moreblocking-visual-alt":{
+    "message":"Plus de visuels d'options de blocage",
+    "description":"More blocking visual alternative text"
+  },
+  "open-app":{
+    "message":"Ouvrez l'application Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Appuyez sur",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"l'icône Adblock Browser,",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"puis sélectionnez <strong>Paramètres<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Désactivation du suivi, des domaines malveillants, des boutons de médias sociaux et des messages anti-blocage de la publicité"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "adblock-plus-menu":{
+    "message":"Abaixo de <em>Privacidade e segurança<\/em>, toque em <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "ad-blocking":{
+    "message":"Por baixo de <em>Bloqueio<\/em>, toque em <strong>Bloqueio de anúncios<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "remove-filter-list":{
+    "message":"Selecione a <strong>lista de filtros<\/strong> que gostaria de subscrever abaixo de <em>Ativar para sites em...<\/em>",
+    "description":"Filter list removal instruction"
+  },
+  "ios-removefilter-visual-alt":{
+    "message":"Removendo uma exibição da lista de filtros",
+    "description":"Removing filter list visual alternative text"
+  },
+  "open-app":{
+    "message":"Abra a app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Toque",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Ícone do Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"e selecione <strong>Opções<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Removendo uma lista de filtros"
+  }
+}

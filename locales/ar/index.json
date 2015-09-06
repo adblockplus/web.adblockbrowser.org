@@ -1,0 +1,81 @@
+{
+  "meta-title":{
+    "message":"Adblock Browser",
+    "description":"open graph meta title text"
+  },
+  "meta-description":{
+    "message":"تصفح بشكل أسرع وآمن وخال من الإعلانات المزعجة مع Adblock Browser",
+    "description":"open graph meta description text"
+  },
+  "promotional-image-alt":{
+    "message":"صورة دعائية",
+    "description":"Alternative text for the Adblock Browser promotional image small screens"
+  },
+  "headline":{
+    "message":"تصفح بشكل أسرع وآمن وخال من الإعلانات المزعجة مع Adblock Browser",
+    "description":"Headline in the main content area"
+  },
+  "playstore-badge-alt":{
+    "message":"احصل عليه من Google Play",
+    "description":"Alternative text for playstore badge"
+  },
+  "appstore-badge-alt":{
+    "message":"احصل عليه من App Store",
+    "description":"Alternative text for appstore badge"
+  },
+  "email-me":{
+    "message":"أرسل لي رابط التنزيل على بريدي الإلكتروني",
+    "description":"Text below badges on big screens"
+  },
+  "promotion-msg":{
+    "message":"برنامج <a>حجب الإعلانات الأكثر شعبية<\/a> للمتصفحات على أجهزة الكمبيوتر المكتبية أصبح متوفرا الآن لأجهزة Android* وiOS** الخاصة بك.",
+    "description":"Text on top of footnotes"
+  },
+  "footnotes1":{
+    "message":"Adblock Browser متوافق مع الأجهزة التي تعمل بنظام Android 2.3 وأعلى. علما بأن التثبيت يتطلب حوالي 24 ميغا بايت من المساحة التخزينية الداخلية و384 ميغا بايت من ذاكرة الوصول العشوائي (الرام) وألا يقل مقاس الشاشة عن 320 بكسل للطول و240 بكسل للعرض.",
+    "description":"First footnote"
+  },
+  "footnotes2":{
+    "message":"متوفر فقط لأجهزة iPhone وiPad المثبت عليها نظام التشغيل iOS 8 وأعلى.",
+    "description":"Second footnote"
+  },
+  "title":{
+    "message":"Adblock Browser"
+  },
+  "modal-headline":{
+    "message":"أرسل Adblock Browser إلى هاتفك الذكي أو جهازك اللوحي",
+    "description":"Headline in \"Email me the link\" overlay"
+  },
+  "modal-subheadline":{
+    "message":"لاستلام رابط التنزيل، يرجى إدخال بريدك الإلكتروني",
+    "description":"Subheadline in \"Email me the link\" overlay"
+  },
+  "request-email":{
+    "message":"بريدك الإلكتروني",
+    "description":"Placeholder text for inputbox in \"Email me the link\" overlay"
+  },
+  "submit-button-text":{
+    "message":"أرسل لي الرابط",
+    "description":"Submit button text in \"Email me the link\" overlay"
+  },
+  "form-success":{
+    "message":"التطبيق في طريقه إليك! يرجى التحقق من بريدك الإلكتروني من على هاتفك الذكي أو جهازك اللوحي",
+    "description":"Message for successful email submission in \"Email me the link\" overlay"
+  },
+  "form-invalid":{
+    "message":"يرجى إدخال بريد إلكتروني صالح",
+    "description":"Message for invalid message submission in \"Email me the link\" overlay"
+  },
+  "form-error":{
+    "message":"حدث خطأ ما",
+    "description":"Error submission message in \"Email me the link\" overlay"
+  },
+  "privacy-note1":{
+    "message":"يجب أن يبدي المستلم المعني لهذا البريد الإلكتروني موافقته",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  },
+  "privacy-note2":{
+    "message":"يلتزم Adblock Browser بحماية والحفاظ على خصوصيتك، كما أننا لا نقوم بتخزين أو مشاركة بريدك الإلكتروني. <a>سياسة الخصوصية<\/a>",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  }
+}

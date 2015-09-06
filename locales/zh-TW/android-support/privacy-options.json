@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"Adblock Browser 包含多種可自定義的隱私設定。",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"點擊 <strong>隱私<\/strong>。",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"可在 <em>隱私<\/em>下方獲取以下選項："
+  },
+  "do-not-track":{
+    "message":"<strong>不要追蹤<\/strong> - 若您不希望在瀏覽時被追蹤，則請點擊該複選框。",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>Cookies<\/strong> - Cookies 是由您訪問的網站存儲在您的設備上的信息片段。若要設置cookie選項，請點擊 <strong>Cookies<\/strong>。若<strong>啟用<\/strong>，則第一方和第三方cookies都將被允許。若<strong>啟用，除第三方外<\/strong>，只有第一方的Cookies會被許可。若<strong>禁用<\/strong>，第一方和第三方的cookies都會被禁止。",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>記住密碼<\/strong>-該選項是默認啟用的。若您不希望Adblock Browser記住您的密碼，請點擊該複選框以禁用該功能。",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>使用主密碼<\/strong> - 若您喜歡為您的所有登錄名使用一個主密碼，請點擊<strong使用主密碼<\/strong>。在<em>創建主密碼<\/em>屏幕，輸入並確認您的主密碼。",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"可在<em>清除隱私數據<\/em>下方獲取以下選項："
+  },
+  "clear-now":{
+    "message":"<strong>馬上清除<\/strong> - 點擊“馬上清除”以清除以下數據：瀏覽歷史、下載情況、表格和搜索歷史、cookies和活躍登錄名、已保存密碼、緩存、離線網站數據和網站設置。 默認情況下，所有數據選項都已被選中。若您不希望清除其相關數據，則請點擊一個特定的選項。",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>退出時清除<\/strong> - 點擊該複選框以在每次退出時自動清除數據。",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"打開 Adblock Browser應用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"點擊",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"安卓漢堡包功能表圖示",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"然後選擇 <strong>設定<\/strong>。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"控制隱私選項"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"Tocca su <strong>Personalizza<\/strong>.",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"Seleziona un'opzione da personalizzare:",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"Home",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>Schede recenti<\/strong> - Questa opzione ti mostra gli ultimi cinque siti web visitati. Per personalizzarla, tocca su <strong>Schede recenti<\/strong>.",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>Cronologia<\/strong> - Questa opzione mostra la cronologia di ogni sito web visitato. Per personalizzarla, tocca su <strong>Cronologia<\/strong>.",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>I Migliori Siti<\/strong> - Abilitata come scelta predefinita, questa opzione mostra i siti web visitati più frequentemente. Per personalizzare tocca su <strong>I Migliori Siti<\/strong>.",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>Preferiti<\/strong> - Questa opzione mostra una lista di siti web che tu hai aggiunto in maniera specifica. Per personalizzarla, seleziona <strong>Preferiti<\/strong>.",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>Lista Lettura<\/strong> - L'opzione Lista Lettura ti consente di far riferimento diretto ad un articolo in ogni punto nel tempo. Per personalizzarla, tocca su <strong>Lista Lettura<\/strong>.",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>Mostra i suggerimenti del sito<\/strong> - Abilitato come scelta predefinita, questa opzione suggerisce collegamenti rapidi ai siti web che Adblock Browser crede tu possa trovare interessanti. Per disabilitare questa funzione, seleziona <strong>Mostra suggerimenti del sito<\/strong>.",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>Aggiornamenti automatici<\/strong> - Questa opzione è abilitata come scelta predefinita. Per cambiare questa opzione, seleziona <strong>Aggiornamenti automatici<\/strong>.",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"Cerca",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>Mostra suggerimenti di ricerca<\/strong> - Abilitata come scelta predefinita, questa opzione mostra i suggerimenti di ricerca sulla base dei tuoi dati. Per disabilitare questa funzione, tocca Mostra suggerimenti di ricerca.",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>Motori di ricerca installati<\/strong> - Tocca per cambiare il motore di ricerca predefinito.",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"Schede",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"Come opzione predefinita, Adblock Browser non ripristina le schede dopo che sei uscito dall'app. Per cambiarlo, tocca su <strong>Schede<\/strong> e seleziona <strong>Ripristina sempre<\/strong>.",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"Importa da Android",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"Come opzione predefinita, Adblock Browser importa i tuoi preferiti e la cronologia dal browser nativo Android. Per cambiare questa opzione, tocca su <strong>Importa da Android<\/strong> e deseleziona l'opzione o le opzioni che non vuoi importare.",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"Apri l'app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tocca",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"icona menu hamburger Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"e seleziona <strong>Impostazioni<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Personalizzare Adblock Browser"
+  }
+}

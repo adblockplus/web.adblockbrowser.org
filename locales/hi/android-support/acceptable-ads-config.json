@@ -1,0 +1,33 @@
+{
+  "adblocking":{
+    "message":"<strong>Ad blocking<\/strong> पर टैप करें।",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "acceptable-ads-navigation":{
+    "message":"<em>अपवाद<\/em> के नीचे, <strong>स्वीकार्य विज्ञापन<\/strong> पर टैप करें।",
+    "description":"Navigation to Acceptable Ads section instruction"
+  },
+  "allow-whitelist":{
+    "message":"<strong>अनुचित रूप से दखल न देने वाले कुछ विज्ञापनों को अनुमति दें<\/strong> लेबल वाले खाने में चेक नहीं लगाएं।",
+    "description":"Whitelisting instruction"
+  },
+  "open-app":{
+    "message":"Adblock ब्राउज़र ऐप खोलें।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"टैप करें",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android हैमबर्गर मेनू आइकॉन",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"और <strong>सेटिंग<\/strong> चुनें।",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"स्वीकार्य विज्ञापनों को समनुरूप करें"
+  }
+}

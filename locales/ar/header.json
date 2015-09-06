@@ -1,0 +1,20 @@
+{
+  "abb-logo-alt":{
+    "message":"شعار Adblock Browser"
+  },
+  "hamburger-image-alt":{
+    "message":"تصفح"
+  },
+  "support-ios":{
+    "message":"دعم iOS"
+  },
+  "support-android":{
+    "message":"دعم Android"
+  },
+  "bookmark":{
+    "message":"من صانعي"
+  },
+  "abp-logo-alt":{
+    "message":"شعار Adblock Plus"
+  }
+}

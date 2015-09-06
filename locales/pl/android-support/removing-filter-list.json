@@ -1,0 +1,33 @@
+{
+  "ad-blocking":{
+    "message":"Naciśnij <strong>Blokowanie reklam<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "ad-blocking-below-blocking":{
+    "message":"W polu <em>Blokowanie<\/em> naciśnij <strong>Blokowanie reklam<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "remove-filter-list":{
+    "message":"Wybierz <strong>listę filtrów<\/strong>, którą chcesz usunąć w polu <em>Inne języki<\/em>.",
+    "description":"Filter list removal instruction"
+  },
+  "open-app":{
+    "message":"Otwórz aplikację Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Naciśnij",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"ikonę menu hamburger w systemie Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"i wybierz <strong>Ustawienia<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Usuwanie listy filtrów"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ad-blocking":{
+    "message":"Tocca su <strong>Blocco Pubblicità<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "aceptable-ads":{
+    "message":"Sotto le <em>Eccezioni<\/em>, tocca su <strong>Pubblicità Accettabili<\/strong>.",
+    "description":"Navigation to Acceptable Ads section instruction"
+  },
+  "whitelist":{
+    "message":"Deseleziona la casella con etichetta <strong>Consenti della pubblicità non invadente<\/strong>.",
+    "description":"Whitelisting instruction"
+  },
+  "open-app":{
+    "message":"Apri l'app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tocca",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Icona di Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"e seleziona <strong>Impostazioni<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Configurare le Pubblicità Accettabili"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "adblocking":{
+    "message":"Pulse <strong>bloqueo de anuncios<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"Debajo de <em>Bloqueo<\/em>, pulse <strong>Bloqueo de anuncios<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"Seleccione la <strong>lista de filtros<\/strong> a la que le gustaría suscribirse debajo de <em>Otros idiomas<\/em>.",
+    "description":"Filter list subscription instruction"
+  },
+  "default-filter-list":{
+    "message":"Adblock Browser requiere listas de filtros para bloquear anuncios. Una lista de filtros predeterminada basada en la configuración de idioma de su navegador es activada automáticamente cuando se instala Adblock Browser."
+  },
+  "additional-filter-lists":{
+    "message":"Hay dos listas de filtros básicos – EasyList y Fanboy's List. Estas dos listas de filtros bloquean anuncios de los sitios web más populares (a menudo basados en inglés). Sin embargo, estas listas de filtros no bloquean anuncios en sitios web nacionales menos populares. Por ejemplo, si usted vive en Alemania, debería suscribirse a la lista de filtros alemanes nacionales."
+  },
+  "note":{
+    "message":"Nota"
+  },
+  "note-text":{
+    "message":"Como recomendación, debe evitar añadir demasiadas listas de filtros a Adblock Browser. Añadir muchas listas de filtro ralentiza el bloqueador de anuncios y, por lo tanto, su navegación."
+  },
+  "open-app":{
+    "message":"Abra la app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Pulse",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Icono de menú de hamburguesa de Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"y seleccione <strong>ajustes<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Añadir una lista de filtros"
+  }
+}

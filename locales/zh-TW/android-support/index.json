@@ -1,0 +1,32 @@
+{
+  "install":{
+    "message":"安裝安卓版 Adblock Browser"
+  },
+  "adding-filter-list":{
+    "message":"添加一個過濾列表"
+  },
+  "removing-filter-list":{
+    "message":"刪除一個過濾列表"
+  },
+  "acceptable-ads-config":{
+    "message":"配置可接受廣告"
+  },
+  "customizing-abb":{
+    "message":"自定義 Adblock Browser"
+  },
+  "display-options":{
+    "message":"更改顯示選項"
+  },
+  "privacy-options":{
+    "message":"控制隱私選項"
+  },
+  "changing-language":{
+    "message":"更改瀏覽器語言"
+  },
+  "faq":{
+    "message":"常見問題解答"
+  },
+  "title":{
+    "message":"安卓支持"
+  }
+}

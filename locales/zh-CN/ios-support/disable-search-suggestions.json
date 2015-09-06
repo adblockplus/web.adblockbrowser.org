@@ -1,0 +1,29 @@
+{
+  "search-suggestion":{
+    "message":"在 <em>搜索<\/em>下方，点击<strong>URL搜索建议<\/strong>。",
+    "description":"Disable search subbsctions instruction"
+  },
+  "ios-urlsuggestion-visual-alt":{
+    "message":"禁用搜索建议图像",
+    "description":"Search suggestion option disabling visual alternative text"
+  },
+  "open-app":{
+    "message":"打开 Adblock Browser应用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"点击",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser图标",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"然后选择 <strong>设置<\/strong>。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"禁用搜索建议"
+  }
+}

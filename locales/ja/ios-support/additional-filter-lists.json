@@ -1,0 +1,52 @@
+{
+  "adblock-plus-menu":{
+    "message":"<em>プライバシーとセキュリティ<\/em>の下で、<strong>Adblock Plus<\/strong> をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "more-blocking-options":{
+    "message":"<em>ブロックする<\/em>の下で、<strong>ブロックの他のオプション<\/strong> をタップします。",
+    "description":"Navigation to More Blocking Options section instruction"
+  },
+  "options":{
+    "message":"オプション（複数可）を選択します。"
+  },
+  "tracking":{
+    "message":"<strong>追跡<\/strong> - ほとんどの追跡を無効にし、さらに匿名で Web が閲覧できるようになります。",
+    "description":"\"Tracking\" option name and it's description"
+  },
+  "malware-domains":{
+    "message":"<strong>マルウェアドメイン<\/strong> - ウイルス、トロイの木馬、ワーム、スパイウェアなどの有害なソフトウェアを広めることで知られるドメインをブロックします。",
+    "description":"\"Malware Domains\" option name and it's description"
+  },
+  "social-media-buttons":{
+    "message":"<strong>ソーシャル メディア ボタン<\/strong> - ユーザーの閲覧習慣に基づいてプロファイルを作成するために使用されるボタンを無効にします。",
+    "description":"\"Social Media Buttons\" option name and it's description"
+  },
+  "anti-adblocking-messsages":{
+    "message":"<strong>反広告ブロックメッセージ<\/strong> - 反広告ブロックメッセージを無効にします。",
+    "description":"\"Anti-Ad blocking Messages\" option name and it's description"
+  },
+  "ios-moreblocking-visual-alt":{
+    "message":"その他のブロックオプションのビジュアル",
+    "description":"More blocking visual alternative text"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser のアイコン",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"追跡、マルウェアドメイン、ソーシャルメディアのボタンおよび反広告ブロックメッセージを無効にします。"
+  }
+}

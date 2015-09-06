@@ -1,0 +1,29 @@
+{
+  "search-suggestion":{
+    "message":"<em>सर्च<\/em> के नीचे <strong>यूआरएल सर्च सुझाव<\/strong> पर टैप करें। ",
+    "description":"Disable search subbsctions instruction"
+  },
+  "ios-urlsuggestion-visual-alt":{
+    "message":"सर्च सुझावों के विज़ुअल को निष्क्रिय करना ",
+    "description":"Search suggestion option disabling visual alternative text"
+  },
+  "open-app":{
+    "message":"Adblock ब्राउज़र ऐप खोलें।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"टैप करें",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock ब्राउज़र आइकन",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"और <strong>सेटिंग<\/strong> चुनें।",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"सर्च सुझाव निष्क्रिय करना "
+  }
+}

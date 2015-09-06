@@ -1,0 +1,29 @@
+{
+  "adblock-plus-menu":{
+    "message":"W polu <em>Prywatność i bezpieczeństwo<\/em> naciśnij <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "whitelist":{
+    "message":"W polu <em>Wyjątki<\/em> naciśnij <strong>Akceptowane strony internetowe<\/strong>.",
+    "description":"view whitelisted websites instruction"
+  },
+  "open-app":{
+    "message":"Otwórz aplikację Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Naciśnij",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"ikonę Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"i wybierz <strong>Ustawienia<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Przeglądanie dozwolonych stron internetowych"
+  }
+}

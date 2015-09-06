@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"<strong>カスタマイズ<\/strong>をタップします。",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"カスタマイズのオプションを選択します。",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"ホーム",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>最近のタブ<\/strong> - このオプションでは、最後に訪問した5つの Web サイトが表示されます。カスタマイズするには、<strong>最近のタブ<\/strong>をタップします。",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>履歴<\/strong> - このオプションでは、訪問した Web サイトすべての履歴が表示されます。カスタマイズするには、<strong>履歴<\/strong>をタップします。",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>トップサイト<\/strong> - デフォルトで有効となるこのオプションでは、最も頻繁に訪問した Web サイトが表示されます。カスタマイズするには、<strong>トップサイト<\/strong>をタップします。",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>ブックマーク<\/strong> - このオプションでは、自分で追加した Web サイトのリストが表示されます。カスタマイズするには、<strong>ブックマーク<\/strong>をタップします。",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>リーディングリスト<\/strong> - リーディングリストのオプションを使用すると、いつでも特定の記事を読むことができます。カスタマイズするには、<strong>リーディングリスト<\/strong>をタップします。",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>サイト提案を表示<\/strong> - デフォルトで有効となるこのオプションでは、Adblock Browser によって選択されたユーザーが興味を持つかもしれない Web サイトへのショートカットが示されます。この機能を無効にするには、<strong>サイト提案を表示<\/strong>をタップします。",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>自動更新<\/strong> - このオプションはデフォルトで有効です。このオプションを変更するには、<strong>自動更新<\/strong>をタップします。",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"検索",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>検索候補を表示<\/strong> - デフォルトで有効となるこのオプションでは、ユーザーの入力に基づいて検索候補が表示されます。この機能を無効にするには、［検索候補を表示] をタップします。",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>インストールされた検索エンジン<\/strong> - タップしてデフォルトの検索エンジンを変更します。",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"タブ",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"デフォルト設定では、Adblock Browser はアプリの終了後にタブを復元しません。これを変更するには、<strong>タブ<\/strong> をタップし、<strong>常に復元<\/strong>を選択します。",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"Android からインポート",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"デフォルトでは、Adblock Browser は Android のブラウザからブックマークと履歴をインポートします。このオプションを変更するには、<strong>Android からインポート<\/strong>をタップし、インポートしたくないオプションのチェックを外します。",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android ハンバーガーメニューのアイコン",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Adblock Browser のカスタマイズ"
+  }
+}

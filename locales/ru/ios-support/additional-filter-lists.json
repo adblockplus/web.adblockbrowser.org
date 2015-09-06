@@ -1,0 +1,52 @@
+{
+  "adblock-plus-menu":{
+    "message":"В разделе <em>Конфиденциальность и безопасность<\/em> нажмите <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "more-blocking-options":{
+    "message":"В разделе <em>Блокировка<\/em> нажмите <strong>Другие функции блокировки<\/strong>.",
+    "description":"Navigation to More Blocking Options section instruction"
+  },
+  "options":{
+    "message":"Выберите один или несколько параметров:"
+  },
+  "tracking":{
+    "message":"<strong>Слежение<\/strong> — Отключает значительную часть отслеживающих скриптов и позволяет улучшить анонимность пользования Интернетом.",
+    "description":"\"Tracking\" option name and it's description"
+  },
+  "malware-domains":{
+    "message":"<strong>Домены с вредоносным ПО<\/strong> — Блокирует домены, распространяющие вредоносные программы, такие как вирусы, трояны, «черви» и шпионское ПО.",
+    "description":"\"Malware Domains\" option name and it's description"
+  },
+  "social-media-buttons":{
+    "message":"<strong>Кнопки социальных сетей<\/strong> — Отключает кнопки, которые используются для создания профилей на основе часто посещаемых вами сайтов.",
+    "description":"\"Social Media Buttons\" option name and it's description"
+  },
+  "anti-adblocking-messsages":{
+    "message":"<strong>Сообщения против блокирования рекламы<\/strong> — Отключает скрипты проверки блокирования рекламы.",
+    "description":"\"Anti-Ad blocking Messages\" option name and it's description"
+  },
+  "ios-moreblocking-visual-alt":{
+    "message":"Изображение инструкции по дополнительным параметрам блокировки",
+    "description":"More blocking visual alternative text"
+  },
+  "open-app":{
+    "message":"Откройте приложение Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Нажмите на",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Значок Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"и выберите <strong>Параметры<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Отключение слежения, доменов с вредоносным ПО, кнопок социальных сетей и сообщений о заблокированной рекламе"
+  }
+}

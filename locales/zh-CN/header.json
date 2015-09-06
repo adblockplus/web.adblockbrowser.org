@@ -1,0 +1,20 @@
+{
+  "abb-logo-alt":{
+    "message":"Adblock Browser徽标"
+  },
+  "hamburger-image-alt":{
+    "message":"导航"
+  },
+  "support-ios":{
+    "message":"iOS支持"
+  },
+  "support-android":{
+    "message":"安卓支持"
+  },
+  "bookmark":{
+    "message":"来自...的制作者"
+  },
+  "abp-logo-alt":{
+    "message":"Adblock Plus徽标"
+  }
+}

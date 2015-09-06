@@ -1,0 +1,29 @@
+{
+  "adblock-plus-menu":{
+    "message":"En bas de <em>Confidentialité & Sécurité<\/em>, appuyez sur <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "whitelist":{
+    "message":"En bas de <em>Exceptions<\/em>, appuyez sur <strong>Sites web sur liste blanche<\/strong>.",
+    "description":"view whitelisted websites instruction"
+  },
+  "open-app":{
+    "message":"Ouvrez l'application Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Appuyez sur",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"l'icône Adblock Browser,",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"puis sélectionnez <strong>Paramètres<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Visualisation des sites web en liste blanche"
+  }
+}

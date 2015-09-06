@@ -1,0 +1,29 @@
+{
+  "install":{
+    "message":"iOS के लिए Adblock ब्राउज़र इनस्टॉल करना "
+  },
+  "adding-filter-list":{
+    "message":"फ़िल्टर लिस्ट जोड़ना"
+  },
+  "removing-filter-list":{
+    "message":"फ़िल्टर लिस्ट हटाना "
+  },
+  "acceptable-ads-config":{
+    "message":"स्वीकार्य विज्ञापनों को समनुरूप करें"
+  },
+  "additional-filter-lists":{
+    "message":"ट्रैकिंग, मैलवेयर डोमेन, सामाजिक मीडिया बटन और एंटी-एड ब्लॉकिंग मैसेजेस को निष्क्रिय करना"
+  },
+  "changing-search-engine":{
+    "message":"डिफ़ॉल्ट सर्च इंजन को बदलना"
+  },
+  "disable-search-suggestions":{
+    "message":"सर्च सुझाव निष्क्रिय करना"
+  },
+  "view-whitelisted-websites":{
+    "message":"वाइटलिस्टेड वेबसाइट्स को देखना "
+  },
+  "title":{
+    "message":"iOS सपोर्ट"
+  }
+}

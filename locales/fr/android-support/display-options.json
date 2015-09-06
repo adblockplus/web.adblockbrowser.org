@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"Appuyez sur <strong>Affichage<\/strong>.",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"Les options suivantes sont disponibles dans la rubrique <em>Affichage<\/em> :",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>Taille du texte<\/strong> : Par défaut, la <strong>taille du texte<\/strong> est réglée sur moyenne. Pour la changer, appuyez Taille du texte. Sur l'écran de texte, appuyez soit sur le petit « A » ou le grand « A » pour ajuster la taille du texte. Puis appuyez sur <strong>Définir<\/strong>.",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>Barre de titre<\/strong> : Cette option vous permet d'afficher soit le titre de la page ou l'adresse cette dernière. Par défaut, l'adresse de la page est sélectionnée. Pour afficher le titre de la page, appuyez sur <strong>Barre de titre<\/strong> et sélectionnez <strong>Afficher le titre de la page<\/strong>.",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>Navigation plein écran<\/strong> : Si vous souhaitez afficher la barre de titre d'Adblock Browser lorsque vous faites défiler une page vers le bas, appuyez sur la case à cocher.",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>Autoriser la lecture automatique<\/strong> : Activée par défaut, cette option contrôle la lecture automatique des vidéos et autres contenus multimédia. Si vous ne souhaitez pas que les vidéos et tout autre contenu médias soit lu automatiquement, appuyez sur la case à cocher.",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"Les options suivantes sont disponibles dans la rubrique <em>Avancé<\/em> :",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>Codage des caractères<\/strong> : Cette option contrôle l'affichage du menu de codage des caractères. Par défaut, le menu de codage de caractères n'est pas visible. Si vous souhaitez l'afficher, appuyez sur <strong>Codage des caractères<\/strong>, puis sélectionnez <strong>Afficher le menu<\/strong>.",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>Plugins<\/strong> : Cette option vous permet de contrôler les préférences relatives aux plugins.",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Ouvrez l'application Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Appuyez sur",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"l'icône du menu Hamburger d'Android,",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"puis sélectionnez <strong>Paramètres<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Modification des options d'affichage"
+  }
+}

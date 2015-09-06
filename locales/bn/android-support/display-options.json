@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"<strong>প্রদর্শন করুন<\/strong>-এ টোকা দিন।",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"<em>প্রদর্শন করুন<\/em>-এর নিচে নিম্নোক্ত বিকল্পগুলো পাওয়া যাবেঃ",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>টেক্সটের আকার<\/strong> - পূর্বনিহিত ব্যবস্থা মতো <strong>টেক্সটের আকার<\/strong> মাঝারিতে নির্দিষ্ট করা আছে। এটাকে বদলাতে, টেক্সটের আকার-এ টোকা দিন। টেক্সটের আকার ঠোকঠাক করার জন্য টেক্সট স্ক্রীণের উপর বড় আকারের বা ছোট আকারের 'A'-তে টোকা দিন। <strong>নির্দিষ্ট করুন<\/strong>-এ টোকা দিন।",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>শিরোনাম বার<\/strong> - এই বিকল্পটি আপনাকে পাতার শিরোনাম বা পাতার ঠিকানা প্রদর্শিত করতে দেয়। পূর্বনিহিত ব্যবস্থা মতো, পাতার ঠিকানা নির্বাচন করাই থাকে। পাতার শিরোনাম প্রদর্শনের জন্য, <strong>শিরোনাম বার<\/strong>-এ টোকা দিন এবং <strong>পাতার শিরোনাম দেখান<\/strong> নির্বাচন করুন।",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>স্ক্রীণ জুড়ে ব্রাউজ করা<\/strong> - একটি পাতা স্ক্রল করে নিচের দিকে নামার সময় যদি আপনি Adblock Browser-এর শিরোনাম বার দেখতে চান, তাহলে চেকবাক্সটিতে টোকা দিন।",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>স্বয়ংক্রিয়ভাবে চালু করার মঞ্জুরী দিন<\/strong> - পূর্বনিহিত ব্যবস্থা মতো সক্ষম করে রাখা এই বিকল্পটি ভিডিও তথা অন্যান্য গণমাধ্যম বিষয়বস্তুগুলোর স্বয়ংক্রিয়ভাবে চালু হয়ে যাওয়া নিয়ন্ত্রণ করে। আপনি যদি না চান যে, ভিডিও ও অন্যান্য গণমাধ্যম বিষয়বস্তুগুলো নিজে থেকেই চালু হয়ে যাক, তাহলে চেকবাক্সে টোকা দিন।",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"<em>উন্নত<\/em>-এর নিচে নিম্নোক্ত বিকল্পগুলো পাওয়া যাবেঃ",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>অক্ষর সংকেতায়ন<\/strong> - এই বিকল্পটি অক্ষর সংকেতায়ন বিষয়ক মেনগুলোর প্রদর্শনকে নিয়ন্ত্রিত করে।পূর্বনিহিত ব্যবস্থা মতো অক্ষর সংকেতায়ন মেনু দৃশ্যমান অবস্থান থাকে না। আপনি যদি মেনগুলোকে দেখতে চান, তাহলে <strong>অক্ষর সংকেতায়ন<\/strong>-এ টোকা দিন এবং <strong>মেনু দেখান<\/strong> নির্বাচন করুন।",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>প্লাগইন<\/strong> - এই বিকল্পটি আপনাকে প্লাগইন সংক্রান্ত পছন্দ-অপছন্দগুলোকে নিয়ন্ত্রণ করতে দেয়।",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Adblock Browser অ্যাপটা খুলুন।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"টোকা দিন",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"অ্যান্ড্রয়েড হ্যামবার্গার মেনু আইকন",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"এবং <strong>সেটিংস<\/strong> নির্বাচন করুন।",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"প্রদর্শন সংক্রান্ত বিকল্পগুলোকে পরিবর্তন করা"
+  }
+}

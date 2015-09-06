@@ -1,0 +1,49 @@
+{
+  "adblocking":{
+    "message":"<em>গোপনীয়তা ও নিরাপত্তা<\/em>-এর নিচে, <strong>Adblock Plus<\/strong>-এ টোকা দিন।",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"<em>আটকানো<\/em>-এর নিচে, <strong>বিজ্ঞাপন আটকানো<\/strong>-এ টোকা দিন।",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"<em>অন্যান্য ভাষাগুলি<\/em>-র নিচে যেটির গ্রাহকত্ব নিতে চান তার জন্য <strong>পরিশোধকের তালিকা<\/strong> নির্বাচন করুন।",
+    "description":"Filter list subscription instruction"
+  },
+  "ios-addfilter-visual-alt":{
+    "message":"একটা দৃষ্টি সহায়ক পরিশোধক তালিকা যোগ করা",
+    "description":"Add filter visual alternative text"
+  },
+  "default-filter-list":{
+    "message":"বিজ্ঞাপন আটকানোর জন্য Adblock Browser-এর পরিশোধকের তালিকার প্রয়োজন হয়। আপনার ব্রাউজারের ভাষাগত সেটিংস-এর উপর ভিত্তি করে একটি পূর্বনিহিত পরিশোধকের তালিকা স্বয়ংক্রিয়ভাবে সক্ষম হয়ে যায় যখন Adblock Browser ইনস্টল করা হয়।"
+  },
+  "additional-filter-lists":{
+    "message":"দুটি মূল পরিশোধক তালিকা আছে - ইজিলিস্ট এবং ফ্যানবয়েজ লিস্ট। এই দুটি পরিশোধক সবচেয়ে জনপ্রিয় (প্রায়শই যেগুলি ইংরেজি ভাষার হয়ে থাকে) ওয়েবসাইটগুলো থেকে আসা বিজ্ঞাপনগুলোকে আটকায়। তবে, এই পরিশোধক কিন্তু অপেক্ষাকৃত কম জনপ্রিয় দেশীয় ওয়েবসাইটগুলো থেকে আসা বিজ্ঞাপনগুলোকে আটকায় না। উদাহরণস্বরূপ, আপনি যদি জার্মানির লোক হন, সেক্ষেত্রে আপনাকে জার্মানির দেশীয় পরিশোধক তালিকা ক্রয় করতে হবে।"
+  },
+  "note":{
+    "message":"লক্ষ্য করুন"
+  },
+  "note-text":{
+    "message":"সুপারিশ অনুযায়ী, Adblock Browser-এ আপনার অধিকসংখ্যক পরিশোধক তালিকা যোগ করা উচিত্ নয়। অনেক বেশি সংখ্যক তালিকা যোগ করলে বিজ্ঞাপন আটককারীর গতি স্থল হয়ে পড়ে এবং সেই কারণে আপনার ব্রাউজিং-ও।"
+  },
+  "open-app":{
+    "message":"Adblock Browser অ্যাপটা খুলুন।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"টোকা দিন",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser আইকন",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"এবং <strong>সেটিংস<\/strong> নির্বাচন করুন।",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"একটা পরিশোধক তালিকা যোগ করা"
+  }
+}

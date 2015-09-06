@@ -1,0 +1,33 @@
+{
+  "search-engine":{
+    "message":"W polu <em>Blokowanie<\/em> naciśnij <strong>Wyszukiwarka<\/strong>.",
+    "description":"Navigation to Search Engins page"
+  },
+  "default-search-engine":{
+    "message":"Wybierz nową domyślną wyszukiwarkę.",
+    "description":"Changing default search engine instruction"
+  },
+  "ios-defaultsearch-visual-alt":{
+    "message":"Zmiana wizualna domyślnej wyszukiwarki",
+    "description":"Default search engine changing visual alternative text"
+  },
+  "open-app":{
+    "message":"Otwórz aplikację Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Naciśnij",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"ikonę Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"i wybierz <strong>Ustawienia<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Zmiana domyślnej wyszukiwarki"
+  }
+}

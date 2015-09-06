@@ -1,0 +1,33 @@
+{
+  "search-engine":{
+    "message":"<em>検索<\/em>の下で、<strong>検索エンジン<\/strong>をタップします。",
+    "description":"Navigation to Search Engins page"
+  },
+  "default-search-engine":{
+    "message":"新しいデフォルトの検索エンジンを選択します。",
+    "description":"Changing default search engine instruction"
+  },
+  "ios-defaultsearch-visual-alt":{
+    "message":"デフォルトの検索エンジンのビジュアルを変更",
+    "description":"Default search engine changing visual alternative text"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser のアイコン",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong> を選択します。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"デフォルトの検索エンジンの変更"
+  }
+}

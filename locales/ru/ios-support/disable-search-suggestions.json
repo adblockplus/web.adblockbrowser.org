@@ -1,0 +1,29 @@
+{
+  "search-suggestion":{
+    "message":"В разделе <em>Поиск<\/em> нажмите <strong>Подсказки в адресной строке<\/strong>.",
+    "description":"Disable search subbsctions instruction"
+  },
+  "ios-urlsuggestion-visual-alt":{
+    "message":"Изображение инструкции по отключению поисковых подсказок",
+    "description":"Search suggestion option disabling visual alternative text"
+  },
+  "open-app":{
+    "message":"Откройте приложение Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Нажмите",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Значок Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"и выберите <strong>Параметры<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Отключение поисковых подсказок"
+  }
+}

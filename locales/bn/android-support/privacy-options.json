@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"Adblock Browser একাধিক অনুকূলনযোগ্য গোপনীয়তা সংক্রান্ত বিন্যাস প্রদান করে।",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"<strong>গোপনীয়তা<\/strong>-এ টোকা দিন।",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"<em>গোপনীয়তা<\/em>-এর নিচে নিম্নোক্ত বিকল্পগুলো পাওয়া যাবেঃ"
+  },
+  "do-not-track":{
+    "message":"<strong>নজরদারি চালাবেন না<\/strong> - আপনি যদি চান যে ব্রাউজ করার সময় আপনার উপর নজরদারি চালানো হোক, তাহলে এই চেকবাক্সটিতে টোকা দিন।",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>কূকিজ<\/strong> - কূকিজ হল আপনার যন্ত্রে সংরক্ষিত থাকা টুকরো টুকরো তথ্যসম্ভার যা আপনি যে সমস্ত ওয়েবসাইটগুলো দেখেন সেগুলো সংরক্ষিত করে রাখে। কূকিজ সংক্রান্ত বিকল্পগুলো নির্দিষ্ট করার জন্য, <strong>কূকিজ<\/strong>-এ টোকা দিন। যদি <strong>সক্ষম<\/strong> করা থাকে, তাহলে প্রথম ও তৃতীয় উভয় পক্ষের কূকিজ অনুমোদিত হবে।যদি <strong>সক্ষম করা আছে, ৩য় পক্ষ ব্যতিরেকে<\/strong> থাকে, তাহলে শুধুমাত্র প্রথম পক্ষের কূকিজ অনুমোদিত হবে। যদি <strong>অক্ষম<\/strong> করা থাকে, তাহলে প্রথম ও তৃতীয় উভয় পক্ষের কূকি-ই নিষিদ্ধ হবে।",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>পাসওয়ার্ড মনে রাখুন<\/strong> - এই বিকল্পটি পূর্বনিহিত ব্যবস্থা মতো সক্ষম করাই থাকে। আপনি যদি না চান যে, Adblock Browser আপনার পাসওয়ার্ড মনে রাখুক, তাহলে এই বৈশিষ্ট্যটিকে অক্ষম করার জন্য চেকবাক্সে টোকা দিন।",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>নিয়ন্ত্রক পাসওয়ার্ড ব্যবহার করুন<\/strong> - আপনি যদি আপনার সমস্ত লগইনগুলোর জন্য একটাই নিয়ন্ত্রক পাসওয়ার্ড ব্যবহার করতে চান, তাহলে <strong>নিয়ন্ত্রক পাসওয়ার্ড ব্যবহার করুন<\/strong>-এ টোকা দিন। <em>নিয়ন্ত্রক পাসওয়ার্ড তৈরি করুন<\/em> স্ক্রীণে আপনার নিয়ন্ত্রক পাসওয়ার্ডটি দিন এবং নিশ্চিত করুন।",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"<em>ব্যক্তিগত উপাত্ত মুছে ফেলুন<\/em>-এর নিচে নিম্নোক্ত বিকল্পগুলো পাওয়া যাবেঃ"
+  },
+  "clear-now":{
+    "message":"<strong>এখনি মুছে ফেলুন<\/strong> - নিম্নোক্ত উপাত্তগুলো মুছে ফেলতে এখনি মুছে ফেলুন-এ টোকা দিনঃ ব্রাউজ করার ইতিহাস, ডাউনলোডগুলো, ফর্ম এবং অনুসন্ধান সংক্রান্ত ইতিহাস, কূকিজ এবং সক্রিয় লগইন, সংরক্ষিত পাসওয়ার্ডগুলো, ক্যাশ, ওয়েবসাইটের অফলাইন উপাত্তগুলো এবং সাইট সংক্রান্ত সেটিংস। পূর্বনিহিত ব্যবস্থা মতো, সমস্ত উপাত্ত বিকল্পগুলো নির্বাচিত অবস্থায় থাকে। আপনি যদি সবগুলোকে একসঙ্গে মুছে ফেলতে না চান, তাহলে নির্দিষ্ট বিকল্পটিতে টোকা দিন।",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>প্রস্থানের সাথে সাথে মুছে ফেলুন<\/strong> - প্রতিবার প্রস্থানের সাথে সাথেই স্বয়ংক্রিয়ভাবে উপাত্তগুলো মুছে ফেলতে এই চেকবাক্সে টোকা দিন।",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Adblock Browser অ্যাপটা খুলুন।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"টোকা দিন",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"অ্যান্ড্রয়েড হ্যামবার্গার মেনু আইকন",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"এবং <strong>সেটিংস<\/strong> নির্বাচন করুন।",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"গোপনীয়তা সংক্রান্ত বিকল্পগুলোকে নিয়ন্ত্রণ করা"
+  }
+}

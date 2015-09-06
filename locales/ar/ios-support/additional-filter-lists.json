@@ -1,0 +1,52 @@
+{
+  "adblock-plus-menu":{
+    "message":"أسفل<em>الخصوصة والأمان<\/em>، انقر على <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "more-blocking-options":{
+    "message":"أسفل<em>الإعلانات المحجوبة<\/em>، انقر على <strong>المزيد من خيارات الحجب<\/strong>.",
+    "description":"Navigation to More Blocking Options section instruction"
+  },
+  "options":{
+    "message":"اختر خيارا (أو خيارات):"
+  },
+  "tracking":{
+    "message":"<strong>التعقب<\/strong> - يعطل معظم عمليات التعقب ويصبح التصفح أكثر سرية.",
+    "description":"\"Tracking\" option name and it's description"
+  },
+  "malware-domains":{
+    "message":"<strong>أسماء النطاقات الضارة<\/strong> - يحجب أسماء النطاقات المتعارف عنها أنها تنشر البرمجيات الضارة مثل الفيروسات وأحصنة طروادة والبرمجيات الدودية وبرامج التجسس.",
+    "description":"\"Malware Domains\" option name and it's description"
+  },
+  "social-media-buttons":{
+    "message":"<strong>أزرار وسائل الإعلام الاجتماعي<\/strong> - يعطل الأزرار التي تستخدم في إنشاء الملفات الشخصية بناء على عادات تصفحك.",
+    "description":"\"Social Media Buttons\" option name and it's description"
+  },
+  "anti-adblocking-messsages":{
+    "message":"<strong>رسائل مكافحة برامج حجب الإعلانات<\/strong> - يعطل النصوص البرمجية للبرمجيات التي تكافح برامج حجب الإعلانات.",
+    "description":"\"Anti-Ad blocking Messages\" option name and it's description"
+  },
+  "ios-moreblocking-visual-alt":{
+    "message":"خيارات إضافية بصرية للحجب",
+    "description":"More blocking visual alternative text"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"أيقونة Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"تعطيل التعقب وأسماء النطاقات الضارة وأزرار وسائل الإعلام الاجتماعي ورسائل مكافحة برامج حجب الإعلانات"
+  }
+}

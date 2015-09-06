@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"В Adblock Browser есть несколько настраиваемых параметров конфиденциальности.",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"Нажмите <strong>Конфиденциальность<\/strong>.",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"В разделе <em>Конфиденциальность<\/em> доступны следующие параметры:"
+  },
+  "do-not-track":{
+    "message":"<strong>Не отслеживать<\/strong> — Установите этот флажок, если хотите, чтобы посещение вами сайтов не отслеживалось.",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>Файлы cookie<\/strong> — Файлы cookie содержат информацию, которую посещаемые вами веб-сайты сохраняют на вашем устройстве. Что бы настроить параметры файлов cookie, нажмите <strong>файлы cookie<\/strong>. Если выбран вариант <strong>Включены<\/strong>, разрешается хранение как собственных, так и сторонних cookie-файлов. Если выбран вариант <strong>Включены, за исключение сторонних<\/strong>, сайтам разрешается хранение только собственных cookie-файлов. Если выбран вариант <strong>Отключены<\/strong>, хранение и собственных и сторонних cookie-файлов будет запрещено.",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>Запоминать пароли<\/strong> — Эта функция по умолчанию включена. Если вы не хотите, чтобы в Adblock Browser сохранялись ваши пароли, снимите флажок, чтобы отключить эту функцию.",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>Использовать мастер-пароль<\/strong> — Если вы хотите использовать едины мастер-пароль для авторизации на всех сайтах, нажмите <strong>Использовать мастер-пароль<\/strong>. Введите и подтвердите ваш мастер-пароль на экране <em>Создание мастер-пароля<\/em>.",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"В разделе <em>Очистка личных данных<\/em> доступны следующие параметры:"
+  },
+  "clear-now":{
+    "message":"<strong>Очистить сейчас<\/strong> — Выберите этот пункт, чтобы удалить следующие данные: историю, загрузки, сохраненные формы и историю поисковых запросов, файлы cookie и текущую авторизацию, сохраненные пароли, кэш, сохраненные данные сайтов и настройки сайтов. По умолчанию выбраны все виды данных. Нажмите на один из видов данных, если вы не хотите удалять данные этого вида.",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>Очищать при выходе<\/strong> — Установите это флажок, чтобы автоматически удалять данные каждый раз при выходе из приложения.",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Откройте приложение Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Нажмите",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Значок меню Android («гамбургер»)",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"и выберите <strong>Параметры<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Настройка параметров конфиденциальности"
+  }
+}

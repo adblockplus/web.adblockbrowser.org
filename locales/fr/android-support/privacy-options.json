@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"Adblock Browser propose plusieurs paramètres de confidentialité personnalisables.",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"Appuyez sur <strong>Confidentialité<\/strong>.",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"Les options suivantes sont disponibles dans la rubrique <em>Confidentialité<\/em> :"
+  },
+  "do-not-track":{
+    "message":"<strong>Ne pas suivre<\/strong> : Cochez la case si vous ne souhaitez pas être suivis pendant la navigation.",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>Cookies<\/strong> : Les cookies sont des informations stockées sur votre appareil par les sites web que vous visitez. Pour définir les options des cookies, appuyez sur <strong>Cookies<\/strong>. Si <strong>Activés<\/strong>, les cookies propriétaires et tiers sont tous les deux autorisés. Si <strong>Activés, à l'exclusion des tiers<\/strong>, seuls les cookies propriétaires autorisés. Si <strong>Désactivés<\/strong>, les cookies propriétaires et tiers sont tous les deux rejetés.",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>Retenir les mots de passe<\/strong> : Cette option est activée par défaut. Si vous ne souhaitez pas qu'Adblock Browser retienne vos mots de passe, appuyez sur la case à cocher pour désactiver cette fonctionnalité.",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>Utilisez un mot de passe principal<\/strong> : Si vous préférez utiliser un mot de passe principal pour tous vos identifiants, appuyez sur <strong>Utiliser un mot de passe principal<\/strong>. Sur l'écran <em>Créer un mot de passe principal<\/em>, entrez et confirmez votre mot de passe principal.",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"Les options suivantes sont disponibles dans la rubrique <em>Effacer les données confidentielles<\/em> :"
+  },
+  "clear-now":{
+    "message":"<strong>Effacer maintenant<\/strong> - Appuyez sur effacer maintenant pour effacer les données suivantes : l'historique de navigation, les téléchargements, les formulaires et l'historique des recherches, les cookies et les connexions actives, les mots de passe sauvegardés, le cache, les données hors-ligne des sites web et les leurs paramètres. Par défaut, toutes les options de données sont sélectionnées. Appuyez sur une option spécifique si vous ne souhaitez pas effacer les données qui lui sont associées.",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>Effacer après fermeture<\/strong> : Appuyez sur cette case pour effacer automatiquement les données à chaque fois que vous fermez la cession.",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Ouvrez l'application Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Appuyez sur",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"l'icône du menu Hamburger d'Android,",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"puis sélectionnez <strong>Paramètres<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Contrôle des options de confidentialité"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "playstore-navigation":{
+    "message":"Besuchen Sie den Google Play Store und suchen Sie nach Adblock Browser.",
+    "description":"Instruction about Adblock Browser profile navigation"
+  },
+  "install":{
+    "message":"Tippen Sie <strong>Installieren<\/strong>.",
+    "description":"Installation instruction"
+  },
+  "title":{
+    "message":"Installation von Adblock Browser für Android"
+  }
+}

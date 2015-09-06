@@ -1,0 +1,32 @@
+{
+  "install":{
+    "message":"Instalowanie aplikacji Adblock Browser na urządzeniach z systemem Android"
+  },
+  "adding-filter-list":{
+    "message":"Dodawanie listy filtrów"
+  },
+  "removing-filter-list":{
+    "message":"Usuwanie listy filtrów"
+  },
+  "acceptable-ads-config":{
+    "message":"Konfigurowanie akceptowanych reklam"
+  },
+  "customizing-abb":{
+    "message":"Dostosowywanie aplikacji Adblock Browser"
+  },
+  "display-options":{
+    "message":"Zmiana opcji wyświetlania"
+  },
+  "privacy-options":{
+    "message":"Kontrola opcji prywatności"
+  },
+  "changing-language":{
+    "message":"Zmiana języka przeglądarki"
+  },
+  "faq":{
+    "message":"Najczęściej zadawane pytania"
+  },
+  "title":{
+    "message":"Wsparcie systemu Android"
+  }
+}

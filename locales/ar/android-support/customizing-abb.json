@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"انقر على <strong>تخصيص<\/strong>.",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"اختر خيارا لتخصيصه:",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"الرئيسية",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>علامات التبويب الأخيرة<\/strong> - يعرض لك هذا الخيار آخر خمسة مواقع إلكترونية قمت بزيارتها. ولتخصيصه، انقر على <strong>علامات التبويب الأخيرة<\/strong>.",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>سجل التصفح<\/strong> - يعرض لك هذا الخيار السجل الخاص بكل المواقع الإلكترونية التي قمت بزيارتها. ولتخصيصه، انقر على <strong>سجل التصفح<\/strong>.",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>أفضل المواقع<\/strong> - يتم تمكين هذا الخيار بشكل افتراضي، وهو يعرض لك أكثر المواقع الإلكترونية التي قمت بزيارتها باستمرار. ولتخصيصه، انقر على <strong>أفضل المواقع<\/strong>.",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>الإشارات المرجعية<\/strong> - يعرض لك هذا الخيار قائمة المواقع الإلكترونية التي قمت بإضافتها خصيصا. ولتخصيصه، انقر على <strong>الإشارات المرجعية<\/strong>.",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>قائمة القراءة<\/strong> - يتيح لك خيار قائمة القراءة بالرجوع إلى أي مقالة في أي وقت. ولتخصيصه، انقر على <strong>قائمة القراءة<\/strong>.",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>عرض المواقع المقترحة<\/strong> - يتم تمكين هذا الخيار بشكل افتراضي، وهو يقترح عليك اختصارات لمواقع إلكترونية يعتقد Adblock Browser أنك سوف تستمتع بها. ولتعطيل هذه الميزة، انقر على <strong>عرض المواقع المقترحة<\/strong>.",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>التحديثات التلقائية<\/strong> - يتم تمكين هذا الخيار بشكل افتراضي. ولتغيير هذا الخيار، انقر على <strong>التحديثات التلقائية<\/strong>.",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"البحث",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>عرض اقتراحات البحث<\/strong> - يتم تمكين هذا الخيار بشكل افتراضي، وهو يعرض لك اقتراحات للبحث بناء على مدخلاتك. ولتعطيل هذه الميزة، انقر على عرض اقتراحات البحث.",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>محركات البحث المثبتة<\/strong> - انقر لتغيير محرك البحث الافتراضي.",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"علامات التبويب",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"بشكل افتراضي، لا يقوم Adblock Browser باستعادة علامات التبويب بعد إغلاق التطبيق. ولتغيير هذا الأمر، انثر على <strong>علامات التبويب<\/strong> واختر <strong>الاستعادة دائما<\/strong>.",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"الاستيراد من Android",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"بشكل افتراضي، يقوم Adblock Browser باستيراد الإشارات المرجعية الخاصة بك وسجل التصفح من متصفح Android الأصلي. ولتغيير هذا الخيار، انقر على <strong>الاستيراد من Android<\/strong> وأزل التأشير من على الخيار أو الخيارات التي لا تريد استيرادها.",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"أيقونة قائمة Android hamburger",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"تخصيص Adblock Browser"
+  }
+}

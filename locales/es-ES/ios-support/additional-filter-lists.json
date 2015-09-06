@@ -1,0 +1,52 @@
+{
+  "adblock-plus-menu":{
+    "message":"Debajo de <em>Privacidad y seguridad<\/em>, pulse en <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "more-blocking-options":{
+    "message":"Debajo de <em>bloqueo<\/em>, pulse <strong>Más opciones de bloqueo<\/strong>.",
+    "description":"Navigation to More Blocking Options section instruction"
+  },
+  "options":{
+    "message":"Seleccione una opción (u opciones):"
+  },
+  "tracking":{
+    "message":"<strong>Seguimiento<\/strong> - desactiva la mayoría del seguimiento para navegar por la web más anónimamente.",
+    "description":"\"Tracking\" option name and it's description"
+  },
+  "malware-domains":{
+    "message":"<strong>Dominios de malware<\/strong> - bloquea dominios conocidos por propagar software malicioso, como virus, troyanos, gusanos y spyware.",
+    "description":"\"Malware Domains\" option name and it's description"
+  },
+  "social-media-buttons":{
+    "message":"<strong>Botones de redes sociales<\/strong> - desactiva botones utilizados para crear perfiles basados en sus hábitos de navegación.",
+    "description":"\"Social Media Buttons\" option name and it's description"
+  },
+  "anti-adblocking-messsages":{
+    "message":"<strong>Mensajes antibloqueo de anuncios<\/strong> - deshabilita los scripts antianuncios.",
+    "description":"\"Anti-Ad blocking Messages\" option name and it's description"
+  },
+  "ios-moreblocking-visual-alt":{
+    "message":"Más opciones de bloqueo visual",
+    "description":"More blocking visual alternative text"
+  },
+  "open-app":{
+    "message":"Abra la app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Pulse",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Icono de Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"y seleccione <strong>ajustes<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Deshabilitar seguimiento, dominios de malware, botones de redes sociales y mensajes antibloqueo de publicidad"
+  }
+}

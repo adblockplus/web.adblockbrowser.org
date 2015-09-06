@@ -1,0 +1,37 @@
+{
+  "language":{
+    "message":"انقر على <strong>اللغة<\/strong>.",
+    "description":"Navigation to languages section instruction"
+  },
+  "area-below-languages":{
+    "message":"انقر على المنطقة في أسفل <em>لغة المتصفح<\/em>.",
+    "description":"Navigation to languages section instruction"
+  },
+  "available-languages-list":{
+    "message":"سوف تظهر قائمة باللغات المتوفرة.",
+    "description":"substep instruction below Browser Language navigation step"
+  },
+  "select-language":{
+    "message":"انقر على اللغة المطلوبة.",
+    "description":"Last step of instruction"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"أيقونة قائمة Android hamburger",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"تغيير لغة المتصفح"
+  }
+}

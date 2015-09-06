@@ -1,0 +1,33 @@
+{
+  "search-engine":{
+    "message":"Tippen Sie unter <em>Suche<\/em> auf <strong>Suchmaschine<\/strong>.",
+    "description":"Navigation to Search Engins page"
+  },
+  "default-search-engine":{
+    "message":"Wählen Sie eine neue Standard-Suchmaschine.",
+    "description":"Changing default search engine instruction"
+  },
+  "ios-defaultsearch-visual-alt":{
+    "message":"Die Standard-Suchmaschine ändern (visuell)",
+    "description":"Default search engine changing visual alternative text"
+  },
+  "open-app":{
+    "message":"Öffnen Sie die Adblock Browser-App.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tippen Sie",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser-Symbol",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"und wählen Sie <strong>Einstellungen<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Die Standard-Suchmaschine ändern"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"點擊 <strong>自定義<\/strong>。",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"選擇一個選項以自定義：",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"主頁",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>最近選項卡<\/strong>-該選項將顯示您最近訪問的5個網站。若要自定義，請點擊 <strong>最近選項卡<\/strong>。",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>歷史<\/strong>-該選項將顯示您訪問過的每個網站的歷史。若要自定義，請點擊 <strong>歷史<\/strong>。",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>熱門網站<\/strong>- 默認為啟用，該選項將顯示您最常訪問的網站。若要自定義，請點擊 <strong>熱門網站<\/strong>。",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>書籤<\/strong>-該選項會顯示您特別添加的網站列表。若要自定義，請點擊 <strong>書籤<\/strong>。",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>閱讀列表<\/strong>-閱讀列表選項可以讓您直接參考任意時間點的一篇文章。若要自定義，請點擊 <strong>閱讀列表<\/strong>。",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>顯示網站建議<\/strong>- 默認啟用，該選項會建議Adblock Browser認為您可能會感興趣的網站的快捷方式。若要禁用該功能，請點擊 <strong>顯示網站建議<\/strong>。",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>自動更新<\/strong>- 該選項默認啟用。若要更改該選項，請點擊 <strong>自動更新<\/strong>。",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"搜索",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>顯示搜索建議<\/strong>- 默認啟用，該選項會根據您輸入的信息顯示搜索建議。若要禁用該功能，請點擊“顯示搜索建議”。",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>已安裝搜尋引擎<\/strong>- 點擊以更改默認搜索引擎。",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"選項卡",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"默認情況下，Adblock Browser 不會在您退出應用後恢復選項卡。若要更改該設定，請點擊<strong>選項卡<\/strong>，然後選擇<strong>始終恢復<\/strong>。",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"從安卓導入",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"在默認情況下，Adblock Browser會從原生安卓瀏覽器導入您的書籤和歷史。若要更改該設定，請點擊 <strong>從安卓導入<\/strong>，然後取消勾選您不希望導入的選項。",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"打開 Adblock Browser應用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"點擊",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"安卓漢堡包功能表圖示",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"然後選擇 <strong>設定<\/strong>。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"自定義 Adblock Browser"
+  }
+}

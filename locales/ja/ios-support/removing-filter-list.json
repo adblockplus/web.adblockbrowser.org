@@ -1,0 +1,37 @@
+{
+  "adblock-plus-menu":{
+    "message":"<em>プライバシーとセキュリティ<\/em>の下で、<strong>Adblock Plus<\/strong> をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "ad-blocking":{
+    "message":"<em>ブロック<\/em>の下で、<strong>広告をブロック<\/strong>をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "remove-filter-list":{
+    "message":"<em>... で有効なウェブサイト<\/em>の下で削除したい<strong>フィルタリスト<\/strong>を選択します。",
+    "description":"Filter list removal instruction"
+  },
+  "ios-removefilter-visual-alt":{
+    "message":"フィルタリストのビジュアルの削除",
+    "description":"Removing filter list visual alternative text"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser のアイコン",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"フィルタリストの削除"
+  }
+}

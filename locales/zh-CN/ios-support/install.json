@@ -1,0 +1,13 @@
+{
+  "adblock-browser-search":{
+    "message":"前往 App Store 搜索 <strong>Adblock Browser<\/strong>。",
+    "description":"Instruction about Adblock Browser profile navigation"
+  },
+  "install":{
+    "message":"点击 <strong>安装<\/strong>。",
+    "description":"Installation instruction"
+  },
+  "title":{
+    "message":"安装 iOS版 Adblock Browser"
+  }
+}

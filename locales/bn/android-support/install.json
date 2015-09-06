@@ -1,0 +1,13 @@
+{
+  "playstore-navigation":{
+    "message":"গুগুল প্লে বিপণীতে যান এবং Adblock Browser অনুসন্ধান করুন।",
+    "description":"Instruction about Adblock Browser profile navigation"
+  },
+  "install":{
+    "message":"<strong>ইনস্টল<\/strong>-এ টোকা দিন।",
+    "description":"Installation instruction"
+  },
+  "title":{
+    "message":"অ্যান্ড্রয়েডের জন্য Adblock Browser ইনস্টল করা"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"O Adblock Browser tem muitas opções de privacidade personalizáveis.",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"Toque em <strong>Privacidade<\/strong>.",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"As seguintes opções estão disponíveis por debaixo de <em>Privacidade<\/em>:"
+  },
+  "do-not-track":{
+    "message":"<strong>Não seguir<\/strong> - Toque nesta caixa de seleção se não desejar ser seguido enquanto navega.",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>Cookies<\/strong> - Cookies são pedaços de informação armazenados no seu dispositivo por websites que visita. Para definir as opções de cookies, toque em <strong>Cookies<\/strong>. Se <strong>Ativos<\/strong>, são permitidos cookies de primeiros e de terceiros. Se <strong>Ativos, excluindo de terceiros<\/strong>, apenas os cookies de primeiros são permitidos. Se <strong>Desativos<\/strong>, não são permitidos cookies de primeiros nem de terceiros.",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>Lembrar palavras-passe<\/strong> - Esta opção está ativa por padrão. Se não desejar que o Adblock Browser se lembre das suas palavras-passe, toque na caixa de seleção para desativar esta funcionalidade.",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>Utilizar palavra-passe mestre<\/strong> - Se preferir utilizar uma palavra-passe mestre para todos os seus logins, toque em <strong>Utilizar palavra-passe mestre<\/strong>. No ecrã <em>Criar Palavra-passe Mestre<\/em> introduza e confirme a sua palavra-passe mestre.",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"As seguintes opções estão disponíveis por debaixo de <em>Limpar Dados Privados<\/em>:"
+  },
+  "clear-now":{
+    "message":"<strong>Limpar agora<\/strong> - Toque em limpar agora para limpar os seguintes dados: histórico de navegação, transferências, histórico de formulários e pesquisas, cookies e logins ativos, palavras-passe guardadas, cache, dados de websites offline e opções de websites. Por padrão, todas as opções de dados são selecionadas. Toque numa opção em específico se não desejar limpar os seus dados associados.",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>Limpar à saída<\/strong> - Toque nesta caixa de seleção para limpar automaticamente os dados em cada vez que sair.",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Abre a app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Toque em",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Ícone de menu hambúrguer do Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"e selecione <strong>Opções<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Controlar as opções de privacidade"
+  }
+}

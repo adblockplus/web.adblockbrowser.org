@@ -1,0 +1,49 @@
+{
+  "adblocking":{
+    "message":"Tippen Sie unter <em>Datenschutz & Sicherheit<\/em> auf <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"Tippen Sie unter <em>Blockierung<\/em> auf <strong>Werbeblockierung<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"Wählen Sie unter <strong>Andere Sprachen<\/strong> die <em>Filterliste<\/em>, die Sie abonnieren möchten.",
+    "description":"Filter list subscription instruction"
+  },
+  "ios-addfilter-visual-alt":{
+    "message":"Eine Filterliste hinzufügen (visuell)",
+    "description":"Add filter visual alternative text"
+  },
+  "default-filter-list":{
+    "message":"Adblock Browser benötigt Filterlisten, um Werbung zu blockieren. Eine Standard-Filterliste, basierend auf den Spracheinstellungen Ihres Browsers, wird automatisch aktiviert, wenn Adblock Browser installiert wird."
+  },
+  "additional-filter-lists":{
+    "message":"Es gibt zwei grundlegende Filterlisten – EasyList und Fanboys Liste. Diese beiden Filterlisten blockieren Werbung auf den beliebtesten (oft englischsprachigen) Websites. Diese Filterlisten blockieren jedoch keine Werbung auf weniger populären, nationalen Websites. Wenn Sie beispielsweise in Deutschland leben, sollten Sie die nationale, deutsche Filterliste abonnieren."
+  },
+  "note":{
+    "message":"Hinweis"
+  },
+  "note-text":{
+    "message":"Als Empfehlung sollten Sie vermeiden, zu viele Filterlisten zu Adblock Browser hinzuzufügen. Das Hinzufügen vieler Filterlisten verlangsamt den Werbeblocker und daher auch Ihr Surferlebnis."
+  },
+  "open-app":{
+    "message":"Öffnen Sie die Adblock Browser-App.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tippen Sie",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser-Symbol",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"und wählen Sie <strong>Einstellungen<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Eine Filterliste hinzufügen"
+  }
+}

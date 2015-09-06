@@ -1,0 +1,37 @@
+{
+  "language":{
+    "message":"Tocca su <strong>Lingua<\/strong>.",
+    "description":"Navigation to languages section instruction"
+  },
+  "area-below-languages":{
+    "message":"Seleziona l'area sotto la <em>Lingua del Browser<\/em>.",
+    "description":"Navigation to languages section instruction"
+  },
+  "available-languages-list":{
+    "message":"Apparirà una lista delle lingue disponibili.",
+    "description":"substep instruction below Browser Language navigation step"
+  },
+  "select-language":{
+    "message":"Seleziona la lingua desiderata.",
+    "description":"Last step of instruction"
+  },
+  "open-app":{
+    "message":"Apri l'app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tocca",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Icona menu hamburger Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"e seleziona <strong>Impostazioni<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Cambiare la lingua del browser"
+  }
+}

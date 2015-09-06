@@ -1,0 +1,13 @@
+{
+  "playstore-navigation":{
+    "message":"Google प्ले स्टोर पर जाएं और Adblock ब्राउज़र ढूंढें।",
+    "description":"Instruction about Adblock Browser profile navigation"
+  },
+  "install":{
+    "message":"<strong>इनस्टॉल<\/strong> पर टैप करें।",
+    "description":"Installation instruction"
+  },
+  "title":{
+    "message":"Android के लिए Adblock ब्राउज़र इनस्टॉल करना"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "install":{
+    "message":"Adblock Browser for iOS のインストール"
+  },
+  "adding-filter-list":{
+    "message":"フィルタリストの追加"
+  },
+  "removing-filter-list":{
+    "message":"フィルタリストの削除"
+  },
+  "acceptable-ads-config":{
+    "message":"控えめな広告の設定"
+  },
+  "additional-filter-lists":{
+    "message":"追跡、マルウェアドメイン、ソーシャルメディアのボタンおよび反広告ブロックメッセージの無効化"
+  },
+  "changing-search-engine":{
+    "message":"デフォルトの検索エンジンを変更"
+  },
+  "disable-search-suggestions":{
+    "message":"検索候補の無効化"
+  },
+  "view-whitelisted-websites":{
+    "message":"ホワイトリストの登録サイトの表示"
+  },
+  "title":{
+    "message":"iOS のサポート"
+  }
+}

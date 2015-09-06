@@ -1,0 +1,32 @@
+{
+  "install":{
+    "message":"Установка Adblock Browser для Android"
+  },
+  "adding-filter-list":{
+    "message":"Добавление списка фильтров"
+  },
+  "removing-filter-list":{
+    "message":"Удаление списка фильтров"
+  },
+  "acceptable-ads-config":{
+    "message":"Настройка разрешенной рекламы"
+  },
+  "customizing-abb":{
+    "message":"Настройка браузера Adblock"
+  },
+  "display-options":{
+    "message":"Изменение параметров отображения"
+  },
+  "privacy-options":{
+    "message":"Настройка параметров конфиденциальности"
+  },
+  "changing-language":{
+    "message":"Изменение языка браузера"
+  },
+  "faq":{
+    "message":"Часто задаваемые вопросы"
+  },
+  "title":{
+    "message":"Поддержка Android"
+  }
+}

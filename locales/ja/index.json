@@ -1,0 +1,81 @@
+{
+  "meta-title":{
+    "message":"Adblock Browser",
+    "description":"open graph meta title text"
+  },
+  "meta-description":{
+    "message":"Adblock Browser で高速、安全、迷惑広告なしの無料閲覧。",
+    "description":"open graph meta description text"
+  },
+  "promotional-image-alt":{
+    "message":"プロモーション画像",
+    "description":"Alternative text for the Adblock Browser promotional image small screens"
+  },
+  "headline":{
+    "message":"Adblock Browser で高速、安全、迷惑広告なしの無料閲覧。",
+    "description":"Headline in the main content area"
+  },
+  "playstore-badge-alt":{
+    "message":"Google Play で取得",
+    "description":"Alternative text for playstore badge"
+  },
+  "appstore-badge-alt":{
+    "message":"App Store で取得",
+    "description":"Alternative text for appstore badge"
+  },
+  "email-me":{
+    "message":"ダウンロードリンクをメールで受け取る",
+    "description":"Text below badges on big screens"
+  },
+  "promotion-msg":{
+    "message":"デスクトップブラウザ用で<a>一番人気の広告ブロッカー<\/a>は、Android* および iOS**デバイスで利用可能になりました。",
+    "description":"Text on top of footnotes"
+  },
+  "footnotes1":{
+    "message":"Adblock Browser は、Android 2.3 以降を持つデバイスで使用することができます。インストールには内部ストレージが約 24 MB、RAM が 384 MB、少なくとも高さ 320 ピクセルと幅 240 ピクセルの表示が必要になります。",
+    "description":"First footnote"
+  },
+  "footnotes2":{
+    "message":"iOS 8 以降がインストールされている iPhone および iPad でのみ使用できます。",
+    "description":"Second footnote"
+  },
+  "title":{
+    "message":"Adblock Browser"
+  },
+  "modal-headline":{
+    "message":"お使いのスマートフォンやタブレットに Adblock Browser を送る",
+    "description":"Headline in \"Email me the link\" overlay"
+  },
+  "modal-subheadline":{
+    "message":"ダウンロードリンクを受け取るには、メールアドレスを入力してください。",
+    "description":"Subheadline in \"Email me the link\" overlay"
+  },
+  "request-email":{
+    "message":"メールアドレス",
+    "description":"Placeholder text for inputbox in \"Email me the link\" overlay"
+  },
+  "submit-button-text":{
+    "message":"リンクを受信する",
+    "description":"Submit button text in \"Email me the link\" overlay"
+  },
+  "form-success":{
+    "message":"アプリが送信されました！スマートフォンかタブレットでメールをチェックしてください。",
+    "description":"Message for successful email submission in \"Email me the link\" overlay"
+  },
+  "form-invalid":{
+    "message":"有効なメールアドレスを入力してください。",
+    "description":"Message for invalid message submission in \"Email me the link\" overlay"
+  },
+  "form-error":{
+    "message":"エラーが発生しました．",
+    "description":"Error submission message in \"Email me the link\" overlay"
+  },
+  "privacy-note1":{
+    "message":"電子メールの受信者が同意している必要があります",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  },
+  "privacy-note2":{
+    "message":"Adblock Browser は、ユーザーのプライバシーの保護と維持に取り組んでおり、ユーザーのメールアドレスを保管・共有することはありません。<a>プライバシーポリシー<\/a>",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  }
+}

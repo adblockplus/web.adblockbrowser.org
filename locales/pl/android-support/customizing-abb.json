@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"Naciśnij <strong>Dostosuj<\/strong>.",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"Wybierz opcję, aby dostosować:",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"Strona domowa",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>Ostatnie karty<\/strong> – niniejsza opcja wyświetla pięć ostatnio wyświetlonych przez Ciebie stron. W celu dostosowania naciśnij <strong>Ostatnie karty<\/strong>.",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>Historia<\/strong> – niniejsza opcja wyświetla historię każdej odwiedzanej strony. W celu dostosowania naciśnij <strong>Historia<\/strong>.",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>Najpopularniejsze witryny<\/strong> – uruchamiana domyślnie, niniejsza opcja wyświetla najczęściej odwiedzane strony internetowe. W celu dostosowania naciśnij <strong>Najpopularniejsze itryny<\/strong>.",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>Zakładki<\/strong> – niniejsza opcja wyświetla listę stron internetowych, które specjalnie dodajesz. W celu dostosowania naciśnij <strong>Zakładki<\/strong>.",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>Do przeczytania<\/strong> – Opcja Do przeczytania umożliwia powrót do danego artykułu w późniejszym czasie. W celu dostosowania naciśnij <strong>Do przeczytania<\/strong>.",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>Wyświetlaj sugestie strony<\/strong> – uruchomiona domyślnie, niniejsza opcja sugeruje skróty do stron internetowych, które aplikacja Adblock Browser uznaje za interesujące dla Ciebie. Aby wyłączyć tę funkcję, naciśnij <strong>Wyświetlaj sugestie strony<\/strong>.",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>Automatyczne aktualizacje<\/strong> – niniejsza opcja jest włączona domyślnie. Aby ją zmienić, naciśnij pole <strong>Automatyczne aktualizacje<\/strong>.",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"Wyszukaj",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>Wyświetl sugestie wyszukiwania<\/strong> – uruchomiona domyślnie, niniejsza opcja wyświetla sugestie wyszukiwania w oparciu o wprowadzone przez Ciebie dane. Aby wyłączyć tę funkcję, naciśnij Wyświetl sugestie wyszkiwania.",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>Zainstalowane wyszukiwarki<\/strong> – naciśnij, aby zmienić domyślną wyszukiwarkę.",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"Karty",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"Domyślnie aplikacja Adblock Browser nie przywraca kart po opuszczeniu aplikacji. Aby to zmienić, naciśnij <strong>Karty<\/strong> i wybierz <strong>Zawsze przywracaj<\/strong>.",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"Importuj z systemu Android",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"Domyślnie aplikacja Adblock Browser importuje Twoje zakładki i historię z przeglądarki systemu Android. Aby zmienić tę opcję, naciśnij <strong>Importuj z systemu Android<\/strong> i odznacz opcję lub opcje, których nie chcesz importować.",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"Otwórz aplikację Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Naciśnij",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"ikonę menu hamburger w systemie Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"i wybierz <strong>Ustawienia<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Dostosowywanie aplikacji Adblock Browser"
+  }
+}

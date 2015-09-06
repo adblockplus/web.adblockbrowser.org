@@ -1,0 +1,29 @@
+{
+  "adblock-plus-menu":{
+    "message":"В разделе <em>Конфиденциальность и безопасность<\/em> нажмите <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "whitelist":{
+    "message":"В разделе <em>Исключения<\/em> нажмите <strong>Список разрешенных доменов<\/strong>.",
+    "description":"view whitelisted websites instruction"
+  },
+  "open-app":{
+    "message":"Откройте приложение Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Нажмите",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Значок Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"и выберите <strong>Параметры<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Просмотр списка разрешенных доменов"
+  }
+}

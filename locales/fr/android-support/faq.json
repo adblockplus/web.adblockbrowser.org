@@ -1,0 +1,69 @@
+{
+  "many-permissions-question":{
+    "message":"Pourquoi Adblock Browser pour Android nécessite-t-il autant d'autorisations ?",
+    "description":"Many permissions questions"
+  },
+  "many-permissions-answer":{
+    "message":"En règle générale, les navigateurs nécessitent plus d'autorisations que les applications standards pour être en mesure de fournir aux applications web la possibilité d'utiliser les fonctionnalités du matériel, tels que la caméra, le microphone, etc. (par exemple le téléchargement d'images depuis la caméra). Étant donné qu'Adblock Browser est basé sur Firefox, il demande les mêmes autorisations pour faire les mêmes choses que Firefox. Pour une explication de toutes les autorisations, veuillez vous reporter à <a>cette FAQ<\/a> de Mozilla.",
+    "description":"Many permissions answer"
+  },
+  "flash-question":{
+    "message":"Est-ce qu'Adblock Browser va prendre en charge les vidéos flash ?",
+    "description":"Flash video support question"
+  },
+  "flash-answer":{
+    "message":"Adblock Browser est compatible avec les vidéos flash, mais vous devez installer le « Flash player » en premier. Cependant, l'installation du flash player pour Android n'est pas recommandée, car il n'est pas sécurisé et peut entraîner une perte de mémoire et Un ralentissement de votre appareil. Si vous voulez toujours le faire, reportez-vous à <a>cet article<\/a> de Mozilla.",
+    "description":"Flash video support answer"
+  },
+  "firefox-sync-question":{
+    "message":"Allez-vous proposer Firefox Sync ?",
+    "description":"Firefox synchronization question"
+  },
+  "firefox-sync-answer":{
+    "message":"Beaucoup d'entre vous ont posé cette question et nous reconnaissons que c'est une fonction essentielle. Voilà pourquoi nous travaillons sur l'activation de cette fonction dans une version future.",
+    "description":"Firefox synchronization answer"
+  },
+  "chrome-bookmark-question":{
+    "message":"Comment puis-je importer mes favoris depuis Chrome ?",
+    "description":"Chrome bookmark import question"
+  },
+  "chrome-bookmark-answer":{
+    "message":"Si le navigateur par défaut du système est Chrome, vous devriez être en mesure d'importer les favoris en allant dans Paramètres > Personnaliser > Importer depuis Android. Si, toutefois, le navigateur par défaut n'est pas Chrome, il n'y a malheureusement rien que nous pouvons faire.",
+    "description":"Chrome bookmark import answer"
+  },
+  "google-sync-question":{
+    "message":"Allez-vous prendre en charge la synchronisation Chrome \/ compte Google (mots de passe, favoris, etc.) quand Chrome n'est pas le navigateur par défaut ?",
+    "description":"Google account synchronization question"
+  },
+  "google-sync-answer":{
+    "message":"Malheureusement, ce n'est pas une fonctionnalité de Firefox pour Android à l'heure actuelle ; et en tant que telle, elle serait considérée comme une nouvelle fonctionnalité de navigateur, que nous laisserons pour l'instant à l'équipe de Mozilla.",
+    "description":"Google account synchronization answer"
+  },
+  "add-ons-question":{
+    "message":"Puis-je installer des modules complémentaires comme LastPass et Ghostery, ou d'autres services tiers ?",
+    "description":"Add-ons installation question"
+  },
+  "add-ons-answer":{
+    "message":"Ayant nous-mêmes commencé comme un module supplémentaire de navigateur, nous sommes convaincus qu'il est nécessaire de les prendre en charge ; et espérons pouvoir le faire à l'avenir. Pour l'instant, si avoir des modules supplémentaires est un critère rédhibitoire, nous vous recommandons d'utiliser Firefox pour Android avec <a>Adblock Plus<\/a>.",
+    "description":"Add-ons installation answer"
+  },
+  "custom-filter-question":{
+    "message":"Puis-je ajouter des filtres personnalisés ou bloquer des éléments ?",
+    "description":"Adding custom filters question"
+  },
+  "custom-filter-answer":{
+    "message":"Nous envisageons d'offrir cette fonction et espérons pouvoir l'intégrer à une version future.",
+    "description":"Adding custom filters answer"
+  },
+  "version-question":{
+    "message":"Allez-vous proposer une version basée sur Chrome d'Adblock Browser ?",
+    "description":"Chrome version question"
+  },
+  "version-answer":{
+    "message":"Notre objectif est d'offrir des fonctionnalités semblables à Chrome sans pour autant développer une version distincte basée dessus.",
+    "description":"Chrome version answer"
+  },
+  "title":{
+    "message":"FAQ"
+  }
+}

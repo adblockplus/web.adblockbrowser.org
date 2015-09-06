@@ -1,0 +1,13 @@
+{
+  "adblock-browser-search":{
+    "message":"Przejdź do sklepu App Store i wyszukaj <strong>Adblock Browser<\/strong>.",
+    "description":"Instruction about Adblock Browser profile navigation"
+  },
+  "install":{
+    "message":"Naciśnij <strong>Zainstaluj<\/strong>.",
+    "description":"Installation instruction"
+  },
+  "title":{
+    "message":"Instalowanie aplikacji Adblock Browser dla systemu iOS"
+  }
+}

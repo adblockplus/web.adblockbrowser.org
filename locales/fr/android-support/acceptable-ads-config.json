@@ -1,0 +1,33 @@
+{
+  "adblocking":{
+    "message":"Appuyez sur <strong>blocage des annonces<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "acceptable-ads-navigation":{
+    "message":"En bas de <em>Exceptions<\/em>, appuyez sur <strong>Annonces acceptables<\/strong>.",
+    "description":"Navigation to Acceptable Ads section instruction"
+  },
+  "allow-whitelist":{
+    "message":"Décochez la case <strong>Autoriser certaines publicités non-instrusives<\/strong>.",
+    "description":"Whitelisting instruction"
+  },
+  "open-app":{
+    "message":"Ouvrez l'application Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Appuyez sur",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"l'icône du menu Hamburger d'Android,",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"puis sélectionnez <strong>Paramètres<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Configuration des annonces acceptables"
+  }
+}

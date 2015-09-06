@@ -1,0 +1,20 @@
+{
+  "abb-logo-alt":{
+    "message":"Logo Adblock Browser"
+  },
+  "hamburger-image-alt":{
+    "message":"navigation"
+  },
+  "support-ios":{
+    "message":"Assistance iOS"
+  },
+  "support-android":{
+    "message":"Assistance Android"
+  },
+  "bookmark":{
+    "message":"par les concepteurs de"
+  },
+  "abp-logo-alt":{
+    "message":"Logo Adblock Plus"
+  }
+}

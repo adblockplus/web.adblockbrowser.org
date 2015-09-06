@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"Naciśnij <strong>Wyświetl<\/strong>.",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"Poniższe opcje są dostępne w części <em>Wyświetlanie<\/em>:",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>Rozmiar tekstu<\/strong> – domyślnie <strong>rozmiar tekstu<\/strong> jest ustawiony na średni. Aby to zmienić, naciśnij rozmiar tekstu. Na ekranie Rozmiar tekstu naciśnij małą lub wielką literę A, aby dostosować rozmiar tekstu. Naciśnij <strong>Ustaw<\/strong>.",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>Pasek tytułowy<\/strong> – niniejsza opcja umożliwia wyświetlane tytułu lub adresu strony. Domyślnie wybrany zostaje adres strony. Aby wyświetlić tytuł strony, naciśnij <strong>Pasek tytułowy<\/strong> i wybierz <strong>Wyświetl tytuł strony<\/strong>.",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>Przeglądanie pełnoekranowe<\/strong> – jeśli pragniesz zobaczyć pasek tutyłowy Adblock Browser przewijając w dół strony, naciśnij pole wyboru.",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>Zezwalaj na automatyczne odtwarzanie<\/strong> – uruchomiona domyślnie, niniejsza opcja zarządza automatycznym odtwarzaniem plików wideo i innych treści multimedialnych. Jeśli nie chcesz odtwarzać automatycznie plików wideo i innych treści multimedialnych, naciśnij pole wyboru.",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"Następujące opcje są dostępne w części <em>Zaawansowane<\/em>:",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>Kodowanie znaków<\/strong> – niniejsza opcja zarządza wyświetlaniem menu kodowania znaków. Domyślnie menu kodowania znaków nie jest widoczne. Jeśli chcesz wyświetlić to menu, naciśnij <strong>Kodowanie znaków<\/strong> i wybierz <strong>Wyświetl menu<\/strong>.",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>Dodatki<\/strong> – niniejsza opcja umożliwia zarządzanie preferencjami dodatków.",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Otwórz aplikację Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Naciśnij",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"ikonę menu hamburger w systemie Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"i wybierz <strong>Ustawienia<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Zmiana opcji wyświetlania"
+  }
+}

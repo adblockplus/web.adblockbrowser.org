@@ -1,0 +1,37 @@
+{
+  "adblock-plus-menu":{
+    "message":"أسفل<em>الخصوصة والأمان<\/em>، انقر على <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "ad-blocking":{
+    "message":"أسفل<em>الإعلانات المحجوبة<\/em>، انقر على <strong>حجب إعلان<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "remove-filter-list":{
+    "message":"اختر <strong>قائمة المصفيات<\/strong> التي تود إزالتها من أسفل <em>مفعل للمواقع باللغة...<\/em>",
+    "description":"Filter list removal instruction"
+  },
+  "ios-removefilter-visual-alt":{
+    "message":"إزالة قائمة مصفيات بصرية",
+    "description":"Removing filter list visual alternative text"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"أيقونة Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"إزالة قائمة مصفيات"
+  }
+}

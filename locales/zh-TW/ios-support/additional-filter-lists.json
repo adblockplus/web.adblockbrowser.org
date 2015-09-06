@@ -1,0 +1,52 @@
+{
+  "adblock-plus-menu":{
+    "message":"在<em>隱私和安全<\/em>下方，點擊<strong>Adblock Plus<\/strong>。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "more-blocking-options":{
+    "message":"在<em>攔截<\/em>下方，點擊<strong>更多攔截選項<\/strong>。",
+    "description":"Navigation to More Blocking Options section instruction"
+  },
+  "options":{
+    "message":"選擇一個（或多個）選項："
+  },
+  "tracking":{
+    "message":"<strong>追蹤<\/strong> - 禁用大多數追蹤和更加匿名地瀏覽網頁。",
+    "description":"\"Tracking\" option name and it's description"
+  },
+  "malware-domains":{
+    "message":"<strong>惡意軟件域名<\/strong>- 攔截已知的會傳播惡意軟件（如病毒、 特洛伊木馬、 蠕蟲和間諜軟件）的域名。",
+    "description":"\"Malware Domains\" option name and it's description"
+  },
+  "social-media-buttons":{
+    "message":"<strong>社交媒體按鈕<\/strong>-禁用用於基於您的瀏覽習慣創建配置文件的按鈕。",
+    "description":"\"Social Media Buttons\" option name and it's description"
+  },
+  "anti-adblocking-messsages":{
+    "message":"<strong>反廣告攔截訊息<\/strong> - 禁用反廣告攔截器腳本。",
+    "description":"\"Anti-Ad blocking Messages\" option name and it's description"
+  },
+  "ios-moreblocking-visual-alt":{
+    "message":"更多攔截選項圖像",
+    "description":"More blocking visual alternative text"
+  },
+  "open-app":{
+    "message":"打開 Adblock Browser應用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"點擊",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser 圖示",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"然後選擇 <strong>設定<\/strong>。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"禁用追蹤、 惡意軟件域名、 社交媒體按鈕和反廣告攔截訊息"
+  }
+}

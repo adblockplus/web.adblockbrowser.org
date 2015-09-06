@@ -1,0 +1,37 @@
+{
+  "adblock-plus-menu":{
+    "message":"En bas de <em>Confidentialité & Sécurité<\/em>, appuyez sur <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "ad-blocking":{
+    "message":"En bas de <em>Blocage<\/em>, appuyez sur <strong>Blocage des annonces<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "remove-filter-list":{
+    "message":"Sélectionnez la <strong>liste de filtres<\/strong> que vous souhaitez supprimer en bas de <em>Active pour les sites web en...<\/em>",
+    "description":"Filter list removal instruction"
+  },
+  "ios-removefilter-visual-alt":{
+    "message":"Supprimer le visuel d'une liste de filtres",
+    "description":"Removing filter list visual alternative text"
+  },
+  "open-app":{
+    "message":"Ouvrez l'application Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Appuyez sur",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"l'icône Adblock Browser,",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"puis sélectionnez <strong>Paramètres<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Supprimer une liste de filtres"
+  }
+}

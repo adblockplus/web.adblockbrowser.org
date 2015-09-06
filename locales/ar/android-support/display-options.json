@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"انقر على <strong>عرض<\/strong>.",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"الخيارات التالية هي المتاحة تحت <em>عرض<\/em>:",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>حجم الخط<\/strong> - بشكل افتراضي، يتم ضبط <strong>حجم الخط<\/strong> على الحجم المتوسط. ولتغيير الحجم، انقر على حجم الخط. وفي الشاشة التالية، انقر على إما حرف \"A\" الصغير أو حرف \"A\" الكبير لتعديل حجم الخط. ثم انقر على <strong>ضبط<\/strong>.",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>شريط العنوان<\/strong> - يتيح لك هذا الخيار عرض إما اسم الصفحة أو عنوانها. وبشكل افتراضي، يتم تحديد عنوان الصفحة. ولعرض اسم الصفحة، انقر على <strong>شريط العنوان<\/strong> واختر <strong>عرض اسم الصفحة<\/strong>.",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>التصفح في وضع كامل الشاشة<\/strong> - إذا كنت ترغب في عرض شريط العنوان الخاص بـ Adblock Browser أثناء التمرير لأسفل الصفحة، انقر على مربع الاختيار.",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>السماح للتشغيل التلقائي<\/strong> - يتم تمكين هذا الخيار بشكل افتراضي، وهو يتحكم بخاصية التشغيل التلقائي لمقاطع الفيديو أو غيرها من محتويات الوسائط. وإذا لم تكن ترغب بالتشغيل التلقائي لمقاطع الفيديو أو غيرها من محتويات الوسائط، انقر على مربع الاختيار.",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"الخيارات التالية هي المتاحة تحت <em>متقدم<\/em>:",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>ترميز الأحرف<\/strong> - يتحكم هذا الخيار بقائمة عرض ترميز الأحرف. وبشكل افتراضي، فلن تكون قائمة ترميز الأحرف ظاهرة. وإذا كنت ترغب في عرض القائمة، انقر على <strong>ترميز الأحرف<\/strong> واختر <strong>عرض القائمة<\/strong>.",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>المكونات الإضافية<\/strong> - يتيح لك هذا الخيار التحكم في تفضيلات المكون الإضافي.",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"أيقونة قائمة Android hamburger",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"تغيير خيارات العرض"
+  }
+}

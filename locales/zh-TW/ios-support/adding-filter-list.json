@@ -1,0 +1,49 @@
+{
+  "adblocking":{
+    "message":"在<em>隱私和安全<\/em>下方，點擊<strong>廣告攔截<\/strong>。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"在<em>攔截<\/em>下方，點擊<strong>廣告攔截<\/strong>。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"在 <strong>其他語言<\/strong>下方選擇您想要訂閱的 <em>過濾列表<\/em> 。",
+    "description":"Filter list subscription instruction"
+  },
+  "ios-addfilter-visual-alt":{
+    "message":"添加一個過濾列表圖像",
+    "description":"Add filter visual alternative text"
+  },
+  "default-filter-list":{
+    "message":"Adblock Browser 需要使用過濾列表攔截廣告。在安裝Adblock Browser時會自動啟用一個根據您的瀏覽器的語言設定的默認過濾列表。"
+  },
+  "additional-filter-lists":{
+    "message":"有兩種基本的過濾列表：EasyList和Fanboy列表。這兩種過濾列表會攔截來自最受歡迎的（常常為英語）網站的廣告。不過，這些過濾列表不會攔截不太受歡迎的全國性網站。例如，如果您是居住在德國，則應訂閱德國的全國性過濾列表。"
+  },
+  "note":{
+    "message":"注釋"
+  },
+  "note-text":{
+    "message":"我們建議您應避免添加過多過濾列表至Adblock Browser。添加過多過濾列表會拖慢廣告攔截器，由此拖慢您的瀏覽速度。"
+  },
+  "open-app":{
+    "message":"打開 Adblock Browser應用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"點擊",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser 圖示",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"然後選擇 <strong>設定<\/strong>。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"添加一個過濾列表"
+  }
+}

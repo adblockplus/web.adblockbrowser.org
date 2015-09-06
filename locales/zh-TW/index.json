@@ -1,0 +1,81 @@
+{
+  "meta-title":{
+    "message":"Adblock Browser ",
+    "description":"open graph meta title text"
+  },
+  "meta-description":{
+    "message":"使用Adblock Browser快速、安全地瀏覽，不受任何惱人廣告的煩擾",
+    "description":"open graph meta description text"
+  },
+  "promotional-image-alt":{
+    "message":"促銷圖片",
+    "description":"Alternative text for the Adblock Browser promotional image small screens"
+  },
+  "headline":{
+    "message":"使用Adblock Browser快速、安全地瀏覽，不受任何惱人廣告的煩擾",
+    "description":"Headline in the main content area"
+  },
+  "playstore-badge-alt":{
+    "message":"在Google Play上獲取",
+    "description":"Alternative text for playstore badge"
+  },
+  "appstore-badge-alt":{
+    "message":"在 App Store 上獲取",
+    "description":"Alternative text for appstore badge"
+  },
+  "email-me":{
+    "message":"將下載鏈接通過電子郵件發送給我",
+    "description":"Text below badges on big screens"
+  },
+  "promotion-msg":{
+    "message":"現在可為您的Android* 和 iOS** 設備獲取針對桌面瀏覽器的<a>最受歡迎的廣告攔截器<\/a> 。",
+    "description":"Text on top of footnotes"
+  },
+  "footnotes1":{
+    "message":"Adblock Browser 與運行Android 2.3 及更高版本的設備相兼容。安裝要求擁有約24 MB的內部存儲器、384 MB的RAM，以及至少為320 像素高和240像素寬的顯示器。",
+    "description":"First footnote"
+  },
+  "footnotes2":{
+    "message":"只可在安裝了iOS 8或者更高版本的的iPhone 和 iPad 上獲得。",
+    "description":"Second footnote"
+  },
+  "title":{
+    "message":"Adblock Browser "
+  },
+  "modal-headline":{
+    "message":"將 Adblock Browser 發送至您的智能手機或者平板電腦",
+    "description":"Headline in \"Email me the link\" overlay"
+  },
+  "modal-subheadline":{
+    "message":"若要接收下載鏈接，請輸入您的電子郵箱地址",
+    "description":"Subheadline in \"Email me the link\" overlay"
+  },
+  "request-email":{
+    "message":"您的電子郵件地址 ",
+    "description":"Placeholder text for inputbox in \"Email me the link\" overlay"
+  },
+  "submit-button-text":{
+    "message":"向我發送一個鏈接",
+    "description":"Submit button text in \"Email me the link\" overlay"
+  },
+  "form-success":{
+    "message":"應用已發出！請在您的智能手機或者平板電腦上檢查您的電子郵件",
+    "description":"Message for successful email submission in \"Email me the link\" overlay"
+  },
+  "form-invalid":{
+    "message":"請輸入一個有效的電子郵箱地址",
+    "description":"Message for invalid message submission in \"Email me the link\" overlay"
+  },
+  "form-error":{
+    "message":"發生了錯誤 ",
+    "description":"Error submission message in \"Email me the link\" overlay"
+  },
+  "privacy-note1":{
+    "message":"該郵件的預定接收者必須已經同意",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  },
+  "privacy-note2":{
+    "message":"Adblock Browser 致力於保護和維護您的隱私，並且，我們不會存儲或共享您的電子郵件。<a>隱私政策<\/a>",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  }
+}

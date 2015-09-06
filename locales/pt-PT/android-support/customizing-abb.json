@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"Toque em <strong>Personalizar<\/strong>.",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"Selecione uma opção para personalizar:",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"Início",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>Separadores Recentes<\/strong> - Esta opção mostra os seus últimos cinco websites visitados. Para personalizar, toque em <strong>Separadores Recentes<\/strong>.",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>Histórico<\/strong> - Esta opção mostra o histórico de todos os websites visitados. Para personalizar, toque em <strong>Histórico<\/strong>.",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>Top Sites<\/strong> - Ativado por padrão, esta opção mostra os seus websites mais frequentemente visitados. Para personalizar, toque em <strong>Top Sites<\/strong>.",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>Favoritos<\/strong> - Esta opção mostra uma lista de websites que adicionou especificamente. Para personalizar, toque em <strong>Favoritos<\/strong>.",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>Lista de Leitura<\/strong> - A opção de Lista de Leitura permite-lhe referir diretamente a um artigo em qualquer momento. Para personalizar, toque em <strong>Lista de Leitura<\/strong>.",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>Mostrar sugestões de site<\/strong> - Ativado por padrão, esta opção sugere atalhos para websites que o Adblock Browser pensa que achará interessante. Para desativar esta funcionalidade, toque em <strong>Mostrar sugestões de site<\/strong>.",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>Atualizações automáticas<\/strong> - Esta opção está ativada por padrão. Para alterar esta opção, toque em <strong>Atualizações automáticas<\/strong>.",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"Pesquisa",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>Mostrar sugestões de pesquisa<\/strong> - Ativado por padrão, esta opção mostra as sugestões de pesquisa baseado no que introduzir. Para desativar esta funcionalidade, toque em Mostrar Sugestões de pesquisa.",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>Motores de Pesquisa Instalados<\/strong> - Toque para alterar o motor de pesquisa padrão.",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"Separadores",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"Por padrão, o Adblock Browser não restaura os separadores depois de sair da app. Para alterar isto, toque em <strong>Separadores<\/strong> e selecione <strong>Restaurar sempre<\/strong>.",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"Importar do Android",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"Por padrão, o Adblock Browser importa os seus favoritos e histórico do navegador Android nativo. Para alterar esta opção, toque em <strong>Importar do Android<\/strong> e desmarque a opção ou opções que não desejar importar.",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"Abra a app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Toque em",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Ícone de menu hambúrguer do Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"e selecione <strong>Opções<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Personalizar o Adblock Browser"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "many-permissions-question":{
+    "message":"¿Por qué Adblock Browser para Android requiere tantos permisos?",
+    "description":"Many permissions questions"
+  },
+  "many-permissions-answer":{
+    "message":"Generalmente, los navegadores requieren más permisos de aplicaciones regulares para ser capaces de proporcionar a las aplicaciones web la posibilidad de utilizar funcionalidades de hardware como cámara, micrófono, etc. (por ejemplo, subir imágenes desde la cámara). Puesto que Adblock Browser está basado en Firefox, pide los mismos permisos exactos para hacer las mismas cosas que hace Firefox. Para una explicación de todos los permisos, consulte <a>estas Preguntas Frecuentes<\/a> de Mozilla.",
+    "description":"Many permissions answer"
+  },
+  "flash-question":{
+    "message":"¿Será compatible Adblock Browser con vídeos de flash?",
+    "description":"Flash video support question"
+  },
+  "flash-answer":{
+    "message":"Los vídeos en Flash sí funcionan en Adblock Browser, pero debe instalar el reproductor Flash actual primero. Sin embargo, no es recomendable instalar Flash para Android ya que es inseguro y puede contribuir a la lentitud y la pérdida de la memoria. Si desea hacer esto, consulte <a>este artículo<\/a> de Mozilla.",
+    "description":"Flash video support answer"
+  },
+  "firefox-sync-question":{
+    "message":"¿Ofrecerán Firefox sync?",
+    "description":"Firefox synchronization question"
+  },
+  "firefox-sync-answer":{
+    "message":"Muchos de ustedes han pedido esto, y estamos de acuerdo en que esta es una característica crítica. Es por ello que estamos trabajando en habilitar esto en una versión futura.",
+    "description":"Firefox synchronization answer"
+  },
+  "chrome-bookmark-question":{
+    "message":"¿Cómo importo favoritos de Chrome?",
+    "description":"Chrome bookmark import question"
+  },
+  "chrome-bookmark-answer":{
+    "message":"Si el navegador del sistema por defecto es Chrome, debería poder importar marcadores desde Ajustes > Personalizar > Importar desde Android. Sin embargo, si el navegador predeterminado no es Chrome, lamentablemente no hay nada que podamos hacer.",
+    "description":"Chrome bookmark import answer"
+  },
+  "google-sync-question":{
+    "message":"¿Será compatible la sincronización de cuentas de Google\/Chrome (contraseñas, marcadores, etc.) cuando Chrome no sea el navegador por defecto?",
+    "description":"Google account synchronization question"
+  },
+  "google-sync-answer":{
+    "message":"Lamentablemente, esta no es actualmente una característica de Firefox para Android, y como tal, se consideraría una nueva funcionalidad del navegador, que por ahora, dejaremos a la gente de Mozilla.",
+    "description":"Google account synchronization answer"
+  },
+  "add-ons-question":{
+    "message":"¿Puedo instalar complementos como LastPass y Ghostery u otros servicios de terceros?",
+    "description":"Add-ons installation question"
+  },
+  "add-ons-answer":{
+    "message":"Habiendo comenzado nosotros mismos como complemento de navegador, nos comprometemos fuertemente con el apoyo a los complementos, y esperamos seguir haciéndolo en el futuro. Por ahora, si tener complementos es un problema, recomendamos usar Firefox para Android con <a>Adblock Plus<\/a>.",
+    "description":"Add-ons installation answer"
+  },
+  "custom-filter-question":{
+    "message":"¿Puedo añadir filtros personalizados o bloquear elementos?",
+    "description":"Adding custom filters question"
+  },
+  "custom-filter-answer":{
+    "message":"Estamos pensando en ofrecer esto y esperamos añadirlo en una versión futura.",
+    "description":"Adding custom filters answer"
+  },
+  "version-question":{
+    "message":"¿Ofrecerán una versión de Adblock Browser basada en Chrome?",
+    "description":"Chrome version question"
+  },
+  "version-answer":{
+    "message":"Nuestro objetivo es ofrecer características de Chrome sin la construcción de una versión independiente basada en Chrome.",
+    "description":"Chrome version answer"
+  },
+  "title":{
+    "message":"Preguntas frecuentes"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"<strong>कस्टमाइज़<\/strong> पर टैप करें। ",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"कस्टमाइज़ करने के लिए किसी एक विकल्प का चयन करें:",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"होम ",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>रीसेंट टैब्स<\/strong> - यह विकल्प आपके द्वारा ब्राउज की गई पिछली पाँच वेबसाइट दिखाता है। कस्टमाइज़ करने के लिए <strong>रीसेंट टैब्स<\/strong> पर टैप करें। ",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>इतिहास<\/strong> - यह विकल्प ब्राउज की हुई प्रत्येक वेबसाइट की हिस्ट्री दिखता है। कस्टमाइज़ करने के लिए <strong>हिस्ट्री<\/strong> पर टैप करें। ",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>टॉप साइट्स<\/strong> - यह डिफ़ॉल्ट विकल्प है जो कि उन वेबसाइट्स को प्रदर्शित करता है जिन्हें आप अक्सर देखते हैं।कस्टमाइज़ करने के लिए, <strong>टॉप साइट्स<\/strong> पर टैप करें। ",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>बुकमार्क्स<\/strong> - यह विकल्प उन वेबसाइट्स की लिस्ट प्रदर्शित करता हैं जिन्हें आपने विशेष रूप से चिन्हित किया है या जोड़ा है। कस्टमाइज़ करने के लिए <strong>बुकमार्क्स<\/strong> पर टैप करें।",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>रीडिंग लिस्ट<\/strong> - यह विकल्प आपको किसी भी समय किसी लेख को उद्घृत करने की अनुमति देता है। कस्टमाइज़ करने के लिए, <strong>रीडिंग लिस्ट<\/strong> पर टैप करें। ",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>साइट्स के सुझाव दें<\/strong> - यह एक डिफ़ॉल्ट विकल्प है जो उन वेबसाइट्स के शॉर्टकट दिखाता है जो Adblcok को लगता है आपको रुचिकर लगेंगी। इस फ़ीचर को निष्क्रिय करने के लिए <\/strong>साइट्स के सुझाव दें<strong> पर टैप करें। ",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>ऑटोमैटिक अपडेट्स<\/strong> - यह भी एक डिफ़ॉल्ट विकल्प है। इस विकल्प को बदलने के लिए <strong>ऑटोमैटिक अपडेट्स<\/strong> पर टैप करें।",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"सर्च",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>सर्च के सुझाव दिखाएं<\/strong> - यह एक डिफ़ॉल्ट विकल्प है जो आपके द्वारा डाले गए इनपुट के आधार पर सर्च के सुझाव देता है। इस फ़ीचर को निष्क्रिय करने के लिए सर्च के सुझाव दिखाएं पर टैप करें। ",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>इंस्टॉल्ड सर्च इंजन<\/strong> - डिफ़ॉल्ट सर्च इंजन बदलने के लिए टैप करें। ",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"टैब्स ",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"ऐप बंद कर देने के बाद, डिफ़ॉल्ट रूप से Adblock ब्राउज़र टैब बहाल नहीं करता है। इसे बदलने के लिए <strong>टैब्स<\/strong> पर टैप करें और <strong>हमेशा बहाल करें<\/strong> चुनें।",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"Android से आयात",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"डिफ़ॉल्ट रूप से, Adblock ब्राउज़र देशी Android ब्राउज़र से आपके बुकमार्क और हिस्ट्री आयात करता है। इस विकल्प को बदलने के लिए <\/strong>Android से आयात<strong> पर टैप करें और उन विकल्पों के सामने के खाने में से चेक मार्क हटा दें जिन्हें आप आयात नहीं करना चाहते। ",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"Adblock ब्राउज़र ऐप खोलें।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"टैप करें",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android हैमबर्गर मेनू आइकॉन",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"और <strong>सेटिंग<\/strong> चुनें।",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Adblock ब्राउज़र को कस्टमाइज़ करना "
+  }
+}

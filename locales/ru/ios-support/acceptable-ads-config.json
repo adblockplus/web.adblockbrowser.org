@@ -1,0 +1,33 @@
+{
+  "ad-blocking":{
+    "message":"Нажмите <strong>Блокировка рекламы<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "aceptable-ads":{
+    "message":"В разделе <em>Исключения<\/em> нажмите <strong>Разрешенная реклама<\/strong>.",
+    "description":"Navigation to Acceptable Ads section instruction"
+  },
+  "whitelist":{
+    "message":"Снимите флажок <strong>Разрешить ненавязчивую рекламу<\/strong>.",
+    "description":"Whitelisting instruction"
+  },
+  "open-app":{
+    "message":"Откройте приложение Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Нажмите",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Значок Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"и выберите <strong>Параметры<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Настройка разрешенной рекламы"
+  }
+}

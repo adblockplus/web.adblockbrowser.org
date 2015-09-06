@@ -1,0 +1,33 @@
+{
+  "ad-blocking":{
+    "message":"Tippen Sie <strong>Werbeblockierung<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "aceptable-ads":{
+    "message":"Tippen Sie unter <em>Ausnahmen<\/em> auf <strong>Akzeptable Werbung<\/strong>.",
+    "description":"Navigation to Acceptable Ads section instruction"
+  },
+  "whitelist":{
+    "message":"Deaktivieren Sie das Kontrollkästchen <strong>Einige unaufdringliche Werbung zulassen<\/strong>.",
+    "description":"Whitelisting instruction"
+  },
+  "open-app":{
+    "message":"Öffnen Sie die Adblock Browser-App.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tippen Sie",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser-Symbol",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"und wählen Sie <strong>Einstellungen<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Akzeptable Werbung konfigurieren"
+  }
+}

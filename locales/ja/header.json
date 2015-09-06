@@ -1,0 +1,20 @@
+{
+  "abb-logo-alt":{
+    "message":"Adblock Browser のロゴ"
+  },
+  "hamburger-image-alt":{
+    "message":"ナビゲーション"
+  },
+  "support-ios":{
+    "message":"iOS のサポート"
+  },
+  "support-android":{
+    "message":"Android のサポート"
+  },
+  "bookmark":{
+    "message":"以下と同じ開発者です："
+  },
+  "abp-logo-alt":{
+    "message":"Adblock Plus のロゴ"
+  }
+}

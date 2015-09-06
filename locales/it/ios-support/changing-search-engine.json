@@ -1,0 +1,33 @@
+{
+  "search-engine":{
+    "message":"Sotto <em>Cerca<\/em>, tocca su <strong>Motore di Ricerca<\/strong>.",
+    "description":"Navigation to Search Engins page"
+  },
+  "default-search-engine":{
+    "message":"Seleziona un nuovo motore di ricerca predefinito.",
+    "description":"Changing default search engine instruction"
+  },
+  "ios-defaultsearch-visual-alt":{
+    "message":"Cambiare la visualizzazione del motore di ricerca predefinito",
+    "description":"Default search engine changing visual alternative text"
+  },
+  "open-app":{
+    "message":"Apri l'app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tocca",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Icona di Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"e seleziona <strong>Impostazioni<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Cambiare il motore di ricerca predefinito"
+  }
+}

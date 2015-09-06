@@ -1,0 +1,81 @@
+{
+  "meta-title":{
+    "message":"Adblock Browser",
+    "description":"open graph meta title text"
+  },
+  "meta-description":{
+    "message":"Пользуйтесь Интернетом быстро, безопасно и без навязчивой рекламы с помощью Adblock Browser",
+    "description":"open graph meta description text"
+  },
+  "promotional-image-alt":{
+    "message":"Промо-изображение",
+    "description":"Alternative text for the Adblock Browser promotional image small screens"
+  },
+  "headline":{
+    "message":"Пользуйтесь Интернетом быстро, безопасно и без навязчивой рекламы с помощью Adblock Browser",
+    "description":"Headline in the main content area"
+  },
+  "playstore-badge-alt":{
+    "message":"Загрузите на Google Play",
+    "description":"Alternative text for playstore badge"
+  },
+  "appstore-badge-alt":{
+    "message":"Доступно в App Store",
+    "description":"Alternative text for appstore badge"
+  },
+  "email-me":{
+    "message":"Отправьте ссылку для загрузки на мой e-mail",
+    "description":"Text below badges on big screens"
+  },
+  "promotion-msg":{
+    "message":"<a>Самый популярный блокировщик рекламы<\/a> для десктопных браузеров теперь доступен на ваших устройствах Android* и iOS**.",
+    "description":"Text on top of footnotes"
+  },
+  "footnotes1":{
+    "message":"Adblock Browser совместим с устройствами под управлением Android 2.3 и выше. Для установки необходимо около 24 Мб внутренней памяти, 384 Мб оперативной памяти и экран с разрешением не менее 320 пикселей в высоту и 240 в ширину.",
+    "description":"First footnote"
+  },
+  "footnotes2":{
+    "message":"Доступно только на iPhone и iPad с установленной iOS8 и выше.",
+    "description":"Second footnote"
+  },
+  "title":{
+    "message":"Adblock Browser"
+  },
+  "modal-headline":{
+    "message":"Отправка Adblock Browser на ваш смартфон или планшет",
+    "description":"Headline in \"Email me the link\" overlay"
+  },
+  "modal-subheadline":{
+    "message":"Введите ваш e-mail адрес для получения ссылки на загрузку",
+    "description":"Subheadline in \"Email me the link\" overlay"
+  },
+  "request-email":{
+    "message":"Ваш e-mail адрес",
+    "description":"Placeholder text for inputbox in \"Email me the link\" overlay"
+  },
+  "submit-button-text":{
+    "message":"Отправьте мне ссылку",
+    "description":"Submit button text in \"Email me the link\" overlay"
+  },
+  "form-success":{
+    "message":"Приложение уже в пути! Проверьте почту на вашем смартфоне или планшете",
+    "description":"Message for successful email submission in \"Email me the link\" overlay"
+  },
+  "form-invalid":{
+    "message":"Пожалуйста, укажите действующий e-mail адрес",
+    "description":"Message for invalid message submission in \"Email me the link\" overlay"
+  },
+  "form-error":{
+    "message":"Произошла ошибка",
+    "description":"Error submission message in \"Email me the link\" overlay"
+  },
+  "privacy-note1":{
+    "message":"Требуется согласие получателя этого электронного письма",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  },
+  "privacy-note2":{
+    "message":"Adblock Browser заботится о защите вашей личной информации, поэтому мы не храним и никому не передаем ваш адрес электронной почты. <a>Политика конфиденциальности<\/a>",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  }
+}

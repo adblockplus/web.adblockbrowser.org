@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"Adblock Browser verfügt über mehrere, anpassbare Datenschutz-Einstellungen.",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"Tippen Sie <strong>Datenschutz<\/strong>.",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"Unter <em>Datenschutz<\/em> sind die folgenden Optionen verfügbar:"
+  },
+  "do-not-track":{
+    "message":"<strong>Nicht verfolgen<\/strong> – Tippen Sie auf das Kontrollkästchen, wenn Sie nicht wünschen, während des Surfens verfolgt zu werden.",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>Cookies<\/strong> – Cookies sind Informationen, die durch besuchte Websites auf Ihrem Gerät gespeichert wurden. Tippen Sie zum Festlegen der Cookie-Optionen <strong>Cookies<\/strong>. Falls <strong>Aktiviert<\/strong> gewählt ist, sind sowohl Erstanbieter- als auch Drittanbieter-Cookies zugelassen. Falls <strong>Aktiviert, ausgenommen Drittanbieter<\/strong> gewählt ist, sind nur Cookies von Erstanbietern zugelassen. Wenn <strong>Deaktiviert<\/strong> gewählt ist, sind sowohl Erstanbieter- als auch Drittanbieter-Cookies verboten.",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>Passwörter speichern<\/strong> – Diese Option ist standardmäßig aktiviert. Wenn Sie nicht möchten, dass Adblock Browser Ihre Passwörter speichert, tippen Sie auf das Kontrollkästchen, um die Funktion zu deaktivieren.",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>Master-Passwort verwenden<\/strong> – Wenn Sie es vorziehen, ein Master-Passwort für alle Ihre Anmeldedaten zu verwenden, tippen Sie auf <strong>Master-Passwort verwenden<\/strong>. Geben Sie auf der Seite <em>Master-Passwort erstellen<\/em> Ihr Master-Passwort ein und bestätigen Sie.",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"Unter <em>Private Daten löschen<\/em> sind die folgenden Optionen verfügbar:"
+  },
+  "clear-now":{
+    "message":"<strong>Jetzt löschen<\/strong> – Tippen Sie \"Jetzt löschen\", um die folgenden Daten zu löschen: Surfverlauf, Downloads, Formular- und Suchverlauf, Cookies und aktiven Anmeldungen, gespeicherte Passwörter, Cache, Offline-Websitedaten und Websiteeinstellungen. Standardmäßig sind alle Datenoptionen ausgewählt. Tippen Sie auf eine bestimmte Option, wenn Sie nicht wünschen, dass die zugehörigen Daten gelöscht werden.",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>Beim Beenden löschen<\/strong> – Tippen Sie auf dieses Kontrollkästchen, um automatisch jedesmal beim Beenden die Daten zu löschen.",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Öffnen Sie die Adblock Browser-App.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tippen Sie",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android-Hamburger-Menüsymbol",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"und wählen Sie <strong>Einstellungen<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Datenschutzoptionen steuern"
+  }
+}

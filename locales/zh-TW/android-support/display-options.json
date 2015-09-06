@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"點擊 <strong>顯示<\/strong>。",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"可在 <em>顯示<\/em>下方獲取以下選項：",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>文字大小<\/strong>-默認情況下，<strong>文字大小<\/strong> 設定為中等。若要更改，請點擊“文字大小”。在文字屏幕上，點擊小 'A' 或大 'A' 調整文字大小。點擊 <strong>設定<\/strong>。",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>標題列<\/strong>-該選項允許您顯示頁標題或網頁位址。默認情況下會選中頁面位址。若要顯示網頁標題，請點擊 <strong>標題列<\/strong> 並選擇 <strong>顯示頁標題<\/strong>。",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>全屏瀏覽<\/strong> — — 如果您希望在向下滾動網頁時查看 Adblock Browser 標題列，點擊該複選框。",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>允許自動播放<\/strong> - 默認情況下，該選項能夠控制視頻和其他媒體內容的自動播放。如果您不希望自動播放視頻和其他媒體內容，請點擊該複選框。",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"可在 <em>高級<\/em>下方獲取以下選項：",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>字符編碼<\/strong> - 該選項控制字符編碼功能表的顯示。默認情況下，字符編碼功能表是不可見的。若要查看該功能表，請點擊<strong>字符編碼<\/strong> ，然後選擇 <strong>顯示功能表<\/strong>。",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>插件<\/strong> - 該選項可以讓您控制插件首選項。",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"打開 Adblock Browser應用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"點擊",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"安卓漢堡包功能表圖示",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"然後選擇 <strong>設定<\/strong>。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"更改顯示選項"
+  }
+}

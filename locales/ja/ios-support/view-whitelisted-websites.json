@@ -1,0 +1,29 @@
+{
+  "adblock-plus-menu":{
+    "message":"<em>プライバシーとセキュリティ<\/em>の下で、<strong>Adblock Plus<\/strong> をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "whitelist":{
+    "message":"<em>例外<\/em>の下で、<strong>ホワイトリストの登録サイト<\/strong>をタップします。",
+    "description":"view whitelisted websites instruction"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser のアイコン",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong> を選択します。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"ホワイトリストの登録サイトの表示"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "adblocking":{
+    "message":"<strong>広告ブロック<\/strong>をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"<em>ブロック<\/em>の下から<strong>広告をブロック<\/strong>をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"<em>その他の言語<\/em>の下で、購読したい <strong>フィルタリスト<\/strong>を選択します。",
+    "description":"Filter list subscription instruction"
+  },
+  "default-filter-list":{
+    "message":"Adblock Browser で広告をブロックするにはフィルタリストが必要です。Adblock Browser がインストールされている場合は、ブラウザの言語設定に基づくフィルタリストが自動的に有効となります。"
+  },
+  "additional-filter-lists":{
+    "message":"基本的なフィルタリストは二つあり、EasyList と Fanboy's List となります。これらのフィルタは最も人気のある（英語サイトが多い）Webサイトからの広告をブロックします。しかし、国内のあまり知られていない Web サイトからの広告はブロックしません。例えば、ドイツに住んでいる場合はドイツの国内フィルタリストを購読してください。"
+  },
+  "note":{
+    "message":"注"
+  },
+  "note-text":{
+    "message":"Adblock Browser にあまり多くのフィルタリストを追加しないことをおすすめします。追加されたフィルタリストが多すぎると広告ブロッカーの機能が遅くなり、ブラウザも遅くなってしまいます。"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android ハンバーガーメニューのアイコン",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"フィルタリストの追加"
+  }
+}

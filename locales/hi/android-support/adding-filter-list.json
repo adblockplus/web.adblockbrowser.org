@@ -1,0 +1,45 @@
+{
+  "adblocking":{
+    "message":"<strong>Ad blocking<\/strong> पर टैप करें।",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"<em>ब्लॉकिंग<\/em> के नीचे, <strong>Ad blocking<\/strong> पर टैप करें।",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"<em>अन्य भाषाओँ<\/em> के नीचे उस <strong>फ़िल्टर लिस्ट<\/strong> को चुनें जिसे आप सब्सक्राइब करना चाहते हैं।",
+    "description":"Filter list subscription instruction"
+  },
+  "default-filter-list":{
+    "message":"विज्ञापनों को ब्लॉक करने के लिए Adblock ब्राउज़र को फिल्टर लिस्टों की आवश्यकता है। जब आप Adblock ब्राउज़र इनस्टॉल करते हैं तो आपके ब्राउज़र की भाषा सेटिंग के आधार पर एक डिफ़ॉल्ट फ़िल्टर लिस्ट स्वतः ही उत्पन्न हो जाती है।"
+  },
+  "additional-filter-lists":{
+    "message":"दो मूलभूत फ़िल्टर लिस्ट हैं – EasyList और Fanboy's List ये दो फ़िल्टर लिस्ट सबसे लोकप्रिय वेबसाइटों (अक्सर अंग्रेजी भाषा पर आधारित) पर विज्ञापनों को ब्लॉक कर देती हैं। हालांकि, ये फ़िल्टर लिस्टें कम लोकप्रिय राष्ट्रीय वेबसाइटों पर विज्ञापन ब्लॉक नहीं करती हैं। उदाहरण के लिए, यदि आप जर्मनी में रहते हैं तो आपको राष्ट्रीय जर्मन फिल्टर लिस्ट सब्सक्राइब करनी चाहिए।"
+  },
+  "note":{
+    "message":"टिप्पणी"
+  },
+  "note-text":{
+    "message":"एक सुझाव के रूप में इस बात की अनुशंसा की जा सकती है कि Adblock ब्राउज़र में बहुत सारी फ़िल्टर लिस्टें नहीं जोड़नी चाहिए। अत्यधिक फ़िल्टर लिस्टों को जोड़ने से ad blocker धीमा हो जाता है, और परिणामस्वरूप ब्राउज़िंग भी धीमी हो जाती है।"
+  },
+  "open-app":{
+    "message":"Adblock ब्राउज़र ऐप खोलें।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"टैप करें",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android हैमबर्गर मेनू आइकॉन",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"और <strong>सेटिंग<\/strong> चुनें।",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"फ़िल्टर लिस्ट जोड़ना"
+  }
+}

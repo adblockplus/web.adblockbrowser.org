@@ -1,0 +1,33 @@
+{
+  "search-engine":{
+    "message":"أسفل <em>البحث<\/em>، انقر على <strong>محرك البحث<\/strong>.",
+    "description":"Navigation to Search Engins page"
+  },
+  "default-search-engine":{
+    "message":"اختر محرك بحث افتراضي جديد.",
+    "description":"Changing default search engine instruction"
+  },
+  "ios-defaultsearch-visual-alt":{
+    "message":"تغيير محرك البحث البصري الافتراضي",
+    "description":"Default search engine changing visual alternative text"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"أيقونة Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"تغيير محرك البحث الافتراضي"
+  }
+}

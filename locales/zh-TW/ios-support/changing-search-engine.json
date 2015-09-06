@@ -1,0 +1,33 @@
+{
+  "search-engine":{
+    "message":"在<em>搜索<\/em>下方，點擊<strong>搜索引擎<\/strong>。",
+    "description":"Navigation to Search Engins page"
+  },
+  "default-search-engine":{
+    "message":"選擇一個新的默認搜索引擎。",
+    "description":"Changing default search engine instruction"
+  },
+  "ios-defaultsearch-visual-alt":{
+    "message":"更改默認搜索引擎外觀",
+    "description":"Default search engine changing visual alternative text"
+  },
+  "open-app":{
+    "message":"打開 Adblock Browser應用。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"點擊",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser 圖示",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"然後選擇 <strong>設定<\/strong>。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"更改默認搜索引擎外觀"
+  }
+}

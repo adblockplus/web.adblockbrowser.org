@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"يتميز Adblock Browser بالعديد من إعدادات الخصوصية القابلة للتخصيص.",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"انقر على <strong>الخصوصية<\/strong>.",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"الخيارات التالية هي المتاحة تحت <em>الخصوصية<\/em>:"
+  },
+  "do-not-track":{
+    "message":"<strong>عدم التعقب<\/strong> - انقر على مربع الاختيار إذا كنت لا ترغب في تعقبك أثناء التصفح.",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>ملفات تعريف الارتباط (الكوكيز)<\/strong> - إن ملفات تعريف الارتباط هي عبارة عن مجموعات من المعلومات التي تخزنها المواقع الإلكترونية التي قمت بزيارتها على جهازك. ولضبط خيار ملف تعريف الارتباط، انقر على <strong>ملفات تعريف الارتباط (الكوكيز)<\/strong>. فإذا كان الخيار <strong>مفعلا<\/strong>، فسيتم السماح لملفات تعريف الارتباط من كل من الطرف الأول والطرف الثالث. وإذا كان الخيار <strong>مفعلا، باستثناء الطرف الثالث<\/strong>، فسيتم السماح لملفات تعريف الارتباط من الطرف الأول فقط. أما إذا كان الخيار <strong>معطلا<\/strong>، فسيتم حظر ملفات تعريف الارتباط من كل من الطرف الأول والطرف الثالث.",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>تذكر كلمات المرور<\/strong> - يتم تمكين هذا الخيار بشكل افتراضي، وإذا كنت لا ترغب في أن يقوم Adblock Browser بتذكر كلمات المرور الخاصة بك، انقر على مربع الاختيار لتعطيل هذه الميزة.",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>استخدام كلمة مرور رئيسية<\/strong> - إذا كنت ترغب في استخدام كلمة مرور رئيسية واحدة لكل عمليات تسجيل الدخول الخاصة بك، انقر على <strong>استخدام كلمة مرور رئيسية<\/strong>. ومن شاشة <em>إنشاء كلمة مرور رئيسية<\/em>، أدخل كلمة المرور الرئيسية الخاصة بك وأكدها.",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"الخيارات التالية هي المتاحة تحت <em>إزالة البيانات الشخصية<\/em>:"
+  },
+  "clear-now":{
+    "message":"<strong>إزالة الآن<\/strong> - انقر على إزالة الآن لإزالة البيانات التالية: سجل التصفح والتنزيلات والنماذج وسجل البحث وملفات تعريف الارتباط وتسجيلات الدخول النشطة وكلمات المرور المحفوظة والذاكرة المخبأة وبيانات المواقع الإلكترونية دون اتصال وإعدادات المواقع. وبشكل افتراضي، يتم اختيار كل الخيارات. انقر على الخيار المحدد إذا لم تكن ترغب في إزالة البيانات المرتبطة به.",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>إزالة عند الخروج<\/strong> - انقر على مربع الاختيار هذا لإزالة البيانات تلقائيا في كل مرة تقوم بإغلاق التطبيق.",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"أيقونة قائمة Android hamburger",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"التحكم في خيارات الخصوصية"
+  }
+}

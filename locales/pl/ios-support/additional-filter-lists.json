@@ -1,0 +1,52 @@
+{
+  "adblock-plus-menu":{
+    "message":"W polu <em>Prywatność i bezpieczeństwo<\/em> naciśnij <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "more-blocking-options":{
+    "message":"W polu <em>Blokowanie<\/em> naciśnij <strong>Więcej opcji blokowania<\/strong>.",
+    "description":"Navigation to More Blocking Options section instruction"
+  },
+  "options":{
+    "message":"Wybierz opcję (lub opcje):"
+  },
+  "tracking":{
+    "message":"<strong>Śledzenie<\/strong> – wyłącza śledzenie i przeglądanie sieci jest bardziej anonimowe.",
+    "description":"\"Tracking\" option name and it's description"
+  },
+  "malware-domains":{
+    "message":"<strong>Domenty złośliwego oprogramowania<\/strong> – blokuje domeny zwane z rozprzestrzeniania złośliwego oprogramowania, takiego jak wirusy, konie trojańskie, robaki i oprogramowanie szpiegowskie.",
+    "description":"\"Malware Domains\" option name and it's description"
+  },
+  "social-media-buttons":{
+    "message":"<strong>Przyciski multimediów społecznych<\/strong> – wyłącza przyciski używane do tworzenia profili opartych na Twoich nawykach przeglądania.",
+    "description":"\"Social Media Buttons\" option name and it's description"
+  },
+  "anti-adblocking-messsages":{
+    "message":"<strong>Komunikaty o antyblokowaniu reklam<\/strong> – wyłącza skrypty blokera antyreklamowego.",
+    "description":"\"Anti-Ad blocking Messages\" option name and it's description"
+  },
+  "ios-moreblocking-visual-alt":{
+    "message":"Więcej wizualnych opcji blokowania",
+    "description":"More blocking visual alternative text"
+  },
+  "open-app":{
+    "message":"Otwórz aplikację Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Naciśnij",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"ikona Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"i wybierz <strong>Ustawienia<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Wyłączanie śledzenia, domen złośliwego oprogramowania, przycisków multimediów społecznych i komunikatów antyblokowania reklam"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "playstore-navigation":{
+    "message":"前往 Google Play Store 搜索Adblock Browser。",
+    "description":"Instruction about Adblock Browser profile navigation"
+  },
+  "install":{
+    "message":"点击 <strong>安装<\/strong>。",
+    "description":"Installation instruction"
+  },
+  "title":{
+    "message":"安装安卓版Adblock Browser"
+  }
+}

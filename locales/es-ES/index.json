@@ -1,0 +1,81 @@
+{
+  "meta-title":{
+    "message":"Adblock Browser",
+    "description":"open graph meta title text"
+  },
+  "meta-description":{
+    "message":"Navegue rápido, seguro y libre de molestos anuncios con Adblock Browser",
+    "description":"open graph meta description text"
+  },
+  "promotional-image-alt":{
+    "message":"Imagen promocional",
+    "description":"Alternative text for the Adblock Browser promotional image small screens"
+  },
+  "headline":{
+    "message":"Navegue rápido, seguro y libre de molestos anuncios con Adblock Browser",
+    "description":"Headline in the main content area"
+  },
+  "playstore-badge-alt":{
+    "message":"Conseguirlo en Google Play",
+    "description":"Alternative text for playstore badge"
+  },
+  "appstore-badge-alt":{
+    "message":"Conseguirlo en la App Store",
+    "description":"Alternative text for appstore badge"
+  },
+  "email-me":{
+    "message":"Envíenme el enlace de descarga por correo electrónico",
+    "description":"Text below badges on big screens"
+  },
+  "promotion-msg":{
+    "message":"El <a>bloqueador de anuncios más popular<\/a> para navegadores de escritorio ya está disponible para dispositivos Android * y iOS **.",
+    "description":"Text on top of footnotes"
+  },
+  "footnotes1":{
+    "message":"Adblock Browser es compatible con dispositivos que funcionen con Android 2.3 o más recientes. La instalación requiere aproximadamente 24 MB de almacenamiento interno, 384 MB de RAM y una pantalla de al menos 320 píxeles de alto y 240 píxeles de ancho.",
+    "description":"First footnote"
+  },
+  "footnotes2":{
+    "message":"Sólo disponible en iPhone y iPad con iOS 8 o superior instalado.",
+    "description":"Second footnote"
+  },
+  "title":{
+    "message":"Adblock Browser"
+  },
+  "modal-headline":{
+    "message":"Envíe Adblock Browser a su smartphone o tablet",
+    "description":"Headline in \"Email me the link\" overlay"
+  },
+  "modal-subheadline":{
+    "message":"Para recibir el link de descarga, por favor introduzca su dirección de correo electrónico",
+    "description":"Subheadline in \"Email me the link\" overlay"
+  },
+  "request-email":{
+    "message":"Su dirección de correo electrónico",
+    "description":"Placeholder text for inputbox in \"Email me the link\" overlay"
+  },
+  "submit-button-text":{
+    "message":"Envíenme un enlace",
+    "description":"Submit button text in \"Email me the link\" overlay"
+  },
+  "form-success":{
+    "message":"¡La aplicación está en camino! Por favor, revise su correo electrónico en su smartphone o tablet",
+    "description":"Message for successful email submission in \"Email me the link\" overlay"
+  },
+  "form-invalid":{
+    "message":"Por favor, introduzca una dirección válida de correo electrónico",
+    "description":"Message for invalid message submission in \"Email me the link\" overlay"
+  },
+  "form-error":{
+    "message":"Se ha producido un error",
+    "description":"Error submission message in \"Email me the link\" overlay"
+  },
+  "privacy-note1":{
+    "message":"El destinatario del correo electrónico debe haberlo consentido",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  },
+  "privacy-note2":{
+    "message":"Adblock Browser está comprometido a proteger y mantener su privacidad, y no almacenar ni compartir su correo electrónico. <a>Política de privacidad<\/a>",
+    "description":"Privacy note in \"Email me the link\" overlay"
+  }
+}

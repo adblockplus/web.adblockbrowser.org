@@ -1,0 +1,29 @@
+{
+  "install":{
+    "message":"تثبيت Adblock Browser لـ iOS"
+  },
+  "adding-filter-list":{
+    "message":"إضافة قائمة مصفيات"
+  },
+  "removing-filter-list":{
+    "message":"إزالة قائمة مصفيات"
+  },
+  "acceptable-ads-config":{
+    "message":"إعدادات الإعلانات المقبولة"
+  },
+  "additional-filter-lists":{
+    "message":"تعطيل التعقب وأسماء النطاقات الضارة وأزرار وسائل الإعلام الاجتماعي ورسائل مكافحة برامج حجب الإعلانات"
+  },
+  "changing-search-engine":{
+    "message":"تغيير محرك البحث الافتراضي"
+  },
+  "disable-search-suggestions":{
+    "message":"تعطيل اقتراحات البحث"
+  },
+  "view-whitelisted-websites":{
+    "message":"عرض المواقع المدرجة في القائمة البيضاء"
+  },
+  "title":{
+    "message":"دعم iOS"
+  }
+}

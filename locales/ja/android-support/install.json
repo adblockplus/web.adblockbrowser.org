@@ -1,0 +1,13 @@
+{
+  "playstore-navigation":{
+    "message":"Google Play ストアに移動して、Adblock Browser を検索します。",
+    "description":"Instruction about Adblock Browser profile navigation"
+  },
+  "install":{
+    "message":"<strong>インストール<\/strong>をタップします。",
+    "description":"Installation instruction"
+  },
+  "title":{
+    "message":"Adblock Browser for Android のインストール"
+  }
+}

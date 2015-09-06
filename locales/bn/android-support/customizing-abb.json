@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"<strong>অনুকূলিত করুন<\/strong>-এ টোকা দিন।",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"অনুকূলিত করার জন্য একটা বিকল্প নির্বাচন করুনঃ",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"প্রথম পাতা",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>সাম্প্রতিক ট্যাবগুলো<\/strong> - এই বিকল্পটি আপনার শেষবার দেখা পাঁচটা ওয়েবসাইটকে প্রদর্শিত করে। অনুকূলিত করার জন্য, <strong>সাম্প্রতিক ট্যাবগুলো<\/strong>-তে টোকা দিন।",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>ইতিহাস<\/strong> - এই বিকল্পটি আপনার দেখা ওয়েবসাইটগুলোর একটি ইতিবৃত্ত প্রদর্শিত করে। অনুকূলিত করার জন্য, <strong>ইতিহাস<\/strong>-এ টোকা দিন।",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>সেরা সাইটগুলো<\/strong> - পূর্বনিহিত ব্যবস্থা মতো সক্ষম করে রাখা এই বিকল্পটি আপনার সবচেয়ে ঘন ঘন দেখা ওয়েবসাইটগুলোকে প্রদর্শিত করে। অনুকূলিত করার জন্য, <strong>সেরা সাইটোগুলো<\/strong>-তে টোকা দিন।",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>বুকমার্ক<\/strong> - এই বিকল্পটি সেই সমস্ত ওয়েবসাইটগুলোর একটা তালিকা প্রদর্শিত করে যেগুলোকে আপনি সুনির্দিষ্টভাবে যোগ করেন। অনুকূলিত করার জন্য, <strong>বুকমার্কস<\/strong>-এ টোকা দিন।",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>পড়ার তালিকা<\/strong> - এই পড়ার তালিকা বিকল্পটি আপনাকে যে কোন সময়ে সরাসরি একটা প্রবন্ধকে দেখার সুযোগ করে দেয়। অনুকূলিত করার জন্য, <strong>পড়ার তালিকা<\/strong>-এ টোকা দিন।",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>সাইট সংক্রান্ত প্রস্তাবনাগুলো দেখান<\/strong> - পূর্বনিহিত ব্যবস্থা মতো সক্ষম করে রাখা এই বিকল্পটি সেই সমস্ত ওয়েবসাইটগুলোর সর্টকাটগুলোকে তুলে ধরে যেগুলো Adblock Browser-এর মনে হয়েছে আপনি দেখতে আগ্রহী হতে পারেন। এই বৈশিষ্ট্যটিকে অক্ষম করার জন্য, <strong>সাইট সংক্রান্ত প্রস্তাবনাগুলো দেখান<\/strong>-এ টোকা দিন।",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>স্বয়ংক্রিয় আপডেট<\/strong> - এই বিকল্পটি পূর্বনিহিত ব্যবস্থা মতো সক্ষম করা থাকে। এই বিকল্পটিকে বদলাতে, <strong>স্বয়ংক্রিয় আপডেট<\/strong>-এ টোকা দিন।",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"অনুসন্ধান",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>অনুসন্ধান সংক্রান্ত প্রস্তাবনাগুলো দেখান<\/strong> - পূর্বনিহিত ব্যবস্থা মতো সক্ষম করে রাখা এই বিকল্পটি আপনার দেওয়া নিবেশ মোতাবেক অনুসন্ধান সংক্রান্ত প্রস্তাবগুলো প্রদর্শিত করে। এই বৈশিষ্ট্যটিকে অক্ষম করতে, অনুসন্ধান সংক্রান্ত প্রস্তাবনোগুলো দেখান-এ টোকা দিন।",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>ইনস্টল করা অনুসন্ধানকারী ইঞ্জিনগুলো<\/strong> - পূর্বনিহিত অনুসন্ধানকারী ইঞ্জিনকে বদলাতে টোকা দিন।",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"ট্যাব",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"পূর্বনিহিত ব্যবস্থা মতো Adblock Browser আপনি অ্যাপটা থেকে বেরিয়ে যাবার পর ট্যাবগুলোকে পুনর্বহাল করে না। এটা বদলাতে, <strong>ট্যাব<\/strong>-এ টোকা দিন এবং <strong>সব সময় পুনর্বহাল করুন<\/strong> নির্বাচন করুন।",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"অ্যান্ড্রয়েড থেকে আমদানি করুন",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"পূর্বনিহিত ব্যবস্থা মতো Adblock Browser আপনার বিদ্যমান অ্যান্ড্রয়েড ব্রাউজার থেকে আপনার বুকমার্ক এবং ইতিহাসগুলোকে নিয়ে আসে। এই বিকল্পটিকে বদলাতে, <strong>অ্যান্ড্রয়েড থেকে আমদানি করুন<\/strong>-এ টোকা দিন এবং আপনি নিয়ে আসতে চান না এমন বিকল্প বা বিকল্পগুলো থেকে টিক চিহ্ন তুলে দিন।",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"Adblock Browser অ্যাপটা খুলুন।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"টোকা দিন",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"অ্যান্ড্রয়েড হ্যামবার্গার মেনু আইকন",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"এবং <strong>সেটিংস<\/strong> নির্বাচন করুন।",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"অ্যাডব্লক ব্রাউজার অনুকূলিত হচ্ছে"
+  }
+}

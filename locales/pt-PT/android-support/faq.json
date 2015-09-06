@@ -1,0 +1,69 @@
+{
+  "many-permissions-question":{
+    "message":"Porque é que o Adblock Browser para Android necessita de tantas permissões?",
+    "description":"Many permissions questions"
+  },
+  "many-permissions-answer":{
+    "message":"Em geral, os navegadores precisam de mais permissões do que as apps normais para serem capazes de fornecer às aplicações web a capacidade de usarem funcionalidades de hardware como a câmara, microfone, etc. (por exemplo, carregar imagens da sua câmara). Dado que o Adblock Browser é baseado no Firefox, ele pede exatamente as mesmas permissões para fazer as mesmas coisas que o Firefox faz. Para uma explicação de todas as permissões, por favor, veja estas <a>Perguntas Frequentes<\/a> da Mozilla.",
+    "description":"Many permissions answer"
+  },
+  "flash-question":{
+    "message":"O Adblock Browser suportará vídeos flash?",
+    "description":"Flash video support question"
+  },
+  "flash-answer":{
+    "message":"Os vídeos flash funcionam no Adblock Browser, mas tem de instalar o legacy flash player primeiro. Contudo, instalar o Flash para Android não é recomendado dado que é inseguro e poderá contribuir para a perda de memória e lentidão. Se mesmo assim o quiser, veja este <a>artigo<\/a> da Mozilla.",
+    "description":"Flash video support answer"
+  },
+  "firefox-sync-question":{
+    "message":"Oferecerão o Firefox sync?",
+    "description":"Firefox synchronization question"
+  },
+  "firefox-sync-answer":{
+    "message":"Muitos de vocês pediram-nos isto e concordamos que seja uma funcionalidade crítica. Por isso mesmo estamos a trabalhar em ativar esta funcionalidade num lançamento futuro.",
+    "description":"Firefox synchronization answer"
+  },
+  "chrome-bookmark-question":{
+    "message":"Como é que importo favoritos do Chrome?",
+    "description":"Chrome bookmark import question"
+  },
+  "chrome-bookmark-answer":{
+    "message":"Se o navegador do sistema padrão for o Chrome, deverá ser capaz de importar os favoritos a partir de Opções > Personalizar > Importar do Android. Se, contudo, o navegador padrão NÃO for o Chrome, infelizmente não há nada que possamos fazer.",
+    "description":"Chrome bookmark import answer"
+  },
+  "google-sync-question":{
+    "message":"Irão suportar a sincronização do Chrome \/ Conta Google (palavras-passe, favoritos, etc.) quando o Chrome não for o navegador padrão?",
+    "description":"Google account synchronization question"
+  },
+  "google-sync-answer":{
+    "message":"Infelizmente, esta não é atualmente uma funcionalidade do Firefox para Android e como tal, seria considerado uma nova funcionalidade do navegador, que por agora, deixamos para a equipa da Mozilla.",
+    "description":"Google account synchronization answer"
+  },
+  "add-ons-question":{
+    "message":"Posso instalar add-ons como o LastPass e o Ghostery ou outros serviços de terceiros?",
+    "description":"Add-ons installation question"
+  },
+  "add-ons-answer":{
+    "message":"Tendo começado como um add-on de navegador, sentimos um sentimento muito forte de querer suportar add-ons e esperamos suportar isto no futuro. Por agora, se ter add-ons for absolutamente essencial, recomendamos que use o Firefox para Android com o <a>Adblock Plus<\/a>.",
+    "description":"Add-ons installation answer"
+  },
+  "custom-filter-question":{
+    "message":"Posso adicionar filtros personalizados ou bloquear elementos?",
+    "description":"Adding custom filters question"
+  },
+  "custom-filter-answer":{
+    "message":"Estamos à procura de oferecer isto e esperamos adicioná-lo num lançamento futuro.",
+    "description":"Adding custom filters answer"
+  },
+  "version-question":{
+    "message":"Oferecerão uma versão do Adblock Browser baseada no Chrome?",
+    "description":"Chrome version question"
+  },
+  "version-answer":{
+    "message":"O nosso objetivo é oferecer funcionalidades como o Chrome sem construir uma versão separada baseada no Chrome.",
+    "description":"Chrome version answer"
+  },
+  "title":{
+    "message":"Perguntas Frequentes"
+  }
+}

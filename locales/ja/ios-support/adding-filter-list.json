@@ -1,0 +1,49 @@
+{
+  "adblocking":{
+    "message":"<em>プライバシーとセキュリティ<\/em>の下で、<strong>Adblock Plus<\/strong>をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"<em>Blocking<\/em>の下で、<strong>広告をブロック<\/strong>をタップします。",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"<strong>その他の言語<\/strong> の下で購読したい <em>フィルタリスト<\/em> を選択します。",
+    "description":"Filter list subscription instruction"
+  },
+  "ios-addfilter-visual-alt":{
+    "message":"フィルタリストのビジュアルの追加",
+    "description":"Add filter visual alternative text"
+  },
+  "default-filter-list":{
+    "message":"Adblock Browser で広告をブロックするにはフィルタリストが必要です。Adblock Browser rがインストールされている場合は、ブラウザの言語設定に基づくフィルタリストが自動的に有効となります。"
+  },
+  "additional-filter-lists":{
+    "message":"基本的なフィルタリストは二つあり、EasyList と Fanboy's List となります。これらのフィルタリストは最も人気のある（英語サイトが多い）Web サイトからの広告をブロックします。しかし、国内のあまり知られていない Web サイトからの広告はブロックしません。例えば、ドイツに住んでいる場合はドイツの国内フィルタリストを購読してください。"
+  },
+  "note":{
+    "message":"注"
+  },
+  "note-text":{
+    "message":"Adblock Browser にあまり多くのフィルタリストを追加しないことをおすすめします。追加されたフィルタリストが多すぎると広告ブロッカーの機能が遅くなり、ブラウザも遅くなってしまいます。"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Adblock Browser のアイコン",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"フィルタリストの追加"
+  }
+}

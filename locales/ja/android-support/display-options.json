@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"<strong>表示<\/strong>をタップします。",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"<em>表示<\/em>の下では次のオプションが利用可能です。",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>フォントサイズ<\/strong> - デフォルトの<strong>フォントサイズ<\/strong> は「中」に設定されています。これを変更するには、［フォントサイズ］をタップします。フォント画面でフォントサイズを調整するには、小さな「A」または大きな「A」のいずれかをタップします。<strong>設定<\/strong>をタップします。",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>タイトルバー<\/strong> - このオプションでは、ページのタイトルやアドレスを表示することができます。デフォルトではページのアドレスが選択されています。ページのタイトルを表示するには、<strong>タイトルバー<\/strong> をタップし、<strong>ページのタイトルを表示する<\/strong>を選択します。",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>全画面閲覧<\/strong> - ページを下にスクロールしながら Adblock Browser のタイトルバーを表示するには、チェックボックスをタップします。",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>自動再生を許可<\/strong> - デフォルトで有効になっているこのオプションは、ビデオなどのメディアコンテンツの自動再生を制御します。ビデオなどのメディアコンテンツを自動的に再生したくない場合は、チェックボックスをタップします。",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"<em>詳細設定<\/em> の下には次のオプションがあります。",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>文字エンコード<\/strong> - このオプションでは、文字エンコードメニューの表示を制御します。デフォルトでは、文字エンコードメニューは表示されません。メニューを表示する場合は、<strong>文字エンコード<\/strong> をタップし、<strong>メニューを表示<\/strong>を選択します。",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>プラグイン<\/strong> - このオプションでは、プラグインの設定を制御することができます。",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android ハンバーガーメニューのアイコン",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"表示オプションの変更"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"<strong>डिस्प्ले<\/strong> पर टैप करें। ",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"<em>डिसप्ले<\/em> के नीचे निम्लिखित विकल्प उपलब्ध हैं",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>अक्षरों का आकार<\/strong> - डिफ़ॉल्ट रूप से इसे बदलने के लिए, अक्षर का आकर बदलें पर टैप करें। अक्षरों के आकार बदलने के लिए पाठ्य स्क्रीन पर, छोटे 'A ' या बड़े 'A' पर टैप करें। <strong>Setसेट<\/strong> पर टैप करें। ",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>टाइटल बार<\/strong> - इस विकल्प की सहायता से आप पेज टाइटल या पेज एड्रेस प्रदर्शित कर सकते हैं। डिफ़ॉल्ट रूप से, पेज एड्रेस चुना हुआ होता है। पेज टाइटल प्रदर्शित करने के लिए, <strong>टाइटल बार<\/strong> पर टैप कर के <strong>पेज टाइटल दिखाएँ<\/strong> चुनें।",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>फुल-स्क्रीन ब्राउज़िंग<\/strong> - यदि आप चाहते हैं पेज को नीचे की ओर स्क्रॉल करते हुए Adblock ब्राउज़र की टाइटल बार दिखती रहे तो चेकबॉक्स पर टैप करें। ",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>अलाउ ऑटोप्ले<\/strong> - यह एक डिफ़ॉल्ट विकल्प है जो कि वीडियो और अन्य मीडिया के ऑटोप्ले नियंत्रित करता है। यदि आप नहीं चाहते कि वीडियो और अन्य मीडिया स्वचालित रूप से चले तो चेकबॉक्स पर टैप करें। ",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"<em>एडवांस्ड<\/em> के नीचे निम्नलिखित विकल्प उपलब्ध हैं:",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>करैक्टर एनकोडिंग<\/strong> - यह विकल्प करैक्टर एनकोडिंग मेनू के डिस्प्ले को नियंत्रित करता है। डिफ़ॉल्ट रूप से, एन्कोडिंग मेनू दिखाई नहीं देता है। यदि आप इस मेनू को देखना चाहते हैं तो <strong>करैक्टर एनकोडिंग<\/strong> पर टैप करें और <strong>मेनू दिखाएं<\/strong> चुनें। ",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>प्लगइन्स<\/strong> - यह विकल्प आपकी प्लगइन्स संबंधी वरीयता को नियंत्रित करता है। ",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Adblock ब्राउज़र ऐप खोलें।",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"टैप करें",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android हैमबर्गर मेनू आइकॉन",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"और <strong>सेटिंग<\/strong> चुनें।",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"डिस्पले विकल्पों को बदलना"
+  }
+}

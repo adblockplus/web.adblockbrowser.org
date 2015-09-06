@@ -1,0 +1,33 @@
+{
+  "ad-blocking":{
+    "message":"انقر على <strong>حجب إعلان<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "aceptable-ads":{
+    "message":"أسفل<em>الاستثناءات<\/em>، انقر على <strong>إعلانات مقبولة<\/strong>.",
+    "description":"Navigation to Acceptable Ads section instruction"
+  },
+  "whitelist":{
+    "message":"أزل التأشير من على المربع المسمى <strong>السماح لبعض الإعلانات غير الاقتحامية<\/strong>.",
+    "description":"Whitelisting instruction"
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"أيقونة Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"إعدادات الإعلانات المقبولة"
+  }
+}

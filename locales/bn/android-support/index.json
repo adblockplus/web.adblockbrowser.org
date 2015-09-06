@@ -1,0 +1,32 @@
+{
+  "install":{
+    "message":"অ্যান্ড্রয়েডের এর জন্য Adblock Browser ইনস্টল করা"
+  },
+  "adding-filter-list":{
+    "message":"একটা পরিশোধক তালিকা যোগ করা"
+  },
+  "removing-filter-list":{
+    "message":"একটা পরিশোধক তালিকা অপসারণ করা"
+  },
+  "acceptable-ads-config":{
+    "message":"গ্রহণযোগ্য বিজ্ঞাপনগুলোকে কনফিগার করা"
+  },
+  "customizing-abb":{
+    "message":"Adblock Browser-কে অনকূলিত করা"
+  },
+  "display-options":{
+    "message":"প্রদর্শন সংক্রান্ত বিকল্পগুলোকে পরিবর্তন করা"
+  },
+  "privacy-options":{
+    "message":"গোপনীয়তা সংক্রান্ত বিকল্পগুলোকে নিয়ন্ত্রণ করা"
+  },
+  "changing-language":{
+    "message":"ব্রাউজারের ভাষা পরিবর্তন করা"
+  },
+  "faq":{
+    "message":"প্রায়শ জিজ্ঞাসিত প্রশ্নাবলী"
+  },
+  "title":{
+    "message":"অ্যান্ড্রয়েড আলুকূল্য"
+  }
+}

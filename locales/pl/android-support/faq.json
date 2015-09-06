@@ -1,0 +1,69 @@
+{
+  "many-permissions-question":{
+    "message":"Dlaczego aplikacja Adblock Browser dla systemu Android wymaga tak wielu zezwoleń?",
+    "description":"Many permissions questions"
+  },
+  "many-permissions-answer":{
+    "message":"Zasadniczo przeglądarki wymagają więcej zezwoleń niż normalne aplikacje, aby aplikacje internetowe mogły korzystać z funkcji sprzętowych, takich jak aparat fotograficzny, mikrofon itd. (np. przesyłanie obrazów z aparatu fotograficznego). Ponieważ aplikacja Adblock Browser jest oparta na przeglądarce Firefox, żąda ona dokładnie takich samych zezwoleń, aby mieć tę samą funkcjonalność, jaką ma przeglądarka Firefox. Wyjaśnienia dotyczące wszystkich zezwoleń można znaleźć w <a>niniejszych Najczęściej zadawanych pytaniach<\/a> przeglądarki Mozilla.",
+    "description":"Many permissions answer"
+  },
+  "flash-question":{
+    "message":"Czy aplikacja Adblock Browser obsługuje pliki wideo flash?",
+    "description":"Flash video support question"
+  },
+  "flash-answer":{
+    "message":"Pliki wideo Flash działają w aplikacji Adblock Browser, ale należy zainstalować najpierw starszą wersję odtwarzacza flash. Jednakże nie zaleca się instalowania aplikacji Flash dla systemu Android, ponieważ nie jest ona bezpieczna i może przyczyniać się do utraty pamięci i spowolnienia systemu. Jeśli w dalszym ciągu chcesz ją zainstalować, przeczytaj <a>niniejszy artykuł<\/a> z przeglądarki Mozilla.",
+    "description":"Flash video support answer"
+  },
+  "firefox-sync-question":{
+    "message":"Czy będziesz korzystać z funkcji synchronizacji przeglądarki Firefox?",
+    "description":"Firefox synchronization question"
+  },
+  "firefox-sync-answer":{
+    "message":"Wielu użytkowników pytało o to i zgadzamy się, że jest to istotna funkcja. Dlatego prowadzimy prace nad jej uruchomieniem w przyszłej wersji.",
+    "description":"Firefox synchronization answer"
+  },
+  "chrome-bookmark-question":{
+    "message":"Jak zaimportować zakładki z przeglądarki Chrome?",
+    "description":"Chrome bookmark import question"
+  },
+  "chrome-bookmark-answer":{
+    "message":"Jeśli domyślną przeglądarką systemu jest Chrome, powinna istnieć możliwość zaimportowania zakładek za pomocą Ustawienia > Dostosuj > Importuj z systemu Android. Jeśli jednak domyślną przeglądarką NIE jest Chrome, to niestety nic nie możemy zrobić.",
+    "description":"Chrome bookmark import answer"
+  },
+  "google-sync-question":{
+    "message":"Czy będziesz korzystać z funkcji synchronizacji przeglądarki Chrome \/ konta Google (hasła, zakładki itd.), jeśli nie jest ona domyślną przeglądarką?",
+    "description":"Google account synchronization question"
+  },
+  "google-sync-answer":{
+    "message":"Niestety w chwili obecnej pprzeglądarka Firefox dla systemu Android nie posiada takiej funkcji i jako nowa funkcjonalność przeglądarki należy do decyzji pracowników firmy Mozilla.",
+    "description":"Google account synchronization answer"
+  },
+  "add-ons-question":{
+    "message":"Czy można zainstalować dodatki, takie jak LastPass i Ghostery czy usługi innych firm?",
+    "description":"Add-ons installation question"
+  },
+  "add-ons-answer":{
+    "message":"Ponieważ sami zaczynaliśmy jako dodatek do przeglądarki, mocno wspieramy dodatki i mamy nadzieję obsługiwać je w przyszłości. W chwili obecnej, jeśli dodatki stanowią czynnik uniemożliwiający korzystanie z usługi, polecamy użycie przeglądarki Firefox dla systemu Android z dodatkiem <a>Adblock Plus<\/a>.",
+    "description":"Add-ons installation answer"
+  },
+  "custom-filter-question":{
+    "message":"Czy można dodać niestandardowe filtry lub zablokować elementy?",
+    "description":"Adding custom filters question"
+  },
+  "custom-filter-answer":{
+    "message":"Staramy się zaoferować taką opcję i mamy nadzieję dodać ją do nowej wersji.",
+    "description":"Adding custom filters answer"
+  },
+  "version-question":{
+    "message":"Czy zaoferujecie wersję Adblock Browser opartą na przeglądarce Chrome?",
+    "description":"Chrome version question"
+  },
+  "version-answer":{
+    "message":"Naszym celem jest zaoferowanie funkcji podobnych do Chrome bez tworzenia oddzielnej wersji opartej na przeglądarce Chrome.",
+    "description":"Chrome version answer"
+  },
+  "title":{
+    "message":"Najczęściej zadawane pytania"
+  }
+}

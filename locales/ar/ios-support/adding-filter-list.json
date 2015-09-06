@@ -1,0 +1,49 @@
+{
+  "adblocking":{
+    "message":"أسفل<em>الخصوصة والأمان<\/em>، انقر على <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"أسفل<em>الإعلانات المحجوبة<\/em>، انقر على <strong>حجب إعلان<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"اختر <em>قائمة المصفيات<\/em> التي تود الاشتراك فيها أسفل <strong>لغات أخرى<\/strong>.",
+    "description":"Filter list subscription instruction"
+  },
+  "ios-addfilter-visual-alt":{
+    "message":"إضافة قائمة مصفيات بصرية",
+    "description":"Add filter visual alternative text"
+  },
+  "default-filter-list":{
+    "message":"Adblock Browser يتطلب قوائم المصفيات لحجب الإعلانات. وتستند قائمة المصفيات الافتراضية على اللغة التي تم تعيينها في المتصفح الخاص بك وسيتم تمكينها تلقائيا عندما يتم تثبيت Adblock Browser."
+  },
+  "additional-filter-lists":{
+    "message":"يوجد نوعان أساسيان من قوائم المصفيات - قائمة القائمة السهلة وقائمة الفتى المعجب. وتلك المصفيات تقوم بحجب الإعلانات من مغظم المواقع الإلكترونية الرائجة (في الغالب التي تعتمد على اللغة الإنكليزية). ومع ذلك، فإن قوائم المصفيات تلك لا تقوم بحجب الإعلانات على المواقع الإلكترونية الوطنية الرائجة بدرجة أقل. على سبيل المثال، إذا كنت تعيش في ألمانيا، فإنه يجب عليك الاشتراك في قائمة المصفيات الخاصة بالمواقع الإلكترونية الألمانية الوطنية."
+  },
+  "note":{
+    "message":"ملحوظة"
+  },
+  "note-text":{
+    "message":"كحل نوصي به، يجب عليك تجنب إضافة الكثير من قوائم المصفيات إلى Adblock Browser. حيث أن إضافة الكثير من قوائم المصفيات يبطئ من عمل تطبيق حجب الإعلانات، وبالتالي، يبطئ من سرعة تصفحك."
+  },
+  "open-app":{
+    "message":"افتح تطبيق Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"انقر",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"أيقونة Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"واختر <strong>إعدادات<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"إضافة قائمة مصفيات"
+  }
+}

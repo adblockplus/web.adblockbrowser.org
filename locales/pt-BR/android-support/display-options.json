@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"Toque em <strong>Exibir<\/strong>.",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"As seguintes opções estarão disponíveis abaixo de <em>Exibir<\/em>:",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>Tamanho do texto<\/strong> - por padrão, o <strong>tamanho do texto<\/strong> é definido como médio. Para alterá-la, toque em tamanho do texto. Na tela de texto, toque na letra 'A' pequena ou 'A' grande para ajustar o tamanho do texto. Toque em <strong>Configurar<\/strong>.",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>Barra de título<\/strong> - esta opção permite exibir o título ou o endereço da página. Por padrão, o endereço da página está selecionado. Para exibir o título da página, toque na <strong>Barra de título<\/strong> e selecione <strong>Mostrar o título da página<\/strong>.",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>Navegação em tela cheia<\/strong> - se você deseja exibir a barra de título do Adblock Browser durante a rolagem de uma página, toque na caixa de seleção.",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>Permitir reprodução automática<\/strong> - habilitada por padrão, esta opção controla a reprodução automática de vídeos e outros conteúdos de mídia. Se você não deseja que vídeos e outros conteúdos de mídia sejam reproduzidos automaticamente, toque na caixa de seleção.",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"As seguintes opções estarão disponíveis abaixo de <em>Avançado<\/em>:",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>Codificação de caracteres<\/strong> - esta opção controla a exibição do menu de codificação de caracteres. Por padrão, o menu de codificação de caracteres não é visível. Se você deseja ver o menu, toque em <strong>Codificação de caracteres<\/strong> e selecione <strong>Mostrar menu<\/strong>.",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>Plugins<\/strong> - Esta opção permite que você controle as preferências do plugin.",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Abra a app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Toque",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Ícone de menu hambúrguer do Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"e selecione <strong>Opções<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Alterando opções de exibição"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "adblocking":{
+    "message":"W polu <em>Prywatność i bezpieczeństwo<\/em> naciśnij <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"W polu <em>Blokowanie<\/em> naciśnij <strong>Blokowanie reklam<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"Wybierz <em>listę filtrów<\/em>, którą pragniesz subskrybować w <strong>Innych językach<\/strong>.",
+    "description":"Filter list subscription instruction"
+  },
+  "ios-addfilter-visual-alt":{
+    "message":"Dodawanie listy filtrów wizualnych",
+    "description":"Add filter visual alternative text"
+  },
+  "default-filter-list":{
+    "message":"Adblock Browser wymaga list filtrów do blokowania reklam. Domyślna lista filtrów w oparciu o ustawienia języka Twojej przeglądarki jest automatycznie uruchamiana podczas instalacji aplikacji Adblock Browser."
+  },
+  "additional-filter-lists":{
+    "message":"Istnieją dwie podstawowe listy filtrów – lista EasyList oraz Fanboy. Te dwie listy filtrów blokują reklamy na najpopularniejszych stronach internetowych (często w języku angielskim). Jednakże te listy filtrów nie blokują mniej popularnych krajowych stron internetowych. Na przykład, jeśli mieszkasz w Niemczech, powinieneś subskrybować krajową niemiecką listę filtrów."
+  },
+  "note":{
+    "message":"Nota"
+  },
+  "note-text":{
+    "message":"Nie zalecamy dodawania zbyt wielu list filtrów do Adblock Browser. Spowoduje to spowolnienie blokowania reklam, a co za tym idzie przeglądarki."
+  },
+  "open-app":{
+    "message":"Otwórz aplikację Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Naciśnij",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"ikona Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"i wybierz <strong>Ustawienia<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Dodawanie listy filtrów"
+  }
+}

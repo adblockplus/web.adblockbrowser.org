@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"Нажмите <strong>Настроить<\/strong>.",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"Выберите параметр для настройки:",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"Главная",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>Недавние вкладки<\/strong> — Эта функция отображает последние пять посещенных вами веб-сайтов. Нажмите <strong>Недавние вкладки<\/strong> для настройки.",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>Журнал<\/strong> — Эта функция отображает историю всех посещенных вами сайтов. Нажмите <strong>Журнал<\/strong> для настройки.",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>Популярные сайты<\/strong> — Эта функция по умолчанию включена и отображает наиболее часто посещаемые вами сайты. Нажмите <strong>Популярные сайты<\/strong> для настройки.",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>Закладки<\/strong> — Эта функция отображает список, в который вы добавляете сайты сами. Нажмите <strong>Закладки<\/strong> для настройки.",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>Список для чтения<\/strong> — Функция «Список для чтения» позволяет открыть любую из сохраненных в этом списке статей в любое время. Нажмите <strong>Список для чтения<\/strong> для настройки.",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>Подсказывать сайты<\/strong> — Эта включенная по умолчанию функция отображает в виде подсказок ссылки на сайты, которые по мнению Adblock Browser могут вас заинтересовать. Для отключения этой функции нажмите на пункт <strong>Подсказывать сайты<\/strong>.",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>Автоматическое обновление<\/strong> — Эта функция по умолчанию включена. Для отключения нажмите на пункт <strong>Автоматическое обновление<\/strong>.",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"Поиск",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>Отображать поисковые подсказки<\/strong> — Эта включенная по умолчанию функция отображает поисковые подсказки в зависимости от введенного вами запроса. Для отключения этой функции нажмите на пункт «Отображать поисковые подсказки».",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>Установленные поисковые системы<\/strong> — Нажмите, чтобы изменить поисковую систему по умолчанию.",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"Вкладки",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"По умолчанию Adblock Browser не восстанавливает вкладки после выхода из приложения. Чтобы включить эту функцию, нажмите <strong>Вкладки<\/strong> и выберите <strong>Восстанавливать всегда<\/strong>.",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"Импорт из Android",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"По умолчанию Adblock Browser импортирует ваши закладки и историю из встроенного браузера Android. Для изменения этой настройки нажмите <strong>Импорт из Android<\/strong> и снимите флажок или флажки напротив элементов, которые вы не хотите импортировать.",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"Откройте приложение Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Нажмите",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Значок меню Android («гамбургер»)",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"и выберите <strong>Параметры<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Настройка браузера Adblock"
+  }
+}

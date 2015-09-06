@@ -1,0 +1,29 @@
+{
+  "install":{
+    "message":"Installation d'Adblock Browser pour iOS"
+  },
+  "adding-filter-list":{
+    "message":"Ajouter une liste de filtres"
+  },
+  "removing-filter-list":{
+    "message":"Supprimer une liste de filtres"
+  },
+  "acceptable-ads-config":{
+    "message":"Configuration des annonces acceptables"
+  },
+  "additional-filter-lists":{
+    "message":"Désactivation du suivi, des domaines malveillants, des boutons de médias sociaux et des messages anti-blocage de la publicité"
+  },
+  "changing-search-engine":{
+    "message":"Changer le moteur de recherche par défaut"
+  },
+  "disable-search-suggestions":{
+    "message":"Désactivation des suggestions de recherche"
+  },
+  "view-whitelisted-websites":{
+    "message":"Visualisation des sites web sur liste blanche"
+  },
+  "title":{
+    "message":"Assistance iOS"
+  }
+}

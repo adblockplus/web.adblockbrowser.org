@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"Нажмите <strong>Отображение<\/strong>.",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"В разделе <em>Display<\/em> доступны следующие параметры:",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>Размер текста<\/strong> — По умолчанию установлен средний <strong>размер текста<\/strong>. Чтобы изменить его, нажмите «Размер текста». На экране «Текст» нажимайте на маленькую или большую букву «A» для регулировки размера текста. Нажмите <strong>Установить<\/strong>.",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>Строка заголовка<\/strong> — Эта функция позволяет переключиться между отображением заголовка страницы и адреса страницы. По умолчанию выбран адрес страницы. Чтобы отображать заголовок, нажмите <strong>Строка заголовка<\/strong> и выберите <strong>Отображать заголовок страницы<\/strong>.",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>Полноэкранный режим<\/strong> — Если вы хотите видеть заголовок страницы при прокрутке ее вниз, нажмите на этот флажок.",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>Разрешить автозапуск<\/strong> — Эта функция включена по умолчанию и позволяет контролировать автоматическое воспроизведение видео и другого мультимедиа-контента. Если вы не хотите, чтобы видео и другой контент проигрывались автоматически, снимите этот флажок.",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"В разделе <em>Дополнительно<\/em> доступны следующие параметры:",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>Кодировка<\/strong> — Эта функция контролирует отображение меню кодировки символов. По умолчанию меню кодировки не отображается. Если вы хотите увидеть это меню, нажмите <strong>Кодировка<\/strong> и выберите <strong>Показать меню<\/strong>.",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>Плагины<\/strong> — Эта функция позволяет контролировать параметры плагинов.",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Откройте приложение Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Нажмите",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Значок меню Android («гамбургер»)",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"и выберите <strong>Параметры<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Изменение параметров отображения"
+  }
+}

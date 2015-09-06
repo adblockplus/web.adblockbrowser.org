@@ -1,0 +1,57 @@
+{
+  "display":{
+    "message":"Tippen Sie <strong>Anzeige<\/strong>.",
+    "description":"Navigation to Display section instruction"
+  },
+  "display-options":{
+    "message":"Unter <em>Anzeige<\/em> sind die folgenden Optionen verfügbar:",
+    "description":"Substep text"
+  },
+  "text-size":{
+    "message":"<strong>Textgröße<\/strong> – standardmäßig ist die <strong>Textgröße<\/strong> auf mittlere Größe festgelegt. Um das zu ändern, tippen Sie auf Textgröße. Tippen Sie auf der Textseite auf das kleine 'A' oder auf das große 'A', um die Textgröße anzupassen. Tippen Sie <strong>festlegen<\/strong>.",
+    "description":"\"Text size\" option name and it's description"
+  },
+  "title-bar":{
+    "message":"<strong>Titelleiste<\/strong> – Mit dieser Option können Sie entweder den Seitentitel oder die Seitenadresse anzeigen. Standardmäßig ist die Seitenadresse ausgewählt. Tippen Sie zum Anzeigen des Seitentitels <strong>Titelleiste<\/strong> und wählen Sie <strong>Seitentitel anzeigen<\/strong>.",
+    "description":"\"Title bar\" option name and it's description"
+  },
+  "full-screen":{
+    "message":"<strong>Vollbild-Browsen<\/strong> – Wenn Sie die Adblock Browser-Titelleiste anzeigen möchten, während Sie eine Seite nach unten scrollen, tippen Sie auf das Kontrollkästchen.",
+    "description":"\"Full-screen browsing\" option name and it's description"
+  },
+  "allow-autoplay":{
+    "message":"<strong>Autoplay zulassen<\/strong> – Diese Option ist standardmäßig aktiviert und steuert die automatische Wiedergabe von Videos und anderen Medieninhalten. Wenn Sie nicht möchten, dass Videos und andere Medieninhalte automatisch wiedergegeben werden, tippen Sie auf das Kontrollkästchen.",
+    "description":"\"Allow autoplay\" option name and it's description"
+  },
+  "advanced":{
+    "message":"Unter <em>Erweitert<\/em> sind die folgenden Optionen verfügbar:",
+    "description":"Substep text"
+  },
+  "character-encoding":{
+    "message":"<strong>Zeichenkodierung<\/strong> – Diese Option steuert die Darstellung des Zeichenkodierungs-Menüs. Standardmäßig ist das Zeichenkodierungs-Menü nicht sichtbar. Wenn Sie das Menü anzeigen möchten, tippen Sie auf <strong>Zeichenkodierung<\/strong> und wählen Sie <strong>Menü anzeigen<\/strong>.",
+    "description":"\"Character encoding\" option name and it's description"
+  },
+  "plugins":{
+    "message":"<strong>Plugins<\/strong> – Mit dieser Option können die Plugin-Einstellungen gesteuert werden.",
+    "description":"\"Plugins\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Öffnen Sie die Adblock Browser-App.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tippen Sie",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android-Hamburger-Menüsymbol",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"und wählen Sie <strong>Einstellungen<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Anzeigeoptionen ändern"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"Adblock Browser dispone di diverse impostazioni sulla privacy personalizzabili.",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"Tocca su <strong>Privacy<\/strong>.",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"Le seguenti opzioni sono disponibili sotto <em>Privacy<\/em>:"
+  },
+  "do-not-track":{
+    "message":"<strong>Non tracciare<\/strong> - Tocca la casella di controllo se non si vuoi essere tracciato durante la navigazione.",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>Cookies<\/strong> - I cookies sono delle informazioni memorizzate sul tuo dispositivo dai siti Web che visiti. Per impostare le opzioni sui cookie, tocca <strong>Cookies<\/strong>. Se l'opzione è <strong>Abilitata<\/strong>, i cookies proprietari e di terze parti sono ammessi. Se l'opzione è <strong>Abilitata, escluse terze parti<\/strong>, solo i cookie diretti sono ammessi. Se l'opzione è <strong>Disabilitata<\/strong>, sia i cookies proprietari che quelli di terze parti sono vietati.",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>Ricorda password<\/strong> - Questa opzione è abilitata come impostazione predefinita. Se non vuoi che Adblock Browser ricordardi le password, tocca la casella di controllo per disattivare la funzionalità.",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>Utilizza la master password<\/strong> - se vuoi utilizzare una master password per tutti i tuoi dati di accesso, tocca su <strong>utilizza master password<\/strong>. Nella schermata <em>Crea Master Password<\/em>, inserisci e conferma la tua password principale.",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"Le seguenti opzioni sono disponibili sotto <em>Rimuovi i Dati Privati<\/em>:"
+  },
+  "clear-now":{
+    "message":"<strong>Cancella ora<\/strong> - Tocca ora per cancellare i seguenti dati: cronologia, download, modulo e storico di ricerca, cookies e accessi effettuati, password salvate, cache, dati sito web offline e impostazioni del sito. Come impostazione predefinita, vengono selezionate tutte le opzioni sui dati. Tocca un'opzione specifica se non vuoi cancellare i dati associati.",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>Cancella all'uscita<\/strong> - Tocca questa casella di controllo per cancellare automaticamente i dati ogni volta che esci.",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Apri l'app Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tocca",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"icona menu hamburger Android",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"e seleziona <strong>Impostazioni<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Controllare le opzioni sulla privacy"
+  }
+}

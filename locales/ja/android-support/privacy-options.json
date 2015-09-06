@@ -1,0 +1,59 @@
+{
+  "subheadline":{
+    "message":"Adblock Browser は、カスタマイズ可能なプライバシー設定をいくつか備えています。",
+    "description":"Subheadline text"
+  },
+  "privacy":{
+    "message":"<strong>プライバシー<\/strong>をタップします。",
+    "description":"Navigation to privacy settings instruction"
+  },
+  "privacy-options":{
+    "message":"<em>プライバシー<\/em>の下に次のオプションがあります。"
+  },
+  "do-not-track":{
+    "message":"<strong>追跡しない<\/strong> - 検索中に追跡されたくない場合は、チェックボックスをタップします。",
+    "description":"\"Do not track\" option name and it's description"
+  },
+  "cookies":{
+    "message":"<strong>クッキー<\/strong> - クッキーは、アクセスした Web サイトがお使いのデバイス上に格納した情報です。クッキーオプションを設定するには、<strong>クッキー<\/strong>をタップします。<strong>有効<\/strong>である場合は、ファーストパーティとサードパーティのクッキーが許可されます。<strong>サードパーティーを除くを有効<\/strong>な場合は、ファーストパーティからのクッキーのみが許可されます。<strong>無効<\/strong> の場合は、ファーストパーティとサードパーティのクッキーは禁止されます。",
+    "description":"\"Cookies\" option name and it's description"
+  },
+  "remember-password":{
+    "message":"<strong>パスワードを保存<\/strong> - このオプションはデフォルトで有効です。Adblock Browser のパスワードを記憶させたくない場合は、チェックボックスをタップして機能を無効にします。",
+    "description":"\"Remember passwords\" option name and it's description"
+  },
+  "master-password":{
+    "message":"<strong>マスター パスワードを使用<\/strong> - ログインのすべてに1つのマスターパスワードを使用する場合は、<strong>マスター パスワードを使用<\/strong> をタップします。<em>マスター パスワードの作成<\/em>] 画面で、マスターパスワードを入力して確認します。",
+    "description":"\"Use master password\" option name and it's description"
+  },
+  "clear-data":{
+    "message":"<em>プライバシー情報の消去<\/em>の下には次のオプションがあります。"
+  },
+  "clear-now":{
+    "message":"<strong>今すぐ消去<\/strong> - 次のデータを消去するには、［今すぐ消去］をタップします。閲覧履歴、ダウンロード、フォームと検索履歴、クッキーとログイン情報、保存したパスワード、キャッシュ、オフラインでの Webサイトデータ、およびサイトの設定。デフォルトでは、データのすべてのオプションが選択されます。その関連付けられているデータを消去しないようにする場合は、特定のオプションをタップします。",
+    "description":"\"Clear now\" option name and it's description"
+  },
+  "clear-on-exit":{
+    "message":"<strong>終了時にクリア<\/strong> - 終了するたびにデータを自動的に消去するには、このチェックボックスをタップします。",
+    "description":"\"Clear on exit\" option name and it's description"
+  },
+  "open-app":{
+    "message":"Adblock Browser のアプリを開きます。",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"タップ",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android ハンバーガーメニューのアイコン",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"そして、<strong>設定<\/strong>を選択します。",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"プライバシーオプションの制御"
+  }
+}

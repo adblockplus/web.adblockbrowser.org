@@ -1,0 +1,13 @@
+{
+  "adblock-browser-search":{
+    "message":"App Store に移動して<strong>Adblock Browser<\/strong>を検索します。",
+    "description":"Instruction about Adblock Browser profile navigation"
+  },
+  "install":{
+    "message":"<strong>インストール<\/strong> をタップします。",
+    "description":"Installation instruction"
+  },
+  "title":{
+    "message":"Adblock Browser for iOS のインストール"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "adblocking":{
+    "message":"В разделе <em>Конфиденциальность и безопасность<\/em> нажмите <strong>Adblock Plus<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "adblocking-below-blocking":{
+    "message":"В разделе <em>Блокировка<\/em> нажмите <strong>Блокировка рекламы<\/strong>.",
+    "description":"Navigation to Ad blocking section instruction"
+  },
+  "filter-list-selection":{
+    "message":"Выберите <em>список фильтров<\/em>, на который хотите подписаться, в разделе <strong>Другие языки<\/strong>.",
+    "description":"Filter list subscription instruction"
+  },
+  "ios-addfilter-visual-alt":{
+    "message":"Изображение инструкции по добавлению списка фильтров",
+    "description":"Add filter visual alternative text"
+  },
+  "default-filter-list":{
+    "message":"Для блокирования рекламы Adblock Browser необходимы списки фильтров. Список фильтров по умолчанию, основанный на языковых параметрах браузера, включается автоматически при установке Adblock Browser."
+  },
+  "additional-filter-lists":{
+    "message":"Существует два основных списка фильтров: EasyList и Fanboy's List. Эти два списка фильтров блокируют рекламу на самых популярных (часто англоязычных) веб-сайтах. Однако эти списки не блокируют рекламу на менее популярных национальных сайтах. К примеру, если вы живете в Германии, вам нужно подписаться на национальный немецкий список фильтров."
+  },
+  "note":{
+    "message":"Примечание"
+  },
+  "note-text":{
+    "message":"Рекомендуем не добавлять в Adblock Browser слишком большое количество списков фильтров. Если списков будет много, снизится скорость работы блокировщика, а следовательно, и навигации."
+  },
+  "open-app":{
+    "message":"Откройте приложение Adblock Browser.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Нажмите на",
+    "description":"Navigation to settings page instruction before Adblock browser icon image"
+  },
+  "adblock-browser-icon-alt":{
+    "message":"Значок Adblock Browser",
+    "description":"Alternative text of Adblock Browser icon"
+  },
+  "select-settings":{
+    "message":"и выберите <strong>Параметры<\/strong>.",
+    "description":"Navigation to settings page instruction after Adblock browser icon image"
+  },
+  "title":{
+    "message":"Добавление списка фильтров"
+  }
+}

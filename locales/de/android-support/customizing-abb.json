@@ -1,0 +1,89 @@
+{
+  "customize":{
+    "message":"Tippen Sie <strong>Anpassen<\/strong>.",
+    "description":"Customization section navigation instruction"
+  },
+  "customization-option":{
+    "message":"Wählen Sie eine Option zum Anpassen:",
+    "description":"Instruction step"
+  },
+  "home":{
+    "message":"Startseite",
+    "description":"Customization option name"
+  },
+  "recent-tabs":{
+    "message":"<strong>Letzte Tabs<\/strong> – Diese Option zeigt fünf Ihrer zuletzt besuchten Websites. Tippen Sie zum Anpassen <strong>Letzte Tabs<\/strong>.",
+    "description":"\"Recent Tabs\" option name and it's description"
+  },
+  "history":{
+    "message":"<strong>Verlauf<\/strong> – Diese Option zeigt den Verlauf jeder besuchten Website. Tippen Sie zum Anpassen <strong>Verlauf<\/strong>.",
+    "description":"\"History\" option name and it's description"
+  },
+  "top-sites":{
+    "message":"<strong>Top-Sites<\/strong> – Diese Option ist standardmäßig aktiviert und zeigt Ihre am häufigsten besuchten Websites. Tippen Sie zum Anpassen <strong>Top-Sites<\/strong>.",
+    "description":"\"Top Sites\" option name and it's description"
+  },
+  "bookmarks":{
+    "message":"<strong>Lesezeichen<\/strong> – Diese Option zeigt eine Liste von Websites, die Sie speziell hinzufügen. Tippen Sie zum Anzupassen <strong>Lesezeichen<\/strong>.",
+    "description":"\"Bookmarks\" option name and it's description"
+  },
+  "reading-list":{
+    "message":"<strong>Leseliste<\/strong> - Mit der Leseliste-Option können Sie direkt auf einen Artikel zu einem beliebigen Zeitpunkt verweisen. Tippen Sie zum Anpassen <strong>Leseliste<\/strong>.",
+    "description":"\"Reading List\" option name and it's description"
+  },
+  "site-suggestions":{
+    "message":"<strong>Website-Vorschläge anzeigen<\/strong> – Diese Option ist standardmäßig aktiviert und schlägt Verknüpfungen zu Websites vor, von denen Adblock Browser denkt, dass Sie sie vielleicht interessant finden. Um diese Funktion zu deaktivieren, tippen Sie <strong>Website-Vorschläge anzeigen<\/strong>.",
+    "description":"\"Show site suggestions\" option name and it's description"
+  },
+  "automatic-update":{
+    "message":"<strong>Automatische Updates<\/strong> – Diese Option ist standardmäßig aktiviert. Um diese Option zu ändern, tippen Sie auf <strong>Automatische Updates<\/strong>.",
+    "description":"\"Automatic updates\" option name and it's description"
+  },
+  "search":{
+    "message":"Suche",
+    "description":"Customization option name"
+  },
+  "search-suggestion":{
+    "message":"<strong>Suchvorschläge anzeigen<\/strong> – Diese Option ist standardmäßig aktiviert und zeigt Suchvorschläge, die auf Ihren Input basieren. Um diese Funktion zu deaktivieren, tippen Sie <strong>Suchvorschläge anzeigen<\/strong>.",
+    "description":"\"Show search suggestions\" option name and it's description"
+  },
+  "search-engines":{
+    "message":"<strong>Installierte Suchmaschinen<\/strong> – Tippen Sie zum Ändern der Standardsuchmaschine.",
+    "description":"\"Installed Search Engines\" option name and it's description"
+  },
+  "tabs":{
+    "message":"Tabs",
+    "description":"Customization option name"
+  },
+  "tab-restoration":{
+    "message":"Standardmäßig stellt Adblock Browser nach dem Beenden der App die Tabs nicht wiederher. Um dies zu ändern, tippen Sie auf <strong>Tabs<\/strong> und wählen Sie <strong>Immer wiederherstellen<\/strong>.",
+    "description":"Restore tabs instruction"
+  },
+  "import":{
+    "message":"Von Android importieren",
+    "description":"Customization option name"
+  },
+  "import-history":{
+    "message":"Standardmäßig importiert Adblock Browser Ihre Lesezeichen und den Verlauf vom nativen Android Browser. Um diese Option zu ändern, tippen Sie <strong>Von Android importieren<\/strong> und deaktivieren Sie die Option oder Optionen, die Sie nicht importieren möchten.",
+    "description":"Import history instruction"
+  },
+  "open-app":{
+    "message":"Öffnen Sie die Adblock Browser-App.",
+    "description":"Open application step text"
+  },
+  "tap":{
+    "message":"Tippen Sie",
+    "description":"Navigation to settings page instruction before hamburger menu image"
+  },
+  "android-hamburger-alt":{
+    "message":"Android-Hamburger-Menüsymbol",
+    "description":"Alternative text of android settings hamburger menu icon"
+  },
+  "select-settings":{
+    "message":"und wählen Sie <strong>Einstellungen<\/strong>.",
+    "description":"Navigation to settings page instruction after hamburger menu image"
+  },
+  "title":{
+    "message":"Adblock Browser anpassen"
+  }
+}
