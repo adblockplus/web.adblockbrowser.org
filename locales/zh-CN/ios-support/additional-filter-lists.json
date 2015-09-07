@@ -4,18 +4,18 @@
     "description":"Navigation to Ad blocking section instruction"
   },
   "more-blocking-options":{
-    "message":"在 <em>拦截<\/em>下方，点击<strong>更多拦截选项<\/strong>。",
+    "message":"在 <em>过滤<\/em>下方，点击<strong>更多过滤选项<\/strong>。",
     "description":"Navigation to More Blocking Options section instruction"
   },
   "options":{
     "message":"选择一个（或多个）选项："
   },
   "tracking":{
-    "message":"<strong>追踪<\/strong> - 禁用大多数追踪和更加匿名地浏览网站。",
+    "message":"<strong>跟踪<\/strong> - 禁用大多数跟踪和更加匿名地浏览网站。",
     "description":"\"Tracking\" option name and it's description"
   },
   "malware-domains":{
-    "message":"<strong>恶意软件域名<\/strong>- 拦截已知的会传播恶意软件（如病毒、 特洛伊木马、 蠕虫和间谍软件）的域名。",
+    "message":"<strong>恶意软件域<\/strong>- 过滤已知的会传播恶意软件（如病毒、 特洛伊木马、 蠕虫和间谍软件）的域名。",
     "description":"\"Malware Domains\" option name and it's description"
   },
   "social-media-buttons":{
@@ -23,15 +23,15 @@
     "description":"\"Social Media Buttons\" option name and it's description"
   },
   "anti-adblocking-messsages":{
-    "message":"<strong>反广告拦截消息<\/strong> - 禁用反广告拦截器脚本。",
+    "message":"<strong>反广告过滤的消息<\/strong> - 禁用反广告拦截器脚本。",
     "description":"\"Anti-Ad blocking Messages\" option name and it's description"
   },
   "ios-moreblocking-visual-alt":{
-    "message":"更多拦截选项图像",
+    "message":"更多过滤选项图像",
     "description":"More blocking visual alternative text"
   },
   "open-app":{
-    "message":"打开 Adblock Browser应用。",
+    "message":"打开 Adblock浏览器应用程序。",
     "description":"Open application step text"
   },
   "tap":{
@@ -39,7 +39,7 @@
     "description":"Navigation to settings page instruction before Adblock browser icon image"
   },
   "adblock-browser-icon-alt":{
-    "message":"Adblock Browser图标",
+    "message":"Adblock浏览器图标",
     "description":"Alternative text of Adblock Browser icon"
   },
   "select-settings":{
@@ -47,6 +47,6 @@
     "description":"Navigation to settings page instruction after Adblock browser icon image"
   },
   "title":{
-    "message":"禁用追踪、 恶意软件域名、 社交媒体按钮和反广告拦截消息"
+    "message":"禁用跟踪、 恶意软件域、 社交媒体按钮和反广告过滤的消息"
   }
 }

@@ -1,18 +1,18 @@
 {
   "install":{
-    "message":"安装 iOS 版Adblock Browser"
+    "message":"安装 iOS 版Adblock浏览器"
   },
   "adding-filter-list":{
-    "message":"添加一个过滤列表"
+    "message":"添加一个过滤规则列表"
   },
   "removing-filter-list":{
-    "message":"删除一个过滤列表"
+    "message":"删除一个过滤规则列表"
   },
   "acceptable-ads-config":{
     "message":"配置可接受广告"
   },
   "additional-filter-lists":{
-    "message":"禁用追踪、 恶意软件域名、 社交媒体按钮和反广告拦截消息"
+    "message":"禁用跟踪、 恶意软件域、 社交媒体按钮和反广告过滤的消息"
   },
   "changing-search-engine":{
     "message":"更改默认搜索引擎"

@@ -1,26 +1,26 @@
 {
   "many-permissions-question":{
-    "message":"安卓版的Adblock Browser为什么需要这么多的权限？",
+    "message":"安卓版的Adblock浏览器为什么需要这么多的权限？",
     "description":"Many permissions questions"
   },
   "many-permissions-answer":{
-    "message":"通常来说，浏览器比普通应用需要更多的权限以使网络应用能够使用诸如相机、麦克风等（例如：从您的相机上传图片）的硬件功能。由于Adblock Browser是基于火狐的，它要求获取完全相同的权限以完成Firefox所做的事情。获取对所有权限的说明，请参考Mozilla 提供的<a>常见问题集解答<\/a>。",
+    "message":"通常来说，浏览器比普通应用需要更多的权限以使网络应用能够使用诸如相机、麦克风等（例如：从您的相机上传图片）的硬件功能。由于Adblock浏览器是基于火狐的，它要求获取完全相同的权限以完成火狐所做的事情。获取对所有权限的说明，请参考Mozilla 提供的<a>常见问题集解答<\/a>。",
     "description":"Many permissions answer"
   },
   "flash-question":{
-    "message":"Adblock Browser 会支持 flash 视频吗？",
+    "message":"Adblock浏览器会支持 flash 视频吗？",
     "description":"Flash video support question"
   },
   "flash-answer":{
-    "message":"Flash视频确实可在Adblock Browser上使用，但是，您必须先安装旧版的flash播放器。不过，不建议为安卓设备安装Flash，因为它是不安全的，可能会导致存储器损失或缓慢。若您仍要这样做，请参考来自Mozilla的 <a>这篇文章<\/a>。",
+    "message":"Flash视频确实可在Adblock浏览器上使用，但是您必须先安装旧版的flash播放器。不过我们并不建议为安卓设备安装Flash，因为它是不安全的，可能会导致存储器损失或缓慢。若您仍要这样做，请参考来自Mozilla的 <a>这篇文章<\/a>。",
     "description":"Flash video support answer"
   },
   "firefox-sync-question":{
-    "message":"会提供Firefox同步吗？",
+    "message":"会提供火狐同步吗?",
     "description":"Firefox synchronization question"
   },
   "firefox-sync-answer":{
-    "message":"很多人问过这个问题，我们也认为这是一个重要功能。因此，我们将尽力在未来发布中启用这个功能。",
+    "message":"很多人问过这个问题，我们也认为这是一个重要功能。因此，我们将尽力在未来的版本发布中启用这个功能。",
     "description":"Firefox synchronization answer"
   },
   "chrome-bookmark-question":{
@@ -28,7 +28,7 @@
     "description":"Chrome bookmark import question"
   },
   "chrome-bookmark-answer":{
-    "message":"如果默认系统浏览器是 Chrome，那么，您应该能够从“设置 > 自定义 > 从安卓导入”中导入书签。但是，如果默认浏览器不是Chrome，那么，很遗憾，我们无能为力。",
+    "message":"如果默认系统浏览器是 Chrome，那么，您应该能够从“设置 > 自定义 > 从安卓导入”中导入书签。但是如果默认浏览器不是Chrome，那么很遗憾，我们无能为力。",
     "description":"Chrome bookmark import answer"
   },
   "google-sync-question":{
@@ -36,19 +36,19 @@
     "description":"Google account synchronization question"
   },
   "google-sync-answer":{
-    "message":"很遗憾，安卓版的Firefox目前不支持该功能，我们会在新浏览器的功能中将它考虑在内，但是，目前，我们只能将这个问题留给Mozilla了。",
+    "message":"很遗憾，安卓版的火狐目前不支持该功能，我们会在新浏览器的功能中将它考虑在内，但是目前我们只能将这个问题留给Mozilla了。",
     "description":"Google account synchronization answer"
   },
   "add-ons-question":{
-    "message":"我可以安装诸如 LastPass和Ghostery，或者其他第三方服务等的加载项吗？",
+    "message":"我可以安装像LastPass和Ghostery等，或者其他第三方的软件吗？",
     "description":"Add-ons installation question"
   },
   "add-ons-answer":{
-    "message":"我们自己本身就是作为浏览器加载项起家的，因此，我们非常想要支持加载项，并且希望在未来也能够支持。目前来说，如果拥有加载项会破坏协议的话，我们建议使用安装有<a>Adblock Plus<\/a>的安卓版Firefox。",
+    "message":"我们自己本身就是作为浏览器插件起家的，因此，我们非常想要支持插件，并且希望在未来也能够支持。目前来说，如果拥有插件会破坏协议的话，我们建议使用安装有<a>Adblock Plus<\/a>的安卓版火狐。",
     "description":"Add-ons installation answer"
   },
   "custom-filter-question":{
-    "message":"我可以添加自定义过滤器或者块元素吗？",
+    "message":"我可以添加自定义过滤规则或者过滤元素吗？",
     "description":"Adding custom filters question"
   },
   "custom-filter-answer":{
@@ -56,7 +56,7 @@
     "description":"Adding custom filters answer"
   },
   "version-question":{
-    "message":"你们会提供基于Chrome的Adblock Browser版本吗？",
+    "message":"你们会提供基于Chrome的Adblock浏览器版本吗？",
     "description":"Chrome version question"
   },
   "version-answer":{

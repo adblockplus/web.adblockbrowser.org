@@ -12,11 +12,11 @@
     "description":"substep instruction below Browser Language navigation step"
   },
   "select-language":{
-    "message":"点击您想要的语言。",
+    "message":"点击所需的语言。",
     "description":"Last step of instruction"
   },
   "open-app":{
-    "message":"打开 Adblock Browser应用。",
+    "message":"打开 Adblock浏览器应用程序。",
     "description":"Open application step text"
   },
   "tap":{

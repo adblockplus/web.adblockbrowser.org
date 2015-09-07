@@ -4,31 +4,31 @@
     "description":"Navigation to Ad blocking section instruction"
   },
   "adblocking-below-blocking":{
-    "message":"在 <em>拦截<\/em>下方，点击<strong>广告拦截<\/strong>。",
+    "message":"在 <em>过滤<\/em>下方，点击<strong>广告过滤<\/strong>。",
     "description":"Navigation to Ad blocking section instruction"
   },
   "filter-list-selection":{
-    "message":"在<strong>其它语言<\/strong>下方选择您想要订阅的<em>过滤列表<\/em> 。",
+    "message":"在<strong>其它语言<\/strong>下方选择您想要订阅的<em>过滤规则列表<\/em> 。",
     "description":"Filter list subscription instruction"
   },
   "ios-addfilter-visual-alt":{
-    "message":"添加一个过滤列表图像",
+    "message":"添加一个过滤规则列表图像",
     "description":"Add filter visual alternative text"
   },
   "default-filter-list":{
-    "message":"Adblock Browser 需要使用过滤列表拦截广告。在安装Adblock Browser时会自动启用一个根据您的浏览器的语言设置的默认过滤列表。"
+    "message":"Adblock浏览器需要使用过滤规则列表来拦截广告。在安装Adblock浏览器时会自动启用一个根据您的浏览器的语言设置的默认过滤列表。"
   },
   "additional-filter-lists":{
-    "message":"有现两种基本的过滤列表：EasyList和Fanboy列表。这两种过滤列表会拦截来自最受欢迎的（常常为英语）网站的广告。不过，这些过滤列表不会拦截不太受欢迎的全国性网站。例如，如果您是居住在德国，则应订阅德国的全国性过滤列表。"
+    "message":"有两种基本的过滤规则列表：EasyList和Fanboy列表。这两种过滤规则列表会过滤来自最受欢迎的（常常为英语）网站的广告。不过，这些过滤规则列表不会拦截不太受欢迎的国内网站。例如，如果您是居住在德国，则应订阅德国国内的过滤规则列表。"
   },
   "note":{
-    "message":"注释"
+    "message":"注意"
   },
   "note-text":{
-    "message":"我们建议您应避免添加过多过滤列表至Adblock Browser。添加过多过滤列表会拖慢广告拦截器，由此拖慢您的浏览速度。"
+    "message":"我们建议您应避免添加过多过滤规则列表至Adblock浏览器。添加过多过滤规则列表会拖慢广告拦截器，由此拖慢您的浏览速度。"
   },
   "open-app":{
-    "message":"打开 Adblock Browser应用。",
+    "message":"打开 Adblock浏览器应用程序。",
     "description":"Open application step text"
   },
   "tap":{
@@ -36,7 +36,7 @@
     "description":"Navigation to settings page instruction before Adblock browser icon image"
   },
   "adblock-browser-icon-alt":{
-    "message":"Adblock Browser图标",
+    "message":"Adblock浏览器图标",
     "description":"Alternative text of Adblock Browser icon"
   },
   "select-settings":{
@@ -44,6 +44,6 @@
     "description":"Navigation to settings page instruction after Adblock browser icon image"
   },
   "title":{
-    "message":"添加一个过滤列表"
+    "message":"添加一个过滤规则列表"
   }
 }

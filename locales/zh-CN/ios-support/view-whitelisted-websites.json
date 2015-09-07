@@ -4,11 +4,11 @@
     "description":"Navigation to Ad blocking section instruction"
   },
   "whitelist":{
-    "message":"在<em>例外规定<\/em>下方，点击<strong>列入白名单的网站<\/strong>。",
+    "message":"在<em>例外情况<\/em>下方，点击<strong>白名单中的网站<\/strong>。",
     "description":"view whitelisted websites instruction"
   },
   "open-app":{
-    "message":"打开 Adblock Browser应用。",
+    "message":"打开 Adblock浏览器应用程序。",
     "description":"Open application step text"
   },
   "tap":{
@@ -16,7 +16,7 @@
     "description":"Navigation to settings page instruction before Adblock browser icon image"
   },
   "adblock-browser-icon-alt":{
-    "message":"Adblock Browser图标",
+    "message":"Adblock浏览器图标",
     "description":"Alternative text of Adblock Browser icon"
   },
   "select-settings":{

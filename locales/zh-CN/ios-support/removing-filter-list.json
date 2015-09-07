@@ -4,19 +4,19 @@
     "description":"Navigation to Ad blocking section instruction"
   },
   "ad-blocking":{
-    "message":"在 <em>拦截<\/em>下方，点击<strong>广告拦截<\/strong>。",
+    "message":"在 <em>过滤<\/em>下方，点击<strong>广告过滤<\/strong>。",
     "description":"Navigation to Ad blocking section instruction"
   },
   "remove-filter-list":{
-    "message":"在 <em>激活以下语言的网站<\/em>下方选择您想要删除的 <strong>过滤列表<\/strong> 。",
+    "message":"在 <em>较常访问以下语言的网站<\/em>下方选择您想要删除的 <strong>过滤规则列表<\/strong> 。",
     "description":"Filter list removal instruction"
   },
   "ios-removefilter-visual-alt":{
-    "message":"删除一个过滤列表图像",
+    "message":"删除一个过滤规则列表图像",
     "description":"Removing filter list visual alternative text"
   },
   "open-app":{
-    "message":"打开 Adblock Browser应用。",
+    "message":"打开 Adblock浏览器应用程序。",
     "description":"Open application step text"
   },
   "tap":{
@@ -24,7 +24,7 @@
     "description":"Navigation to settings page instruction before Adblock browser icon image"
   },
   "adblock-browser-icon-alt":{
-    "message":"Adblock Browser图标",
+    "message":"Adblock浏览器图标",
     "description":"Alternative text of Adblock Browser icon"
   },
   "select-settings":{
@@ -32,6 +32,6 @@
     "description":"Navigation to settings page instruction after Adblock browser icon image"
   },
   "title":{
-    "message":"删除一个过滤列表"
+    "message":"删除一个过滤规则列表"
   }
 }

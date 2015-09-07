@@ -8,7 +8,7 @@
     "description":"Search suggestion option disabling visual alternative text"
   },
   "open-app":{
-    "message":"打开 Adblock Browser应用。",
+    "message":"打开 Adblock浏览器应用程序。",
     "description":"Open application step text"
   },
   "tap":{
@@ -16,7 +16,7 @@
     "description":"Navigation to settings page instruction before Adblock browser icon image"
   },
   "adblock-browser-icon-alt":{
-    "message":"Adblock Browser图标",
+    "message":"Adblock浏览器图标",
     "description":"Alternative text of Adblock Browser icon"
   },
   "select-settings":{

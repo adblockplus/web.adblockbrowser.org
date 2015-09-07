@@ -16,7 +16,7 @@
     "description":"\"Title bar\" option name and it's description"
   },
   "full-screen":{
-    "message":"<strong>全屏浏览<\/strong> - 若要在向下滚动页面时查看 Adblock Browser 标题栏，点击该复选框。",
+    "message":"<strong>全屏浏览<\/strong> - 若要在向下滚动页面时查看 Adblock浏览器标题栏，点击该复选框。",
     "description":"\"Full-screen browsing\" option name and it's description"
   },
   "allow-autoplay":{
@@ -36,7 +36,7 @@
     "description":"\"Plugins\" option name and it's description"
   },
   "open-app":{
-    "message":"打开 Adblock Browser应用。",
+    "message":"打开 Adblock浏览器应用程序。",
     "description":"Open application step text"
   },
   "tap":{

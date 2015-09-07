@@ -1,18 +1,18 @@
 {
   "meta-title":{
-    "message":"Adblock Browser",
+    "message":"Adblock浏览器",
     "description":"open graph meta title text"
   },
   "meta-description":{
-    "message":"使用Adblock Browser快速、安全地浏览，不受任何恼人广告的烦扰",
+    "message":"使用Adblock浏览器快速、安全地浏览，不受任何恼人广告的烦扰",
     "description":"open graph meta description text"
   },
   "promotional-image-alt":{
-    "message":"促销图片",
+    "message":"推广图片",
     "description":"Alternative text for the Adblock Browser promotional image small screens"
   },
   "headline":{
-    "message":"使用Adblock Browser快速、安全地浏览，不受任何恼人广告的烦扰",
+    "message":"使用Adblock浏览器快速、安全地浏览，不受任何恼人广告的烦扰",
     "description":"Headline in the main content area"
   },
   "playstore-badge-alt":{
@@ -20,7 +20,7 @@
     "description":"Alternative text for playstore badge"
   },
   "appstore-badge-alt":{
-    "message":"在 App Store 上获取",
+    "message":"从App Store里下载",
     "description":"Alternative text for appstore badge"
   },
   "email-me":{
@@ -28,11 +28,11 @@
     "description":"Text below badges on big screens"
   },
   "promotion-msg":{
-    "message":"现在可为您的Android* 和 iOS** 设备获取针对桌面浏览器的<a>最受欢迎的广告拦截器<\/a> 。",
+    "message":"现在可以在您的安卓* 和 iOS** 设备上同样使用桌面浏览器上<a>最受欢迎的广告拦截器<\/a>了 。",
     "description":"Text on top of footnotes"
   },
   "footnotes1":{
-    "message":"Adblock Browser 与运行Android 2.3 及更高版本的设备相兼容。安装要求拥有约24 MB的内部存储器、384 MB的RAM，以及至少为320 像素高和240像素宽的显示器。",
+    "message":"Adblock浏览器与运行Android 2.3 及更高版本的设备相兼容。安装要求拥有约24 MB的内部存储器、384 MB的RAM，以及至少为320 像素高和240像素宽的显示器。",
     "description":"First footnote"
   },
   "footnotes2":{
@@ -40,10 +40,10 @@
     "description":"Second footnote"
   },
   "title":{
-    "message":"Adblock Browser"
+    "message":"Adblock浏览器"
   },
   "modal-headline":{
-    "message":"发送Adblock Browser至您的智能手机和平板电脑",
+    "message":"将Adblock浏览器发送到您的智能手机和平板电脑",
     "description":"Headline in \"Email me the link\" overlay"
   },
   "modal-subheadline":{
@@ -75,7 +75,7 @@
     "description":"Privacy note in \"Email me the link\" overlay"
   },
   "privacy-note2":{
-    "message":"Adblock Browser 致力于保护和维护您的隐私，并且，我们不会存储或共享您的电子邮件。<a>隐私政策<\/a>",
+    "message":"Adblock浏览器致力于保护和维护您的隐私，并且，我们不会存储或共享您的电子邮件。<a>隐私政策<\/a>",
     "description":"Privacy note in \"Email me the link\" overlay"
   }
 }

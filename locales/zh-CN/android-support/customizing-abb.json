@@ -12,7 +12,7 @@
     "description":"Customization option name"
   },
   "recent-tabs":{
-    "message":"<strong>最近选项卡<\/strong>-该选项将显示您最近访问的5个网站。若要自定义，请点击 <strong>最近选项卡<\/strong>。",
+    "message":"<strong>最近标签页<\/strong>-该选项将显示您最近访问的5个网站。若要自定义，请点击 <strong>最近标签页<\/strong>。",
     "description":"\"Recent Tabs\" option name and it's description"
   },
   "history":{
@@ -20,7 +20,7 @@
     "description":"\"History\" option name and it's description"
   },
   "top-sites":{
-    "message":"<strong>热门网站<\/strong> - 默认为启用，该选项会显示您最常访问的网站。若要自定义，请点击<strong>热门网站<\/strong>。",
+    "message":"<strong>常用网站<\/strong> - 默认为启用，该选项会显示您最常访问的网站。若要自定义，请点击<strong>常用网站<\/strong>。",
     "description":"\"Top Sites\" option name and it's description"
   },
   "bookmarks":{
@@ -32,7 +32,7 @@
     "description":"\"Reading List\" option name and it's description"
   },
   "site-suggestions":{
-    "message":"<strong>显示网站建议<\/strong>- 默认启用，该选项会建议至Adblock Browser认为您可能会感兴趣的网站的快捷方式。若要禁用该功能，请点击 <strong>显示网站建议<\/strong>。",
+    "message":"<strong>显示推荐网站<\/strong>- 默认启用，该选项会建议至Adblock浏览器认为您可能会感兴趣的网站的快捷方式。若要禁用该功能，请点击 <strong>显示推荐网站<\/strong>。",
     "description":"\"Show site suggestions\" option name and it's description"
   },
   "automatic-update":{
@@ -44,7 +44,7 @@
     "description":"Customization option name"
   },
   "search-suggestion":{
-    "message":"<strong>显示网站建议<\/strong>- 默认启用，该选项会根据您输入的信息显示搜索建议。若要禁用该功能，请点击\"显示搜索建议”。",
+    "message":"<strong>显示搜索建议<\/strong>-默认情况下，启用此选项显示基于您输入的搜索建议。若要禁用此功能，请点击\"显示搜索建议\"。",
     "description":"\"Show search suggestions\" option name and it's description"
   },
   "search-engines":{
@@ -52,11 +52,11 @@
     "description":"\"Installed Search Engines\" option name and it's description"
   },
   "tabs":{
-    "message":"选项卡",
+    "message":"标签页",
     "description":"Customization option name"
   },
   "tab-restoration":{
-    "message":"默认情况下，Adblock Browser不会在您退出应用后还原选项卡。若要更改该设置，请点击 <strong>选项卡<\/strong>，然后选择 <strong>始终还原<\/strong>。",
+    "message":"默认情况下，Adblock浏览器不会在您退出应用后还原标签页。若要更改该设置，请点击 <strong>标签页<\/strong>，然后选择 <strong>总是恢复<\/strong>。",
     "description":"Restore tabs instruction"
   },
   "import":{
@@ -64,11 +64,11 @@
     "description":"Customization option name"
   },
   "import-history":{
-    "message":"在默认情况下，Adblock Browser会从原生安卓浏览器导入您的书签和历史。若要更改该设置，请点击 <strong>从安卓导入<\/strong>，然后取消勾选您不希望导入的选项。 ",
+    "message":"在默认情况下，Adblock浏览器会从原生安卓浏览器导入您的书签和历史。若要更改该设置，请点击 <strong>从Android导入<\/strong>，然后取消勾选您不希望导入的选项。 ",
     "description":"Import history instruction"
   },
   "open-app":{
-    "message":"打开 Adblock Browser应用。",
+    "message":"打开 Adblock浏览器应用程序。",
     "description":"Open application step text"
   },
   "tap":{
@@ -84,6 +84,6 @@
     "description":"Navigation to settings page instruction after hamburger menu image"
   },
   "title":{
-    "message":"自定义 Adblock Browser"
+    "message":"自定义Adblock浏览器"
   }
 }
