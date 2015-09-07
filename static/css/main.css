@@ -408,6 +408,7 @@ html[dir="rtl"] #modal-close
 
 #modal h1
 {
+  line-height: 48px;
   margin-top: 51px;
   font-size: 38px;
   font-weight: 300;
