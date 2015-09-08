@@ -152,7 +152,7 @@ html[dir="rtl"] #bookmark
   vertical-align: top;
 }
 
-#content h1
+#content h1, #content h2
 {
   display: inline-block;
   font-weight: 300;
@@ -160,6 +160,12 @@ html[dir="rtl"] #bookmark
   line-height: 46px;
   margin-bottom: 17px;
   margin-top: 0px;
+}
+
+#content h2
+{
+  font-size: 30px;
+  margin-top: 17px;
 }
 
 .note

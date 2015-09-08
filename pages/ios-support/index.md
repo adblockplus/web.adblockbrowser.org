@@ -8,3 +8,5 @@ title=iOS support
 * [{{changing-search-engine Changing the default search engine}}](ios-support/changing-search-engine)
 * [{{disable-search-suggestions Disabling search suggestions}}](ios-support/disable-search-suggestions)
 * [{{view-whitelisted-websites Viewing whitelisted websites}}](ios-support/view-whitelisted-websites)
+
+<? include additional-support-options ?>

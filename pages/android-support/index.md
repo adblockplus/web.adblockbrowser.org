@@ -9,3 +9,5 @@ title=Android support
 * [{{privacy-options Controlling privacy options}}](android-support/privacy-options)
 * [{{changing-language Changing the browser language}}](android-support/changing-language)
 * [{{faq FAQs}}](android-support/faq)
+
+<? include additional-support-options ?>
