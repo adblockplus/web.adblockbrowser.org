@@ -216,7 +216,7 @@ html[dir="rtl"] #promo-image
   margin-bottom: 14px;
 }
 
-#badges a
+#badges a, #social-media a 
 {
   text-decoration: none;
 }
@@ -323,8 +323,26 @@ footer a
 
 #language
 {
-  display: block;
-  margin-bottom: 34px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+html[dir="rtl"] #language
+{
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+#social-media
+{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px 0px;
+}
+
+#social-media a
+{
+  margin: 0px 3px;
 }
 
 #modal
@@ -577,10 +595,5 @@ html[dir="rtl"] #modal-close
   #footnotes
   {
     margin-top: 34px;
-  }
-
-  footer
-  {
-    line-height: 24px;
   }
 }

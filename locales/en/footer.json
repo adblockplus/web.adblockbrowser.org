@@ -1,0 +1,14 @@
+{
+  "facebook-icon-alt": {
+    "message": "Facebook icon",
+    "description": "Facebook icon alternative text"
+  },
+  "twitter-icon-alt": {
+    "message": "Twitter icon",
+    "description": "Twitter icon alternative text"
+  },
+  "gplus-icon-alt": {
+    "message": "Google plus icon",
+    "description": "Google plus icon alternative text"
+  }
+}
