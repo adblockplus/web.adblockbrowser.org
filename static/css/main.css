@@ -72,7 +72,7 @@ nav li
 
 nav a
 {
-  padding: 0px 15px 25px 15px;
+  padding: 0px 15px 29px 15px;
   color: #727272;
   display: block;
   border-bottom: 1px solid;
@@ -581,8 +581,6 @@ html[dir="rtl"] #modal-close
 
   footer
   {
-    padding-top: 20px;
-    font-size: 18px;
     line-height: 24px;
   }
 }
