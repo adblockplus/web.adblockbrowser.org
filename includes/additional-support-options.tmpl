@@ -1,0 +1,14 @@
+<h2>{{"Still can't find what you're looking for? Contact us via:"|translate("social-contacts")}}</h2>
+
+<ul>
+  {% if locale == "zh_CN" %}
+    <li><a href="http://weibo.com/adblockplus">微博</a></li>
+    <li><a href="http://abpchina.org/forum/forum.php">中文论坛</a></li>
+  {% else %}
+    <li><a href="https://www.facebook.com/adblockplus">Facebook</a></li>
+    <li><a href="https://plus.google.com/+AdblockPlus">​Google+</a></li>
+    <li><a href="https://twitter.com/adblockplus">Twitter</a></li>
+    <li><a href="https://adblockplus.org/forum/viewforum.php?f=24">{{"Forum Adblock Browser for Android"|translate("forum-android")}}</a></li>
+    <li><a href="https://adblockplus.org/forum/viewforum.php?f=25">{{"Forum Adblock Browser for iOS"|translate("forum-ios")}}</a></li>
+  {% endif %}
+</ul>
