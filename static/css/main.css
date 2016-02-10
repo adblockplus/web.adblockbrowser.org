@@ -581,8 +581,7 @@ html[dir="rtl"] #modal-close
 
   .content-left
   {
-    padding: 0px 17px;
-    max-width: 88%;
+    max-width: 100%;
     display: block;
     margin: 0px auto;
   }
@@ -595,7 +594,7 @@ html[dir="rtl"] #modal-close
 
   #content
   {
-    padding: 34px 0px 68px 0px;
+    padding: 34px 20px 68px 20px;
   }
 
   #footnotes
