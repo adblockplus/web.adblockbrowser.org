@@ -1,69 +1,137 @@
 {
-  "many-permissions-question":{
-    "message":"安卓版的Adblock Browser為什麽需要這麽多的權限？",
-    "description":"Many permissions questions"
+  "add-ons-answer": {
+    "description": "Add-ons installation answer",
+    "message": "我們自己本身就是作為瀏覽器加載項起步的，因此，我們非常想要支持加載項，並且希望在未來也能夠支持。目前來說，如果擁有加載項會破壞協議的話，我們建議使用安裝有<a>Adblock Plus</a>的安卓版Firefox。"
   },
-  "many-permissions-answer":{
-    "message":"通常來說，瀏覽器比普通應用需要更多的權限以使網絡應用能夠使用諸如相機、麥克風等（例如：從您的相機上傳圖片）的硬件功能。由於Adblock Browser是基於火狐的，它要求獲取完全相同的權限以完成Firefox所做的事情。獲取對所有權限的說明，請參考Mozilla 提供的<a>常見問題解答<\/a>。",
-    "description":"Many permissions answer"
+  "add-ons-question": {
+    "description": "Add-ons installation question",
+    "message": "我可以安裝諸如 LastPass和Ghostery，或者其他第三方服務等的加載項嗎？"
   },
-  "flash-question":{
-    "message":"Adblock Browser 會支持 flash 視頻嗎？",
-    "description":"Flash video support question"
+  "chrome-bookmark-answer": {
+    "description": "Chrome bookmark import answer",
+    "message": "如果默認系統瀏覽器是 Chrome，那麽，您應該能夠從“設定 > 自定義 > 從安卓導入”中導入書簽。但是，如果默認瀏覽器不是Chrome，那麽，很遺憾，我們無能為力。"
   },
-  "flash-answer":{
-    "message":"Flash視頻確實可在Adblock Browser上使用，但是，您必須先安裝舊版的flash播放器。不過，不建議為安卓設備安裝Flash，因為它是不安全的，可能會導致存儲器損失或緩慢。若您仍要這樣做，請參考來自Mozilla的 <a>這篇文章<\/a>。",
-    "description":"Flash video support answer"
+  "chrome-bookmark-question": {
+    "description": "Chrome bookmark import question",
+    "message": "如何從 Chrome 導入書籤？"
   },
-  "firefox-sync-question":{
-    "message":"你們會提供 Firefox 同步嗎？",
-    "description":"Firefox synchronization question"
+  "custom-filter-answer": {
+    "description": "Adding custom filters answer",
+    "message": "我們正在考慮提供這個功能，並且希望在未來的版本中添加它。"
   },
-  "firefox-sync-answer":{
-    "message":"很多人問過這個問題，我們也認為這是一個重要功能。因此，我們將盡力在未來發佈中啟用這個功能。",
-    "description":"Firefox synchronization answer"
+  "custom-filter-question": {
+    "description": "Adding custom filters question",
+    "message": "我可以添加自定義過濾器或塊元素嗎？"
   },
-  "chrome-bookmark-question":{
-    "message":"如何從 Chrome 導入書籤？",
-    "description":"Chrome bookmark import question"
+  "firefox-sync-answer": {
+    "description": "Firefox synchronization answer",
+    "message": "很多人問過這個問題，我們也認為這是一個重要功能。因此，我們將盡力在未來發佈中啟用這個功能。"
   },
-  "chrome-bookmark-answer":{
-    "message":"如果默認系統瀏覽器是 Chrome，那麽，您應該能夠從“設定 > 自定義 > 從安卓導入”中導入書簽。但是，如果默認瀏覽器不是Chrome，那麽，很遺憾，我們無能為力。",
-    "description":"Chrome bookmark import answer"
+  "firefox-sync-question": {
+    "description": "Firefox synchronization question",
+    "message": "你們會提供 Firefox 同步嗎？"
   },
-  "google-sync-question":{
-    "message":"若Chrome不是默認瀏覽器，你們會支持 Chrome \/ 谷歌帳戶（密碼、書簽，等等）同步嗎？",
-    "description":"Google account synchronization question"
+  "flash-answer": {
+    "description": "Flash video support answer",
+    "message": "Flash視頻確實可在Adblock Browser上使用，但是，您必須先安裝舊版的flash播放器。不過，不建議為安卓設備安裝Flash，因為它是不安全的，可能會導致存儲器損失或緩慢。若您仍要這樣做，請參考來自Mozilla的 <a>這篇文章</a>。"
   },
-  "google-sync-answer":{
-    "message":"很遺憾，安卓版的Firefox目前不支持該功能，我們會在新瀏覽器的功能中將它考慮在內，但是，目前，我們只能將這個問題留給Mozilla了。",
-    "description":"Google account synchronization answer"
+  "flash-question": {
+    "description": "Flash video support question",
+    "message": "Adblock Browser 會支持 flash 視頻嗎？"
   },
-  "add-ons-question":{
-    "message":"我可以安裝諸如 LastPass和Ghostery，或者其他第三方服務等的加載項嗎？",
-    "description":"Add-ons installation question"
+  "google-sync-answer": {
+    "description": "Google account synchronization answer",
+    "message": "很遺憾，安卓版的Firefox目前不支持該功能，我們會在新瀏覽器的功能中將它考慮在內，但是，目前，我們只能將這個問題留給Mozilla了。"
   },
-  "add-ons-answer":{
-    "message":"我們自己本身就是作為瀏覽器加載項起步的，因此，我們非常想要支持加載項，並且希望在未來也能夠支持。目前來說，如果擁有加載項會破壞協議的話，我們建議使用安裝有<a>Adblock Plus<\/a>的安卓版Firefox。",
-    "description":"Add-ons installation answer"
+  "google-sync-question": {
+    "description": "Google account synchronization question",
+    "message": "若Chrome不是默認瀏覽器，你們會支持 Chrome / 谷歌帳戶（密碼、書簽，等等）同步嗎？"
   },
-  "custom-filter-question":{
-    "message":"我可以添加自定義過濾器或塊元素嗎？",
-    "description":"Adding custom filters question"
+  "many-permissions-question": {
+    "description": "question heading",
+    "message": "安卓版的Adblock Browser為什麽需要這麽多的權限？"
   },
-  "custom-filter-answer":{
-    "message":"我們正在考慮提供這個功能，並且希望在未來的版本中添加它。",
-    "description":"Adding custom filters answer"
+  "permissions-detail-1": {
+    "description": "answer paragraph",
+    "message": "允許應用程式檢視有關裝置上活動的資訊（哪些應用程式正在執行、瀏覽歷程記錄和/或書籤，例如，從另一個瀏覽器匯入書籤和瀏覽歷程記錄）。"
   },
-  "version-question":{
-    "message":"你們會提供基於Chrome的Adblock Browser版本嗎？",
-    "description":"Chrome version question"
+  "permissions-detail-3": {
+    "description": "answer paragraph\n{1}: Google Maps",
+    "message": "當您選擇與 Google Maps 等網站分享您的位置時，使用裝置的位置。"
   },
-  "version-answer":{
-    "message":"我們的目標是無需建立一個基於 Chrome的獨立版本便可提供類似Chrome 的功能。",
-    "description":"Chrome version answer"
+  "permissions-detail-4": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "可用於讀取或修改您裝置的外部儲存體上的資訊，例如存取儲存於 SD 記憶卡上的視訊以上傳至 Facebook 和 Twitter 等社交媒體平台。"
   },
-  "title":{
-    "message":"常見問題解答"
+  "permissions-detail-6": {
+    "description": "answer paragraph\n{1}: Google Voice Search",
+    "message": "使用裝置的麥克風，例如 Google Voice Search 和 WebRTC（Web 即時通訊）中的語音到文字辨識。"
+  },
+  "permissions-detail-7": {
+    "description": "answer paragraph",
+    "message": "允許應用程式檢視有關 Wi-Fi 網路的資訊，例如是否啟用了 Wi-Fi 以及所連接的 Wi-Fi 裝置的名稱。"
+  },
+  "permissions-p-1": {
+    "description": "answer paragraph",
+    "message": "一般來說，瀏覽器比常規應用程式需要更多的使用權限才能為 Web 應用程式提供使用相機、麥克風等硬體功能（例如上傳您相機中的圖片）。"
+  },
+  "permissions-p-2": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Firefox, {3}: Firefox, {4}: Android, {5}: Adblock Browser, {6}: Android",
+    "message": "由於 Adblock 瀏覽器 基於 Firefox 平台，因此它需要同樣的使用權限才能實現 Firefox 的功能。Android 需要您接受所有權限才能安裝應用程式。這樣做您才會了解 Adblock 瀏覽器（Android 版）能夠實現哪些功能。"
+  },
+  "permissions-p-3": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Android",
+    "message": "Adblock 瀏覽器（Android 版）要求存取下列使用權限："
+  },
+  "permissions-p-4": {
+    "description": "paragraph\n{1}: Mozilla",
+    "message": "如果您需要更多資訊，請透過 Mozilla 參閱<a>本常見問題解答</a>。"
+  },
+  "permissions-title-1": {
+    "description": "question heading",
+    "message": "裝置和應用程式歷程記錄"
+  },
+  "permissions-title-2": {
+    "description": "question heading",
+    "message": "身分識別"
+  },
+  "permissions-title-3": {
+    "description": "question heading",
+    "message": "位置"
+  },
+  "permissions-title-4": {
+    "description": "question heading",
+    "message": "相片/多媒體/檔案"
+  },
+  "permissions-title-5": {
+    "description": "question heading",
+    "message": "相機"
+  },
+  "permissions-title-6": {
+    "description": "question heading",
+    "message": "麥克風"
+  },
+  "permissions-title-7": {
+    "description": "question heading",
+    "message": "Wi-Fi 連線資訊"
+  },
+  "premissions-detail-2": {
+    "description": "answer paragraph",
+    "message": "可以用於在您的裝置上找到帳戶、讀取您的連絡資訊或修改帳戶，例如跨裝置同步資訊，如書籤、密碼及開啟的索引標籤。"
+  },
+  "premissions-detail-5": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "使用裝置的相機，例如上傳圖片或視訊至 Facebook 和 Twitter 等社交媒體平台。"
+  },
+  "title": {
+    "message": "常見問題解答"
+  },
+  "version-answer": {
+    "description": "Chrome version answer",
+    "message": "我們的目標是無需建立一個基於 Chrome的獨立版本便可提供類似Chrome 的功能。"
+  },
+  "version-question": {
+    "description": "Chrome version question",
+    "message": "你們會提供基於Chrome的Adblock Browser版本嗎？"
   }
 }

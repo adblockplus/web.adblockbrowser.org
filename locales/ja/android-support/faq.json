@@ -1,69 +1,137 @@
 {
-  "many-permissions-question":{
-    "message":"Adblock Browser for Android にかなり多くのアクセス許可が必要な理由は何ですか。",
-    "description":"Many permissions questions"
+  "add-ons-answer": {
+    "description": "Add-ons installation answer",
+    "message": "当社自体もブラウザのアドオンから始まりましたのでアドオンに対する支援を強く望んでおり、この方針は将来でも変わることはありません。現在アドオンが使用できない場合は、<a>Adblock Plus</a>を持つ Firefox for Android を使用することをおすすめします。"
   },
-  "many-permissions-answer":{
-    "message":"一般的に、ブラウザでカメラやマイクなど（カメラから画像をアップロードするなど）のハードウェア機能を Web アプリケーションで使用できるようにするには、普通のアプリよりも多くのアクセス許可が必要とされます。Adblock Browser は Firefox に基づいているため、Firefox での同じ行為に対するアクセス許可とまったく同じものが必要となります。アクセス許可についての説明は、Mozilla の <a>FAQ<\/a> を参照してください。",
-    "description":"Many permissions answer"
+  "add-ons-question": {
+    "description": "Add-ons installation question",
+    "message": "LastPass や Ghostery などのサードパーティのアドオンをインストールできますか。"
   },
-  "flash-question":{
-    "message":"Adblock Browser でフラッシュのビデオを見ることができますか。",
-    "description":"Flash video support question"
+  "chrome-bookmark-answer": {
+    "description": "Chrome bookmark import answer",
+    "message": "デフォルトのシステムブラウザが Chrome である場合、［設定］> ［カスタマイズ］> [Android からインポート］でブックマークをインポートすることができるはずです。ただし、デフォルトのブラウザが Chrome でない場合は、残念ながらこのオプションは使用できません。"
   },
-  "flash-answer":{
-    "message":"Flash ビデオを Adblock Browser で閲覧することはできますが、その前に従来のフラッシュプレーヤーをインストールする必要があります。しかし、 Flash for Android をインストールするとメモリの損失と遅延の原因となる場合があり、システムが不安定になりますのでおすすめできません。それでもインストールしたい場合は、Mozilla の<a>記事<\/a>を参照してください。",
-    "description":"Flash video support answer"
+  "chrome-bookmark-question": {
+    "description": "Chrome bookmark import question",
+    "message": "Chrome からブックマークをインポートする方法は？"
   },
-  "firefox-sync-question":{
-    "message":"Firefox Sync を提供しますか。",
-    "description":"Firefox synchronization question"
+  "custom-filter-answer": {
+    "description": "Adding custom filters answer",
+    "message": "カスタムフィルタの提供はすでに検討されており、将来のリリースに追加したく思っています。"
   },
-  "firefox-sync-answer":{
-    "message":"この機能を要請する人は多く、その重要性は当社も認識しています。このため、将来のリリースで有効にできるように取り組んでおります。",
-    "description":"Firefox synchronization answer"
+  "custom-filter-question": {
+    "description": "Adding custom filters question",
+    "message": "自作フィルタを追加、または要素をブロックできますか。"
   },
-  "chrome-bookmark-question":{
-    "message":"Chrome からブックマークをインポートする方法は？",
-    "description":"Chrome bookmark import question"
+  "firefox-sync-answer": {
+    "description": "Firefox synchronization answer",
+    "message": "この機能を要請する人は多く、その重要性は当社も認識しています。このため、将来のリリースで有効にできるように取り組んでおります。"
   },
-  "chrome-bookmark-answer":{
-    "message":"デフォルトのシステムブラウザが Chrome である場合、［設定］> ［カスタマイズ］> [Android からインポート］でブックマークをインポートすることができるはずです。ただし、デフォルトのブラウザが Chrome でない場合は、残念ながらこのオプションは使用できません。",
-    "description":"Chrome bookmark import answer"
+  "firefox-sync-question": {
+    "description": "Firefox synchronization question",
+    "message": "Firefox Sync を提供しますか。"
   },
-  "google-sync-question":{
-    "message":"Chromeがデフォルトのブラウザでない場合でも、ChromeやGoogleアカウント（パスワードやブックマークなど）の同期を使用することができますか。",
-    "description":"Google account synchronization question"
+  "flash-answer": {
+    "description": "Flash video support answer",
+    "message": "Flash ビデオを Adblock Browser で閲覧することはできますが、その前に従来のフラッシュプレーヤーをインストールする必要があります。しかし、 Flash for Android をインストールするとメモリの損失と遅延の原因となる場合があり、システムが不安定になりますのでおすすめできません。それでもインストールしたい場合は、Mozilla の<a>記事</a>を参照してください。"
   },
-  "google-sync-answer":{
-    "message":"残念ながら、これは現在 Firefox for Android の機能ではありませんので、これは今のところ新機能として考えられ、これは Mozilla の開発者におまかせします。",
-    "description":"Google account synchronization answer"
+  "flash-question": {
+    "description": "Flash video support question",
+    "message": "Adblock Browser でフラッシュのビデオを見ることができますか。"
   },
-  "add-ons-question":{
-    "message":"LastPass や Ghostery などのサードパーティのアドオンをインストールできますか。",
-    "description":"Add-ons installation question"
+  "google-sync-answer": {
+    "description": "Google account synchronization answer",
+    "message": "残念ながら、これは現在 Firefox for Android の機能ではありませんので、これは今のところ新機能として考えられ、これは Mozilla の開発者におまかせします。"
   },
-  "add-ons-answer":{
-    "message":"当社自体もブラウザのアドオンから始まりましたのでアドオンに対する支援を強く望んでおり、この方針は将来でも変わることはありません。現在アドオンが使用できない場合は、<a>Adblock Plus<\/a>を持つ Firefox for Android を使用することをおすすめします。",
-    "description":"Add-ons installation answer"
+  "google-sync-question": {
+    "description": "Google account synchronization question",
+    "message": "Chromeがデフォルトのブラウザでない場合でも、ChromeやGoogleアカウント（パスワードやブックマークなど）の同期を使用することができますか。"
   },
-  "custom-filter-question":{
-    "message":"自作フィルタを追加、または要素をブロックできますか。",
-    "description":"Adding custom filters question"
+  "many-permissions-question": {
+    "description": "question heading",
+    "message": "Adblock Browser for Android にかなり多くのアクセス許可が必要な理由は何ですか。"
   },
-  "custom-filter-answer":{
-    "message":"カスタムフィルタの提供はすでに検討されており、将来のリリースに追加したく思っています。",
-    "description":"Adding custom filters answer"
+  "permissions-detail-1": {
+    "description": "answer paragraph",
+    "message": "使用中のアプリやブックマークのインポートや他のブラウザからの閲覧履歴などの閲覧履歴及びブックマークなど、端末の利用状況に関する情報へのアクセスをアプリに許可します。"
   },
-  "version-question":{
-    "message":"Chrome ベースの Adblock Browser のバージョンを提供する予定ですか。",
-    "description":"Chrome version question"
+  "permissions-detail-3": {
+    "description": "answer paragraph\n{1}: Google Maps",
+    "message": "位置情報をGoogle Mapsなどのウェブサイトと共有することを選択した場合、端末の位置情報を使用します。"
   },
-  "version-answer":{
-    "message":"Chrome ベースの個別バージョンをつくるのではなく、Chrome に似た機能を提供することが目標となっています。",
-    "description":"Chrome version answer"
+  "permissions-detail-4": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "SDカードに保存した動画にアクセスしたり、FacebookやTwitterなどのソーシャルメディア・プラットフォームにアップロードしたりするなど、端末の外部ストーレージ上の情報にアクセスまたは変更するために使用します。"
   },
-  "title":{
-    "message":"FAQ"
+  "permissions-detail-6": {
+    "description": "answer paragraph\n{1}: Google Voice Search",
+    "message": "Google Voice SearchやWebRTC（ウェブリアルタイムコミュニケーション）の音声認識などで、端末のマイクを使用します。"
+  },
+  "permissions-detail-7": {
+    "description": "answer paragraph",
+    "message": "Wi-Fiの有効/無効、接続したWi-Fi端末の名前など、Wi-Fiネットワーク接続に関する情報へのアプリのアクセスを許可します。"
+  },
+  "permissions-p-1": {
+    "description": "answer paragraph",
+    "message": "一般的にブラウザは、ウェブアプリケーションにカメラやマイクなどハードウェア機能（画像をカメラからアップロードするなど）を使用する能力を与えるため、通常のアプリよりも多くの権限を必要とします。"
+  },
+  "permissions-p-2": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Firefox, {3}: Firefox, {4}: Android, {5}: Adblock Browser, {6}: Android",
+    "message": "Adblock BrowserはFirefoxのプラットフォームに基づいているため、Firefoxと同じ権限を要求します。このアプリをインストールするには、Androidですべての権限を付与することが必要です。これを実行することで、ユーザーはAdblock BrowserがAndroidに許可する内容を理解します。"
+  },
+  "permissions-p-3": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Android",
+    "message": "Android用Adblock Browserは、以下のアクセス権限を要求します："
+  },
+  "permissions-p-4": {
+    "description": "paragraph\n{1}: Mozilla",
+    "message": "詳細情報は<a>MozillaのFAQ</a>をご覧ください。"
+  },
+  "permissions-title-1": {
+    "description": "question heading",
+    "message": "端末とアプリの履歴"
+  },
+  "permissions-title-2": {
+    "description": "question heading",
+    "message": "ID"
+  },
+  "permissions-title-3": {
+    "description": "question heading",
+    "message": "位置情報"
+  },
+  "permissions-title-4": {
+    "description": "question heading",
+    "message": "画像/メディア/ファイル"
+  },
+  "permissions-title-5": {
+    "description": "question heading",
+    "message": "カメラ"
+  },
+  "permissions-title-6": {
+    "description": "question heading",
+    "message": "マイク"
+  },
+  "permissions-title-7": {
+    "description": "question heading",
+    "message": "Wi-Fi接続情報"
+  },
+  "premissions-detail-2": {
+    "description": "answer paragraph",
+    "message": "端末上のアカウントを特定したり、連絡先情報にアクセスしたり、複数の端末間における、ブックマーク、パスワード、開いているタブなどの情報の同期を例とするアカウント変更に使用します。"
+  },
+  "premissions-detail-5": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "FacebookやTwitterなどのソーシャルメディア・プラットフォームに画像や動画をアップロードするなど、端末のカメラを使用します。"
+  },
+  "title": {
+    "message": "FAQ"
+  },
+  "version-answer": {
+    "description": "Chrome version answer",
+    "message": "Chrome ベースの個別バージョンをつくるのではなく、Chrome に似た機能を提供することが目標となっています。"
+  },
+  "version-question": {
+    "description": "Chrome version question",
+    "message": "Chrome ベースの Adblock Browser のバージョンを提供する予定ですか。"
   }
 }

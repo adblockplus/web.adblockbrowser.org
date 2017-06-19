@@ -1,69 +1,137 @@
 {
-  "many-permissions-question":{
-    "message":"Por que o navegador Adblock para o Android requer tantas permissões?",
-    "description":"Many permissions questions"
+  "add-ons-answer": {
+    "description": "Add-ons installation answer",
+    "message": "Como nós mesmos começamos como complemento para navegadores, sentimos uma grande necessidade de suportar Add-ons e desejamos fazer isso no futuro. No momento, se o uso de add-ons for um obstáculo, recomendamos o uso do Firefox para Android com <a>Adblock Plus</a>."
   },
-  "many-permissions-answer":{
-    "message":"Geralmente, navegadores requerem mais permissões do que aplicativos comuns para permitir que aplicativos web use funcionalidades físicas, como câmera, microfone, etc. (ex. enviar imagens da sua câmera). Como o Adblock Browser é baseado em Firefox, ele requisitará as mesmas permissões para as mesmas ações assim como no Firefox. Para uma descrição de todas as permissões, leia as <a>Perguntas frequentes<\/a> do Mozilla.",
-    "description":"Many permissions answer"
+  "add-ons-question": {
+    "description": "Add-ons installation question",
+    "message": "Posso instalar Add-ons como o LastPass e Ghostery ou outros serviços de terceiros?"
   },
-  "flash-question":{
-    "message":"O Adblock Browser suporta vídeos em Flash?",
-    "description":"Flash video support question"
+  "chrome-bookmark-answer": {
+    "description": "Chrome bookmark import answer",
+    "message": "Se o Chrome for o navegador padrão, você poderá importar favoritos em Configurações > Personalizar > Importar do Android. No entanto, se o navegador padrão NÂO for o Chrome, infelizmente, não há o que possamos fazer."
   },
-  "flash-answer":{
-    "message":"Vídeos em Flash funcionam no Adblock Browser, mas você deve instalar o Flash Player já existente antes. No entanto, instalar o Flash para Android não é recomendável, pois não é seguro e pode causar perda e lentidão da memória. Caso você queira fazer isso mesmo assim, leia <a> este artigo<\/a> do Mozilla.",
-    "description":"Flash video support answer"
+  "chrome-bookmark-question": {
+    "description": "Chrome bookmark import question",
+    "message": "Como importar favoritos do Chrome?"
   },
-  "firefox-sync-question":{
-    "message":"Oferece o Firefox sync?",
-    "description":"Firefox synchronization question"
+  "custom-filter-answer": {
+    "description": "Adding custom filters answer",
+    "message": "Estamos avaliando o recurso e pretendemos incluí-lo em versões futuras."
   },
-  "firefox-sync-answer":{
-    "message":"Muitas pessoas fazem esta pergunta e nós concordamos que é um recurso importante. Por isso, estamos trabalhando para oferecer esse recurso em uma versão futura.",
-    "description":"Firefox synchronization answer"
+  "custom-filter-question": {
+    "description": "Adding custom filters question",
+    "message": "Posso adicionar filtros personalizados ou bloquear elementos?"
   },
-  "chrome-bookmark-question":{
-    "message":"Como importar favoritos do Chrome?",
-    "description":"Chrome bookmark import question"
+  "firefox-sync-answer": {
+    "description": "Firefox synchronization answer",
+    "message": "Muitas pessoas fazem esta pergunta e nós concordamos que é um recurso importante. Por isso, estamos trabalhando para oferecer esse recurso em uma versão futura."
   },
-  "chrome-bookmark-answer":{
-    "message":"Se o Chrome for o navegador padrão, você poderá importar favoritos em Configurações > Personalizar > Importar do Android. No entanto, se o navegador padrão NÂO for o Chrome, infelizmente, não há o que possamos fazer.",
-    "description":"Chrome bookmark import answer"
+  "firefox-sync-question": {
+    "description": "Firefox synchronization question",
+    "message": "Oferece o Firefox sync?"
   },
-  "google-sync-question":{
-    "message":"Vocês oferecerão suporte para sincronização de contas Chrome\/Google (senha, favoritos, etc.) quando o Chrome não for o navegador padrão?",
-    "description":"Google account synchronization question"
+  "flash-answer": {
+    "description": "Flash video support answer",
+    "message": "Vídeos em Flash funcionam no Adblock Browser, mas você deve instalar o Flash Player já existente antes. No entanto, instalar o Flash para Android não é recomendável, pois não é seguro e pode causar perda e lentidão da memória. Caso você queira fazer isso mesmo assim, leia <a> este artigo</a> do Mozilla."
   },
-  "google-sync-answer":{
-    "message":"Infelizmente, este recurso ainda não está disponível no Firefox para Android. Novas funcionalidades do navegador são sugestões que podem ser enviadas à equipe do Mozilla.",
-    "description":"Google account synchronization answer"
+  "flash-question": {
+    "description": "Flash video support question",
+    "message": "O Adblock Browser suporta vídeos em Flash?"
   },
-  "add-ons-question":{
-    "message":"Posso instalar Add-ons como o LastPass e Ghostery ou outros serviços de terceiros?",
-    "description":"Add-ons installation question"
+  "google-sync-answer": {
+    "description": "Google account synchronization answer",
+    "message": "Infelizmente, este recurso ainda não está disponível no Firefox para Android. Novas funcionalidades do navegador são sugestões que podem ser enviadas à equipe do Mozilla."
   },
-  "add-ons-answer":{
-    "message":"Como nós mesmos começamos como complemento para navegadores, sentimos uma grande necessidade de suportar Add-ons e desejamos fazer isso no futuro. No momento, se o uso de add-ons for um obstáculo, recomendamos o uso do Firefox para Android com <a>Adblock Plus<\/a>.",
-    "description":"Add-ons installation answer"
+  "google-sync-question": {
+    "description": "Google account synchronization question",
+    "message": "Vocês oferecerão suporte para sincronização de contas Chrome/Google (senha, favoritos, etc.) quando o Chrome não for o navegador padrão?"
   },
-  "custom-filter-question":{
-    "message":"Posso adicionar filtros personalizados ou bloquear elementos?",
-    "description":"Adding custom filters question"
+  "many-permissions-question": {
+    "description": "question heading",
+    "message": "Por que o navegador Adblock para o Android requer tantas permissões?"
   },
-  "custom-filter-answer":{
-    "message":"Estamos avaliando o recurso e pretendemos incluí-lo em versões futuras.",
-    "description":"Adding custom filters answer"
+  "permissions-detail-1": {
+    "description": "answer paragraph",
+    "message": "Permite a exibição de informações sobre a atividade do dispositivo, os aplicativos que estão sendo executados, o histórico de navegação e/ou marcadores, por exemplo, a importação de marcadores e histórico de navegação a partir de outro navegador."
   },
-  "version-question":{
-    "message":"Vocês oferecem uma versão do Adblock Browser baseado em Chrome?",
-    "description":"Chrome version question"
+  "permissions-detail-3": {
+    "description": "answer paragraph\n{1}: Google Maps",
+    "message": "Usa a local do dispositivo quando você optar por compartilhar a sua local com um site como o Google Maps."
   },
-  "version-answer":{
-    "message":"Nosso objetivo é oferecer recursos semelhantes aos recursos do Chrome sem criar uma versão separada com base no Chrome.",
-    "description":"Chrome version answer"
+  "permissions-detail-4": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "Pode ser usado para ler ou modificar informações sobre o dispositivo de armazenamento externo, por exemplo, acessar um vídeo armazenado em um cartão SD para fazer o upload para plataformas de mídia social como Facebook e o Twitter."
   },
-  "title":{
-    "message":"Perguntas frequentes"
+  "permissions-detail-6": {
+    "description": "answer paragraph\n{1}: Google Voice Search",
+    "message": "Usa o(s) microfone(s) do dispositivo, por exemplo, para reconhecimento de voz na Pesquisa do Google e WebRTC (Comunicação online em tempo real)."
+  },
+  "permissions-detail-7": {
+    "description": "answer paragraph",
+    "message": "Permite a exibição de informações sobre a rede Wi-Fi, por exemplo, se o Wi-Fi está ativado e os nomes de dispositivos Wi-Fi conectados."
+  },
+  "permissions-p-1": {
+    "description": "answer paragraph",
+    "message": "Geralmente, os navegadores exigem mais permissões que os aplicativos comuns para ser capaz de fornecer aos aplicativos online a capacidade de usar a funcionalidade de hardware como câmera, microfone, etc. (ex: carregar imagens da sua câmara)."
+  },
+  "permissions-p-2": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Firefox, {3}: Firefox, {4}: Android, {5}: Adblock Browser, {6}: Android",
+    "message": "Como o Adblock Browser é baseado na plataforma do Firefox, ele pede as mesmas permissões para fazer as mesmas coisas que o Firefox faz. A Android exige que você aceite todas as permissões antes de instalar o aplicativo. Fazendo isso, você reconhece que está ciente do que o Adblock Browser para Android é capaz de fazer."
+  },
+  "permissions-p-3": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Android",
+    "message": "O Adblock Browser para Android solicita as seguintes permissões:"
+  },
+  "permissions-p-4": {
+    "description": "paragraph\n{1}: Mozilla",
+    "message": "Se você precisar de mais informações, consulte as <a>Perguntas Frequentes do Mozilla</a>."
+  },
+  "permissions-title-1": {
+    "description": "question heading",
+    "message": "Histórico do dispositivo e apps"
+  },
+  "permissions-title-2": {
+    "description": "question heading",
+    "message": "Identidade"
+  },
+  "permissions-title-3": {
+    "description": "question heading",
+    "message": "Local"
+  },
+  "permissions-title-4": {
+    "description": "question heading",
+    "message": "Fotos/mídia/arquivos"
+  },
+  "permissions-title-5": {
+    "description": "question heading",
+    "message": "Câmera"
+  },
+  "permissions-title-6": {
+    "description": "question heading",
+    "message": "Microfone"
+  },
+  "permissions-title-7": {
+    "description": "question heading",
+    "message": "Informações de conexão Wi-Fi"
+  },
+  "premissions-detail-2": {
+    "description": "answer paragraph",
+    "message": "Pode ser usado para localizar contas no seu dispositivo, ler informações de contato ou modificar contas, por exemplo, sincronizar informações, como marcadores, senhas e guias abertas, através de dispositivos."
+  },
+  "premissions-detail-5": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "Usa a(s) câmera(s) do dispositivo, por exemplo, para fazer upload de imagens ou vídeos para plataformas de mídia social como Facebook e o Twitter."
+  },
+  "title": {
+    "message": "Perguntas frequentes"
+  },
+  "version-answer": {
+    "description": "Chrome version answer",
+    "message": "Nosso objetivo é oferecer recursos semelhantes aos recursos do Chrome sem criar uma versão separada com base no Chrome."
+  },
+  "version-question": {
+    "description": "Chrome version question",
+    "message": "Vocês oferecem uma versão do Adblock Browser baseado em Chrome?"
   }
 }

@@ -1,69 +1,137 @@
 {
-  "many-permissions-question":{
-    "message":"Dlaczego aplikacja Adblock Browser dla systemu Android wymaga tak wielu zezwoleń?",
-    "description":"Many permissions questions"
+  "add-ons-answer": {
+    "description": "Add-ons installation answer",
+    "message": "Ponieważ sami zaczynaliśmy jako dodatek do przeglądarki, mocno wspieramy dodatki i mamy nadzieję obsługiwać je w przyszłości. W chwili obecnej, jeśli dodatki stanowią czynnik uniemożliwiający korzystanie z usługi, polecamy użycie przeglądarki Firefox dla systemu Android z dodatkiem <a>Adblock Plus</a>."
   },
-  "many-permissions-answer":{
-    "message":"Zasadniczo przeglądarki wymagają więcej zezwoleń niż normalne aplikacje, aby aplikacje internetowe mogły korzystać z funkcji sprzętowych, takich jak aparat fotograficzny, mikrofon itd. (np. przesyłanie obrazów z aparatu fotograficznego). Ponieważ aplikacja Adblock Browser jest oparta na przeglądarce Firefox, żąda ona dokładnie takich samych zezwoleń, aby mieć tę samą funkcjonalność, jaką ma przeglądarka Firefox. Wyjaśnienia dotyczące wszystkich zezwoleń można znaleźć w <a>niniejszych Najczęściej zadawanych pytaniach<\/a> przeglądarki Mozilla.",
-    "description":"Many permissions answer"
+  "add-ons-question": {
+    "description": "Add-ons installation question",
+    "message": "Czy można zainstalować dodatki, takie jak LastPass i Ghostery czy usługi innych firm?"
   },
-  "flash-question":{
-    "message":"Czy aplikacja Adblock Browser obsługuje pliki wideo flash?",
-    "description":"Flash video support question"
+  "chrome-bookmark-answer": {
+    "description": "Chrome bookmark import answer",
+    "message": "Jeśli domyślną przeglądarką systemu jest Chrome, powinna istnieć możliwość zaimportowania zakładek za pomocą Ustawienia > Dostosuj > Importuj z systemu Android. Jeśli jednak domyślną przeglądarką NIE jest Chrome, to niestety nic nie możemy zrobić."
   },
-  "flash-answer":{
-    "message":"Pliki wideo Flash działają w aplikacji Adblock Browser, ale należy zainstalować najpierw starszą wersję odtwarzacza flash. Jednakże nie zaleca się instalowania aplikacji Flash dla systemu Android, ponieważ nie jest ona bezpieczna i może przyczyniać się do utraty pamięci i spowolnienia systemu. Jeśli w dalszym ciągu chcesz ją zainstalować, przeczytaj <a>niniejszy artykuł<\/a> z przeglądarki Mozilla.",
-    "description":"Flash video support answer"
+  "chrome-bookmark-question": {
+    "description": "Chrome bookmark import question",
+    "message": "Jak zaimportować zakładki z przeglądarki Chrome?"
   },
-  "firefox-sync-question":{
-    "message":"Czy będziesz korzystać z funkcji synchronizacji przeglądarki Firefox?",
-    "description":"Firefox synchronization question"
+  "custom-filter-answer": {
+    "description": "Adding custom filters answer",
+    "message": "Staramy się zaoferować taką opcję i mamy nadzieję dodać ją do nowej wersji."
   },
-  "firefox-sync-answer":{
-    "message":"Wielu użytkowników pytało o to i zgadzamy się, że jest to istotna funkcja. Dlatego prowadzimy prace nad jej uruchomieniem w przyszłej wersji.",
-    "description":"Firefox synchronization answer"
+  "custom-filter-question": {
+    "description": "Adding custom filters question",
+    "message": "Czy można dodać niestandardowe filtry lub zablokować elementy?"
   },
-  "chrome-bookmark-question":{
-    "message":"Jak zaimportować zakładki z przeglądarki Chrome?",
-    "description":"Chrome bookmark import question"
+  "firefox-sync-answer": {
+    "description": "Firefox synchronization answer",
+    "message": "Wielu użytkowników pytało o to i zgadzamy się, że jest to istotna funkcja. Dlatego prowadzimy prace nad jej uruchomieniem w przyszłej wersji."
   },
-  "chrome-bookmark-answer":{
-    "message":"Jeśli domyślną przeglądarką systemu jest Chrome, powinna istnieć możliwość zaimportowania zakładek za pomocą Ustawienia > Dostosuj > Importuj z systemu Android. Jeśli jednak domyślną przeglądarką NIE jest Chrome, to niestety nic nie możemy zrobić.",
-    "description":"Chrome bookmark import answer"
+  "firefox-sync-question": {
+    "description": "Firefox synchronization question",
+    "message": "Czy będziesz korzystać z funkcji synchronizacji przeglądarki Firefox?"
   },
-  "google-sync-question":{
-    "message":"Czy będziesz korzystać z funkcji synchronizacji przeglądarki Chrome \/ konta Google (hasła, zakładki itd.), jeśli nie jest ona domyślną przeglądarką?",
-    "description":"Google account synchronization question"
+  "flash-answer": {
+    "description": "Flash video support answer",
+    "message": "Pliki wideo Flash działają w aplikacji Adblock Browser, ale należy zainstalować najpierw starszą wersję odtwarzacza flash. Jednakże nie zaleca się instalowania aplikacji Flash dla systemu Android, ponieważ nie jest ona bezpieczna i może przyczyniać się do utraty pamięci i spowolnienia systemu. Jeśli w dalszym ciągu chcesz ją zainstalować, przeczytaj <a>niniejszy artykuł</a> z przeglądarki Mozilla."
   },
-  "google-sync-answer":{
-    "message":"Niestety w chwili obecnej pprzeglądarka Firefox dla systemu Android nie posiada takiej funkcji i jako nowa funkcjonalność przeglądarki należy do decyzji pracowników firmy Mozilla.",
-    "description":"Google account synchronization answer"
+  "flash-question": {
+    "description": "Flash video support question",
+    "message": "Czy aplikacja Adblock Browser obsługuje pliki wideo flash?"
   },
-  "add-ons-question":{
-    "message":"Czy można zainstalować dodatki, takie jak LastPass i Ghostery czy usługi innych firm?",
-    "description":"Add-ons installation question"
+  "google-sync-answer": {
+    "description": "Google account synchronization answer",
+    "message": "Niestety w chwili obecnej pprzeglądarka Firefox dla systemu Android nie posiada takiej funkcji i jako nowa funkcjonalność przeglądarki należy do decyzji pracowników firmy Mozilla."
   },
-  "add-ons-answer":{
-    "message":"Ponieważ sami zaczynaliśmy jako dodatek do przeglądarki, mocno wspieramy dodatki i mamy nadzieję obsługiwać je w przyszłości. W chwili obecnej, jeśli dodatki stanowią czynnik uniemożliwiający korzystanie z usługi, polecamy użycie przeglądarki Firefox dla systemu Android z dodatkiem <a>Adblock Plus<\/a>.",
-    "description":"Add-ons installation answer"
+  "google-sync-question": {
+    "description": "Google account synchronization question",
+    "message": "Czy będziesz korzystać z funkcji synchronizacji przeglądarki Chrome / konta Google (hasła, zakładki itd.), jeśli nie jest ona domyślną przeglądarką?"
   },
-  "custom-filter-question":{
-    "message":"Czy można dodać niestandardowe filtry lub zablokować elementy?",
-    "description":"Adding custom filters question"
+  "many-permissions-question": {
+    "description": "question heading",
+    "message": "Dlaczego aplikacja Adblock Browser dla systemu Android wymaga tak wielu zezwoleń?"
   },
-  "custom-filter-answer":{
-    "message":"Staramy się zaoferować taką opcję i mamy nadzieję dodać ją do nowej wersji.",
-    "description":"Adding custom filters answer"
+  "permissions-detail-1": {
+    "description": "answer paragraph",
+    "message": "Udostępnia aplikacji informacje dotyczących działań wykonywanych za pomocą urządzenia, listę uruchomionych aplikacji, historię przeglądania i/lub zakładki (przykładowo w celu importowania zakładek i historii przeglądania z innej przeglądarki)."
   },
-  "version-question":{
-    "message":"Czy zaoferujecie wersję Adblock Browser opartą na przeglądarce Chrome?",
-    "description":"Chrome version question"
+  "permissions-detail-3": {
+    "description": "answer paragraph\n{1}: Google Maps",
+    "message": "Korzysta z funkcji lokalizacji urządzenia, aby udostępniać lokalizację użytkownika witrynie, takiej jak na przykład Mapy Google."
   },
-  "version-answer":{
-    "message":"Naszym celem jest zaoferowanie funkcji podobnych do Chrome bez tworzenia oddzielnej wersji opartej na przeglądarce Chrome.",
-    "description":"Chrome version answer"
+  "permissions-detail-4": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "Może służyć do odczytywania lub modyfikowania informacji w pamięci zewnętrznej urządzenia, takich jak filmy zapisane na karcie SD, lub do ich przekazywania na platformy mediów społecznościowych, takie jak Facebook czy Twitter."
   },
-  "title":{
-    "message":"Najczęściej zadawane pytania"
+  "permissions-detail-6": {
+    "description": "answer paragraph\n{1}: Google Voice Search",
+    "message": "Korzysta z mikrofonów urządzenia do przykładowo rozpoznawania mowy przez funkcję wyszukiwania głosowego Google i obsługi funkcji WebRTC (komunikacji w czasie rzeczywistym przez przeglądarkę internetową)."
+  },
+  "permissions-detail-7": {
+    "description": "answer paragraph",
+    "message": "Zezwala aplikacji na dostęp do informacji o sieciach Wi-Fi, takich jak stan komunikacji WiFi czy nazwy podłączonych urządzeń Wi-Fi."
+  },
+  "permissions-p-1": {
+    "description": "answer paragraph",
+    "message": "Ogólnie rzecz biorąc, przeglądarki wymagają większej liczby uprawnień niż zwykłe aplikacje, aby umożliwić aplikacjom internetowym obsługę funkcji sprzętowych, takich jak aparat, mikrofon itp. (przykładowo do przekazywania obrazów z aparatu)."
+  },
+  "permissions-p-2": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Firefox, {3}: Firefox, {4}: Android, {5}: Adblock Browser, {6}: Android",
+    "message": "Ponieważ przeglądarka Adblock Browser jest oparta na platformie Firefox, monituje o udzielenie dokładnie takich samych uprawnień do tych samych elementów, co Firefox. System Android wymaga zaakceptowania wszystkich uprawnień przez użytkownika przed instalacją aplikacji. Akceptując uprawnienia, użytkownik potwierdza, że zna działania wykonywane przez przeglądarkę Adblock Browser dla Android."
+  },
+  "permissions-p-3": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Android",
+    "message": "Adblock Browser dla Android wymaga dostępu do następujących uprawnień:"
+  },
+  "permissions-p-4": {
+    "description": "paragraph\n{1}: Mozilla",
+    "message": "Więcej informacji można uzyskać, przeglądając <a>najczęściej zadawane pytania dotyczące produktów Mozilla</a>."
+  },
+  "permissions-title-1": {
+    "description": "question heading",
+    "message": "Urządzenie i historia aplikacji"
+  },
+  "permissions-title-2": {
+    "description": "question heading",
+    "message": "Tożsamość"
+  },
+  "permissions-title-3": {
+    "description": "question heading",
+    "message": "Lokalizacja"
+  },
+  "permissions-title-4": {
+    "description": "question heading",
+    "message": "Zdjęcia, multimedia i pliki"
+  },
+  "permissions-title-5": {
+    "description": "question heading",
+    "message": "Aparat"
+  },
+  "permissions-title-6": {
+    "description": "question heading",
+    "message": "Mikrofon"
+  },
+  "permissions-title-7": {
+    "description": "question heading",
+    "message": "Informacje o połączeniu Wi-Fi"
+  },
+  "premissions-detail-2": {
+    "description": "answer paragraph",
+    "message": "Może służyć do odnajdywania kont na urządzeniu, odczytywania informacji o kontaktach lub do modyfikowania kont, przykładowo informacji o synchronizacji między urządzeniami, takich jak zakładki, hasła i otwarte karty."
+  },
+  "premissions-detail-5": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "Korzysta z aparatów urządzenia w celu przykładowo przekazywania obrazów lub filmów na platformy mediów społecznościowych, takie jak Facebook czy Twitter."
+  },
+  "title": {
+    "message": "Najczęściej zadawane pytania"
+  },
+  "version-answer": {
+    "description": "Chrome version answer",
+    "message": "Naszym celem jest zaoferowanie funkcji podobnych do Chrome bez tworzenia oddzielnej wersji opartej na przeglądarce Chrome."
+  },
+  "version-question": {
+    "description": "Chrome version question",
+    "message": "Czy zaoferujecie wersję Adblock Browser opartą na przeglądarce Chrome?"
   }
 }

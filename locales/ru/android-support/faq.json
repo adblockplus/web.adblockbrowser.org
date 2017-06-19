@@ -1,69 +1,137 @@
 {
-  "many-permissions-question":{
-    "message":"Почему Adblock Browser для Android запрашивает столько разрешений?",
-    "description":"Many permissions questions"
+  "add-ons-answer": {
+    "description": "Add-ons installation answer",
+    "message": "Мы сами начинали как расширение для браузера, поэтому понимаем, как важна поддержка расширений, и надеемся реализовать ее в будущем. А пока, если для вас очень важно использовать расширения, мы рекомендуем воспользоваться Firefox для Android с <a>Adblock Plus</a>."
   },
-  "many-permissions-answer":{
-    "message":"Обычно браузерам требуется больше разрешений, чем обычным программам, для того чтобы веб-приложения могли использовать такие аппаратные возможности, как камера, микрофон и пр. (например, для загрузки изображений с камеры). Adblock Browser построен на базе браузера Firefox и поэтому запрашивает точно такие же разрешения, как и Firefox. За объяснением всех запрашиваемых разрешений обратитесь к <a>FAQ<\/a> от Mozilla.",
-    "description":"Many permissions answer"
+  "add-ons-question": {
+    "description": "Add-ons installation question",
+    "message": "Можно ли установить такие расширения как LastPass, Ghostery или другие сторонние сервисы?"
   },
-  "flash-question":{
-    "message":"Будет ли Adblock Browser поддерживать Flash-видео?",
-    "description":"Flash video support question"
+  "chrome-bookmark-answer": {
+    "description": "Chrome bookmark import answer",
+    "message": "Если системным браузером по умолчанию является Chrome, вы можете импортировать закладки в меню Параметры > Настроить > Импорт из Android. Однако если Chrome НЕ установлен как браузер по умолчанию, мы, к сожалению, ничего не можем сделать."
   },
-  "flash-answer":{
-    "message":"Flash-видео проигрываются в Adblock Browser, однако для этого сначала нужно установить старую версию Flash-плеера. Тем не менее, мы не рекомендуем устанавливать Flash на Android, так как это небезопасно и может привести к повышенному потреблению памяти и медленной работе устройства. Если вы все равно хотите это сделать, обратитесь к <a>этой статье<\/a> Mozilla.",
-    "description":"Flash video support answer"
+  "chrome-bookmark-question": {
+    "description": "Chrome bookmark import question",
+    "message": "Как импортировать закладки из Chrome?"
   },
-  "firefox-sync-question":{
-    "message":"Будет ли доступна синхронизация с Firefox?",
-    "description":"Firefox synchronization question"
+  "custom-filter-answer": {
+    "description": "Adding custom filters answer",
+    "message": "Мы рассматриваем возможность реализации этой функции в следующих версиях."
   },
-  "firefox-sync-answer":{
-    "message":"Многие из вас об этом просили, и мы тоже считаем эту функцию очень важной. Поэтому мы работаем над ее реализацией в следующих версиях.",
-    "description":"Firefox synchronization answer"
+  "custom-filter-question": {
+    "description": "Adding custom filters question",
+    "message": "Можно ли добавлять пользовательские фильтры или блокировать отдельные элементы?"
   },
-  "chrome-bookmark-question":{
-    "message":"Как импортировать закладки из Chrome?",
-    "description":"Chrome bookmark import question"
+  "firefox-sync-answer": {
+    "description": "Firefox synchronization answer",
+    "message": "Многие из вас об этом просили, и мы тоже считаем эту функцию очень важной. Поэтому мы работаем над ее реализацией в следующих версиях."
   },
-  "chrome-bookmark-answer":{
-    "message":"Если системным браузером по умолчанию является Chrome, вы можете импортировать закладки в меню Параметры > Настроить > Импорт из Android. Однако если Chrome НЕ установлен как браузер по умолчанию, мы, к сожалению, ничего не можем сделать.",
-    "description":"Chrome bookmark import answer"
+  "firefox-sync-question": {
+    "description": "Firefox synchronization question",
+    "message": "Будет ли доступна синхронизация с Firefox?"
   },
-  "google-sync-question":{
-    "message":"Планируется ли поддержка синхронизации учетных записей Chrome\/Google (для паролей, закладок и т. д.), если Chrome не является браузером по умолчанию?",
-    "description":"Google account synchronization question"
+  "flash-answer": {
+    "description": "Flash video support answer",
+    "message": "Flash-видео проигрываются в Adblock Browser, однако для этого сначала нужно установить старую версию Flash-плеера. Тем не менее, мы не рекомендуем устанавливать Flash на Android, так как это небезопасно и может привести к повышенному потреблению памяти и медленной работе устройства. Если вы все равно хотите это сделать, обратитесь к <a>этой статье</a> Mozilla."
   },
-  "google-sync-answer":{
-    "message":"К сожалению, сейчас такой функции в Firefox для Android нет, и ее реализация будет считаться созданием новой функциональности браузера, а это на данный момент — дело команды Mozilla.",
-    "description":"Google account synchronization answer"
+  "flash-question": {
+    "description": "Flash video support question",
+    "message": "Будет ли Adblock Browser поддерживать Flash-видео?"
   },
-  "add-ons-question":{
-    "message":"Можно ли установить такие расширения как LastPass, Ghostery или другие сторонние сервисы?",
-    "description":"Add-ons installation question"
+  "google-sync-answer": {
+    "description": "Google account synchronization answer",
+    "message": "К сожалению, сейчас такой функции в Firefox для Android нет, и ее реализация будет считаться созданием новой функциональности браузера, а это на данный момент — дело команды Mozilla."
   },
-  "add-ons-answer":{
-    "message":"Мы сами начинали как расширение для браузера, поэтому понимаем, как важна поддержка расширений, и надеемся реализовать ее в будущем. А пока, если для вас очень важно использовать расширения, мы рекомендуем воспользоваться Firefox для Android с <a>Adblock Plus<\/a>.",
-    "description":"Add-ons installation answer"
+  "google-sync-question": {
+    "description": "Google account synchronization question",
+    "message": "Планируется ли поддержка синхронизации учетных записей Chrome/Google (для паролей, закладок и т. д.), если Chrome не является браузером по умолчанию?"
   },
-  "custom-filter-question":{
-    "message":"Можно ли добавлять пользовательские фильтры или блокировать отдельные элементы?",
-    "description":"Adding custom filters question"
+  "many-permissions-question": {
+    "description": "question heading",
+    "message": "Почему Adblock Browser для Android запрашивает столько разрешений?"
   },
-  "custom-filter-answer":{
-    "message":"Мы рассматриваем возможность реализации этой функции в следующих версиях.",
-    "description":"Adding custom filters answer"
+  "permissions-detail-1": {
+    "description": "answer paragraph",
+    "message": "Позволяет приложению просматривать информацию об активности устройства, о том, какие работают приложения, историю и/или закладки, например, импорт закладок и истории с другого браузера."
   },
-  "version-question":{
-    "message":"Планируете ли вы создание версии Adblock Browser на базе Chrome?",
-    "description":"Chrome version question"
+  "permissions-detail-3": {
+    "description": "answer paragraph\n{1}: Google Maps",
+    "message": "Использует местоположение устройства, если вы решаете поделиться своим местоположением с такими сайтами, как Google Maps."
   },
-  "version-answer":{
-    "message":"Наша цель — предоставить сравнимые с Chrome возможности, не создавая отдельную версию на базе Chrome.",
-    "description":"Chrome version answer"
+  "permissions-detail-4": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "Может быть использовано для чтения и редактирования информации на внешнем носителе вашего устройства, например, доступ к видеоданным, хранящимся на SD-карте, для загрузки в социальные сети, такие как Facebook и Twitter."
   },
-  "title":{
-    "message":"Часто задаваемые вопросы"
+  "permissions-detail-6": {
+    "description": "answer paragraph\n{1}: Google Voice Search",
+    "message": "Использует микрофон(-ы) устройства, например, для функции распознавания голоса в текст в Google Voice Search и WebRTC (веб-коммуникация в реальном времени)."
+  },
+  "permissions-detail-7": {
+    "description": "answer paragraph",
+    "message": "Позволяет приложению просматривать информацию о сетях Wi-Fi, например, включена ли Wi-Fi и имена подключенных Wi-Fi-устройств."
+  },
+  "permissions-p-1": {
+    "description": "answer paragraph",
+    "message": "Обычно, браузеры требует больше прав доступа, чем обычные приложения, чтобы веб-приложения могли использовать функции аппаратного обеспечения, такого как камера, микрофон и т.д. (например, загрузка изображений с вашей камеры)."
+  },
+  "permissions-p-2": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Firefox, {3}: Firefox, {4}: Android, {5}: Adblock Browser, {6}: Android",
+    "message": "Так как Adblock Browser основан на платформе Firefox, он требует точно такие же права доступа, что и Firefox, чтобы выполнять такие же функции. Android требует, чтобы вы дали все права доступа, чтобы можно было установить приложение. Сделав это, вы подтверждаете, что понимаете, какими возможностями обладает Adblock Browser для Android."
+  },
+  "permissions-p-3": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Android",
+    "message": "Adblock Browser для Android требует доступ к следующим правам:"
+  },
+  "permissions-p-4": {
+    "description": "paragraph\n{1}: Mozilla",
+    "message": "Если вам нужна более подробная информация, обратитесь к разделу <a>«ЧаВо» в Mozilla</a>."
+  },
+  "permissions-title-1": {
+    "description": "question heading",
+    "message": "История использования устройства и приложений"
+  },
+  "permissions-title-2": {
+    "description": "question heading",
+    "message": "Идентификационные данные"
+  },
+  "permissions-title-3": {
+    "description": "question heading",
+    "message": "Местоположение"
+  },
+  "permissions-title-4": {
+    "description": "question heading",
+    "message": "Фото/мультимедиа/файлы"
+  },
+  "permissions-title-5": {
+    "description": "question heading",
+    "message": "Камера"
+  },
+  "permissions-title-6": {
+    "description": "question heading",
+    "message": "Микрофон"
+  },
+  "permissions-title-7": {
+    "description": "question heading",
+    "message": "Данные о Wi-Fi-подключении"
+  },
+  "premissions-detail-2": {
+    "description": "answer paragraph",
+    "message": "Может быть использовано для поиска счетов на вашем устройстве, чтения вашей контактной информации или редактирования счетов, например, синхронизация информации, такой как закладки, пароли и открытые вкладки по устройствам."
+  },
+  "premissions-detail-5": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "Использует камеру(-ы) устройства, например для загрузки изображений или видео в социальные сети, такие как Facebook и Twitter."
+  },
+  "title": {
+    "message": "Часто задаваемые вопросы"
+  },
+  "version-answer": {
+    "description": "Chrome version answer",
+    "message": "Наша цель — предоставить сравнимые с Chrome возможности, не создавая отдельную версию на базе Chrome."
+  },
+  "version-question": {
+    "description": "Chrome version question",
+    "message": "Планируете ли вы создание версии Adblock Browser на базе Chrome?"
   }
 }

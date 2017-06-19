@@ -1,69 +1,137 @@
 {
-  "many-permissions-question":{
-    "message":"لماذا يطلب Adblock Browser لـ Android الكثير من الأذونات؟",
-    "description":"Many permissions questions"
+  "add-ons-answer": {
+    "description": "Add-ons installation answer",
+    "message": "بعد أن بدأنا بأنفسنا كإضافة لمتصفح، فإننا نشعر برغبتنا القوية في دعم الإضافات، ونأمل أن ندعمها في المستقبل. أما في الوقت الحالي، فلا يمكننا دعم الإضافات، ولذلك فنحن ننصح باستخدام <a>Adblock Plus</a> مع متصفح Firefox لـ Android."
   },
-  "many-permissions-answer":{
-    "message":"بشكل عام، تطلب المتصفحات أذونات أكثر من التطبيقات العادية وذلك تكون قادرة على تزويد تطبيقات الويب بالقدرة على استخدام وظائف العتاد التشغيلية مثل الكاميرا والميكروفون، إلخ. (على سبيل المثال، تحميل الصور من الكاميرا الخاصة بك). وبما أن Adblock Browser يعتمد أساسا على متصفح Firefox، فإنه يطلب نفس الأذونات لفعل نفس الأشياء التي يقوم بها متصفح Firefox. وللحصول على توضيح بشأن كل الأذونات، يرجى الرجوع إلى <a>هذه الأسئلة المتداولة<\/a> من Mozilla.",
-    "description":"Many permissions answer"
+  "add-ons-question": {
+    "description": "Add-ons installation question",
+    "message": "هل يمكنني تثبيت إضافات مثل LastPass أو Ghostery، أو غيرها من الخدمات المقدمة من أطراف ثالثة؟"
   },
-  "flash-question":{
-    "message":"هل سيدعم Adblock Browser support مقاطع الفيديو بصيغة فلاش؟",
-    "description":"Flash video support question"
+  "chrome-bookmark-answer": {
+    "description": "Chrome bookmark import answer",
+    "message": "إذا كان المتصفح الافتراضي للنظام هو Chrome، فستكون قادرا على استيراد الإشارات المرجعية من إعدادات > تخصيص > استيراد من Android. ومع ذلك، إذا لم يكن Chrome هو المتصفي الافتراضي، فللأسف ليس لدينا ما يمكننا القيام به."
   },
-  "flash-answer":{
-    "message":"إن مقاطع الفيديو بصيغة فلاش تعمل على Adblock Browser، لكن يجب عليك أولا تثبيت مشغل فلاش. ومع ذلك، فإن تثبيت فلاش على Android أمر لا ينصح به حيث أنه غير آمن وقد يسهم في فقدان أو ضياع الذاكرة. أما إذا كنت ما تزال ترغب في القيام بهذا، فيرجى الرجوع إلى <a>هذه المقالة<\/a> من Mozilla.",
-    "description":"Flash video support answer"
+  "chrome-bookmark-question": {
+    "description": "Chrome bookmark import question",
+    "message": "كيف يمكنني استيراد الإشارات المرجعية من Chrome؟"
   },
-  "firefox-sync-question":{
-    "message":"هل سوف توفرون ميزة المزامنة مع Firefox؟",
-    "description":"Firefox synchronization question"
+  "custom-filter-answer": {
+    "description": "Adding custom filters answer",
+    "message": "إننا نتطلع إلى توفير هذه الميزة ونأمل إضافتها في إصدار مستقبلي."
   },
-  "firefox-sync-answer":{
-    "message":"لقد سأل الكثير منكم هذا السؤال، ونحن نتفق معكم بشأن هذه الميزة الحاسمة. وهذا هو السبب في أننا نعمل على تمكين هذه الميزة إصدار مستقبلي.",
-    "description":"Firefox synchronization answer"
+  "custom-filter-question": {
+    "description": "Adding custom filters question",
+    "message": "هل يمكنني إضافة مصفيات مخصصة أو حجب عناصر؟"
   },
-  "chrome-bookmark-question":{
-    "message":"كيف يمكنني استيراد الإشارات المرجعية من Chrome؟",
-    "description":"Chrome bookmark import question"
+  "firefox-sync-answer": {
+    "description": "Firefox synchronization answer",
+    "message": "لقد سأل الكثير منكم هذا السؤال، ونحن نتفق معكم بشأن هذه الميزة الحاسمة. وهذا هو السبب في أننا نعمل على تمكين هذه الميزة إصدار مستقبلي."
   },
-  "chrome-bookmark-answer":{
-    "message":"إذا كان المتصفح الافتراضي للنظام هو Chrome، فستكون قادرا على استيراد الإشارات المرجعية من إعدادات > تخصيص > استيراد من Android. ومع ذلك، إذا لم يكن Chrome هو المتصفي الافتراضي، فللأسف ليس لدينا ما يمكننا القيام به.",
-    "description":"Chrome bookmark import answer"
+  "firefox-sync-question": {
+    "description": "Firefox synchronization question",
+    "message": "هل سوف توفرون ميزة المزامنة مع Firefox؟"
   },
-  "google-sync-question":{
-    "message":"هل سوف تدعمون المزامنة مع حساب Chrome \/ Google (كلمات المرور والإشارات المرجعية، إلخ.) في حال لم يكن Chrome هو المتصفح الافتراضي؟",
-    "description":"Google account synchronization question"
+  "flash-answer": {
+    "description": "Flash video support answer",
+    "message": "إن مقاطع الفيديو بصيغة فلاش تعمل على Adblock Browser، لكن يجب عليك أولا تثبيت مشغل فلاش. ومع ذلك، فإن تثبيت فلاش على Android أمر لا ينصح به حيث أنه غير آمن وقد يسهم في فقدان أو ضياع الذاكرة. أما إذا كنت ما تزال ترغب في القيام بهذا، فيرجى الرجوع إلى <a>هذه المقالة</a> من Mozilla."
   },
-  "google-sync-answer":{
-    "message":"للأسف، هذه الميزة غير متوفرة حاليا في متصفح Firefox لـ Android، ولهذا، سوف يتم أخذ هذه الوظيفة التشغيلية بعين الاعتبار في المتصفح الجديد، أما في الوقت الحالي، فإننا سنترك الأمر للأصدقاء في Mozilla.",
-    "description":"Google account synchronization answer"
+  "flash-question": {
+    "description": "Flash video support question",
+    "message": "هل سيدعم Adblock Browser support مقاطع الفيديو بصيغة فلاش؟"
   },
-  "add-ons-question":{
-    "message":"هل يمكنني تثبيت إضافات مثل LastPass أو Ghostery، أو غيرها من الخدمات المقدمة من أطراف ثالثة؟",
-    "description":"Add-ons installation question"
+  "google-sync-answer": {
+    "description": "Google account synchronization answer",
+    "message": "للأسف، هذه الميزة غير متوفرة حاليا في متصفح Firefox لـ Android، ولهذا، سوف يتم أخذ هذه الوظيفة التشغيلية بعين الاعتبار في المتصفح الجديد، أما في الوقت الحالي، فإننا سنترك الأمر للأصدقاء في Mozilla."
   },
-  "add-ons-answer":{
-    "message":"بعد أن بدأنا بأنفسنا كإضافة لمتصفح، فإننا نشعر برغبتنا القوية في دعم الإضافات، ونأمل أن ندعمها في المستقبل. أما في الوقت الحالي، فلا يمكننا دعم الإضافات، ولذلك فنحن ننصح باستخدام <a>Adblock Plus<\/a> مع متصفح Firefox لـ Android.",
-    "description":"Add-ons installation answer"
+  "google-sync-question": {
+    "description": "Google account synchronization question",
+    "message": "هل سوف تدعمون المزامنة مع حساب Chrome / Google (كلمات المرور والإشارات المرجعية، إلخ.) في حال لم يكن Chrome هو المتصفح الافتراضي؟"
   },
-  "custom-filter-question":{
-    "message":"هل يمكنني إضافة مصفيات مخصصة أو حجب عناصر؟",
-    "description":"Adding custom filters question"
+  "many-permissions-question": {
+    "description": "question heading",
+    "message": "لماذا يطلب Adblock Browser لـ Android الكثير من الأذونات؟"
   },
-  "custom-filter-answer":{
-    "message":"إننا نتطلع إلى توفير هذه الميزة ونأمل إضافتها في إصدار مستقبلي.",
-    "description":"Adding custom filters answer"
+  "permissions-detail-1": {
+    "description": "answer paragraph",
+    "message": "يتيح للتطبيق رؤية المعلومات المتعلقة بالنشاط الذي يتم القيام به في الجهاز و/أو التطبيقات التي يتم تشغيلها وسجل التصفح و/أو الإشارات المرجعية وسجل التصفح من متصفح آخر."
   },
-  "version-question":{
-    "message":"هل ستوفرون إصدار من Adblock Browser يستند على متصفح Chrome؟",
-    "description":"Chrome version question"
+  "permissions-detail-3": {
+    "description": "answer paragraph\n{1}: Google Maps",
+    "message": "يستخدم موقع الجهاز عندما تختار مشاركة موقعك مع أحد مواقع الويب مثل خرائط Google Maps."
   },
-  "version-answer":{
-    "message":"إن هدفنا هو تقديم مزايا مثل تلك الموجودة في متصفح Chrome بدون بناء إصدار منفصل يستند على متصفح Chrome.",
-    "description":"Chrome version answer"
+  "permissions-detail-4": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "يمكن استخدام هذا الإذن لقراءة أو تعديل المعلومات المخزنة في المساحة التخزينية بجهازك مثل الوصول إلى فيديو مخزن على بطاقة SD لرفعه على مواقع التواصل الاجتماعي مثل الفيس بوك أو تويتر."
   },
-  "title":{
-    "message":"الأسئلة المتداولة"
+  "permissions-detail-6": {
+    "description": "answer paragraph\n{1}: Google Voice Search",
+    "message": "يستخدم ميكروفون (ميكروفونات) الجهاز مثل التعرف على تحويل الصوت إلى نصوص في خدمة البحث الصوتي Google Voice Search وWebRTC (الاتصال القائم على الويب في الزمن الحقيقي)."
+  },
+  "permissions-detail-7": {
+    "description": "answer paragraph",
+    "message": "يتيح للتطبيق عرض المعلومات المتعلقة بالاتصال بشبكات الواي فاي كالمعلومات المتعلقة بتمكين أو عدم تمكين الواي فاي وأسماء أجهزة الواي فاي المتصلة."
+  },
+  "permissions-p-1": {
+    "description": "answer paragraph",
+    "message": "عادة تستلزم المتصفحات أذونات أكثر من التطبيقات العادية حتى تتمكن من تزويد تطبيقات الويب بالقدرة على الاستفادة من وظائف مكونات الأجهزة مثل الكاميرا أو الميكروفون أو غيرهما (كرفع الصور مثلاً من الكاميرا)."
+  },
+  "permissions-p-2": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Firefox, {3}: Firefox, {4}: Android, {5}: Adblock Browser, {6}: Android",
+    "message": "بما أن متصفح Adblock Browser يعتمد على نظام Firefox ، فإنه يطلب نفس الأذونات اللازمة لنفس الأشياء التي يقوم بها Firefox. يستلزم Android أن توافق على كل الأذونات لتثبيت التطبيق. عن طريق الموافقة عليها، أنت تقر بأنك تلم بالأمور التي يستطيع متصفح Adblock Browser في Android أن يقوم بها."
+  },
+  "permissions-p-3": {
+    "description": "answer paragraph\n{1}: Adblock Browser, {2}: Android",
+    "message": "يستلزم متصفح Adblock Browser في Android الوصول إلى الأذونات التالية:"
+  },
+  "permissions-p-4": {
+    "description": "paragraph\n{1}: Mozilla",
+    "message": "إذا كنت تحتاج إلى مزيدٍ من المعلومات، فالرجاء الرجوع إلى <a>الأسئلة المتداولة من Mozilla</a>."
+  },
+  "permissions-title-1": {
+    "description": "question heading",
+    "message": "الجهاز وسجل التطبيقات"
+  },
+  "permissions-title-2": {
+    "description": "question heading",
+    "message": "الهوية"
+  },
+  "permissions-title-3": {
+    "description": "question heading",
+    "message": "الموقع"
+  },
+  "permissions-title-4": {
+    "description": "question heading",
+    "message": "الصور/الوسائط/الملفات"
+  },
+  "permissions-title-5": {
+    "description": "question heading",
+    "message": "الكاميرا"
+  },
+  "permissions-title-6": {
+    "description": "question heading",
+    "message": "الميكروفون"
+  },
+  "permissions-title-7": {
+    "description": "question heading",
+    "message": "معلومات اتصال Wi-Fi"
+  },
+  "premissions-detail-2": {
+    "description": "answer paragraph",
+    "message": "يمكن استخدام هذا الإذن للبحث عن الحسابات في جهازك وقراءة معلومات الاتصال أو تعديل الحسابات مثل مزامنة المعلومات كالإشارات المرجعية وكلمات المرور وعلامات التبويب المفتوحة عبر الأجهزة."
+  },
+  "premissions-detail-5": {
+    "description": "answer paragraph\n{1}: Facebook, {2}: Twitter",
+    "message": "يستخدم هذا الإذن كاميرا (كاميرات) الجهاز مثلاً لرفع الصور أو الفيديوهات إلى مواقع التواصل الاجتماعي مثل Facebook و Twitter."
+  },
+  "title": {
+    "message": "الأسئلة المتداولة"
+  },
+  "version-answer": {
+    "description": "Chrome version answer",
+    "message": "إن هدفنا هو تقديم مزايا مثل تلك الموجودة في متصفح Chrome بدون بناء إصدار منفصل يستند على متصفح Chrome."
+  },
+  "version-question": {
+    "description": "Chrome version question",
+    "message": "هل ستوفرون إصدار من Adblock Browser يستند على متصفح Chrome؟"
   }
 }
