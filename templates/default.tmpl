@@ -18,11 +18,23 @@
 <!DOCTYPE html>
 <html lang="{{locale}}" dir="{{"rtl" if config.has_option("rtl", locale) else "ltr"}}">
   <head>
-    <title>{{title|translate("title")}}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{title|translate("title")}}</title>
+    <meta property="og:title" content="{{ title | translate("title") }}">
+    {% if description %}
+      <meta name="description" content="{{ description | translate("meta-description", "Page description") }}">
+      <meta property="og:description" content="{{ description | translate("meta-description") }}">
+    {% endif %}
+    <meta property="og:locale" content="{{ locale | to_og_locale }}">
+    {% for alternate_locale in locales %}
+      {% if alternate_locale != locale %}
+        <meta property="og:locale:alternate" content="{{ alternate_locale | to_og_locale }}">
+      {% endif %}
+    {% endfor %}
+    <meta property="og:url" content="{{ get_canonical_url(page) }}">
+    <link rel="canonical" href="{{ get_canonical_url(page) }}" />
     <link rel="stylesheet" href="/css/main.css" type="text/css" media="all" />
     <link rel="apple-touch-icon" href="/images/favicon-large.png" />
-    <link rel="canonical" href="https://adblockbrowser.org/{{ page[:-5] if page.split('/')[-1] == 'index' else page }}" />
     {{head|safe}}
     <!--[if lt lte 9]>
       <script src="/js/html5shiv.min.js"></script>
