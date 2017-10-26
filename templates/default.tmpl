@@ -31,7 +31,7 @@
         <meta property="og:locale:alternate" content="{{ alternate_locale | to_og_locale }}">
       {% endif %}
     {% endfor %}
-    <meta property="og:url" content="{{ get_canonical_url(page) }}">
+    <meta property="og:url" content="{{ config.get("general", "siteurl") }}{{ source.resolve_link(page, locale)[1] }}">
     <link rel="canonical" href="{{ get_canonical_url(page) }}" />
     <link rel="stylesheet" href="/css/main.css" type="text/css" media="all" />
     <link rel="apple-touch-icon" href="/images/favicon-large.png" />
