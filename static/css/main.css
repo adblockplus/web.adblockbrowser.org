@@ -411,6 +411,11 @@ html[dir="rtl"] #modal-close
   display: block;
 }
 
+.success #request-links
+{
+  display: none;
+}
+
 #modal, #overlay
 {
   opacity: 0;

@@ -12,7 +12,9 @@ document.querySelector("#email-me a").addEventListener("click", function(event)
 document.getElementById("modal-close").addEventListener("click", function(event)
 {
   event.preventDefault();
+  document.querySelector("#request-links input").value = "";
   document.body.removeAttribute("class");
+  document.getElementById("modal").removeAttribute("class");
 }, false);
 
 document.getElementById("request-links").addEventListener("submit", function(event)

@@ -1,9 +1,10 @@
 #{{modal-headline[Headline in "Email me the link" overlay] Send Adblock Browser to your smartphone or tablet}}
 
-{{modal-subheadline[Subheadline in "Email me the link" overlay] To receive the download link, please enter your email address}}
-
 <form id="request-links" accept-charset="utf-8">
-  <input type="email" name="email" placeholder="{{request-email[Placeholder text for inputbox in "Email me the link" overlay] Your email address}}" required />
+  <p>
+    <label for="email">{{modal-subheadline[Subheadline in "Email me the link" overlay] To receive the download link, please enter your email address}}</label>
+  </p>
+  <input type="email" name="email" id="email" placeholder="{{request-email[Placeholder text for inputbox in "Email me the link" overlay] Your email address}}" required />
   <button type="submit">{{submit-button-text[Submit button text in "Email me the link" overlay] Send me a link}}</button>
 </form>
 
