@@ -8,11 +8,11 @@
 [{{email-me[Text below badges on big screens] Email me the download link}}](#)
 {: #email-me }
 
-{{promotion-msg[Text on top of footnotes] The [most popular ad blocker](https://adblockplus.org) for desktop browsers is now available for your Android\* and iOS\*\* devices.}}
+{{promotion-msg[Text on top of footnotes] The [ad blocker](https://adblockplus.org) used on over 100 million devices is now available for your Android[*](#footnote-android){:.unstyled } and iOS devices[**](#footnote-ios){:.unstyled }. }}
 
 <div id="footnotes">
   <ul>
-    <li>{{footnotes1[First footnote] Adblock Browser is compatible with devices running Android 2.3 and above. Installation requires about 24 MB of internal storage, 384 MB of RAM and a display that is at least 320 pixels high and 240 pixels wide.}}</li>
-    <li>{{footnotes2[Second footnote] Only available on iPhone and iPad with iOS 8 and above installed.}}</li>
+    <li id="footnote-android">{{footnotes1[First footnote] Adblock Browser is compatible with devices running Android 2.3 and above. Installation requires about 24 MB of internal storage, 384 MB of RAM and a display that is at least 320 pixels high and 240 pixels wide.}}</li>
+    <li id="footnote-ios">{{footnotes2[Second footnote] Only available on iPhone and iPad with iOS 8 and above installed.}}</li>
   </ul>
 </div>

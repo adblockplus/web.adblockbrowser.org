@@ -607,3 +607,9 @@ html[dir="rtl"] #modal-close
     margin-top: 34px;
   }
 }
+
+.unstyled
+{
+  color: initial !important;
+  text-decoration: none !important;
+}
